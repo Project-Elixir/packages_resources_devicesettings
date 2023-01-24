@@ -162,9 +162,9 @@
     <string name="oneplus_advanced_settings_summary">Benutzerdefinierte Einstellungen für dein Gerät</string>
     <!-- OnePlus - PanelModes -->
     <string name="panel_modes_settings_title">Bedienfeld-Modus</string>
-    <string name="panel_modes_settings_summary">Choose a pre-made display calibration</string>
+    <string name="panel_modes_settings_summary">Vorgefertigte Bildschirmkalibrierung verwenden</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">Alert slider</string>
+    <string name="notification_slider_category_title">Schieberegler für Alarme</string>
     <string name="notification_slider_selection_dialog_title">Aktion</string>
     <string name="notification_slider_top_position">Oberste Position</string>
     <string name="notification_slider_middle_position">Mittlere Position</string>
@@ -177,7 +177,7 @@
     <string name="notification_slider_mode_none">Normal</string>
     <!-- Thermal profiles -->
     <string name="thermal_title">Optimierungsprofile</string>
-    <string name="thermal_summary">Adjust per-app profiles for optimum performance</string>
+    <string name="thermal_summary">Profile pro App für optimale Leistung anpassen</string>
     <string name="thermal_default">Keine Optimierung</string>
     <string name="thermal_benchmark">Leistung</string>
     <string name="thermal_browser">Browser</string>
@@ -187,31 +187,31 @@
     <string name="thermal_streaming">Streaming-Apps</string>
     <!-- Raise to wake strings-->
     <string name="raise_to_wake_gesture_title">Zum Wecken anheben</string>
-    <string name="raise_to_wake_gesture_summary">Wake up the device instead of pulsing notification</string>
+    <string name="raise_to_wake_gesture_summary">Aufwecken des Geräts statt pulsierender Benachrichtigung</string>
     <!-- Refresh Rate Settings -->
-    <string name="device_min_refresh_rate">Minimum refresh rate</string>
-    <string name="device_power_save_refresh_rate">Save battery automatically</string>
-    <string name="device_power_save_refresh_rate_switch">Automatically lower refresh rate when battery saver is active</string>
-    <string name="refresh_rate_settings_title">Screen refresh rate</string>
-    <string name="refresh_rate_settings_summary">Adjust screen refresh rate</string>
-    <string name="refresh_rate_tile_title">Refresh Rate</string>
-    <string name="refresh_rate_tile_disabled">Battery saver enabled</string>
+    <string name="device_min_refresh_rate">Minimale Aktualisierungsrate</string>
+    <string name="device_power_save_refresh_rate">Automatischer Stromsparer</string>
+    <string name="device_power_save_refresh_rate_switch">Automatisch niedrigere Bildwiederholfrequenz bei aktivem Stromsparer</string>
+    <string name="refresh_rate_settings_title">Bildwiederholfrequenz</string>
+    <string name="refresh_rate_settings_summary">Bildschirmaktualisierungsrate anpassen</string>
+    <string name="refresh_rate_tile_title">Aktualisierungsrate</string>
+    <string name="refresh_rate_tile_disabled">Stromsparer aktiviert</string>
     <!-- Touch Control Settings -->
-    <string name="touch_control_title">Touch screen optimizations</string>
+    <string name="touch_control_title">Touchscreen optimieren</string>
     <string name="touch_game_mode_title">Spielmodus aktivieren</string>
-    <string name="touch_game_mode_summary">Helps to improve the gaming experience by optimizing the touch screen</string>
-    <string name="touch_response_title">Touch response</string>
-    <string name="touch_response_summary">Controls touch response</string>
+    <string name="touch_game_mode_summary">Verbessert das Spielerlebnis durch Optimierung des Touchscreens</string>
+    <string name="touch_response_title">Berührungsaktionen</string>
+    <string name="touch_response_summary">Steuert die Berührungsreaktion</string>
     <string name="touch_sensitivity_title">Berührungsempfindlichkeit</string>
-    <string name="touch_sensitivity_summary">Controls the sensitivity for repeated taps</string>
-    <string name="touch_resistant_title">Touch-resistant area</string>
-    <string name="touch_resistant_summary">Reduces sensitivity near the edges to prevent accidental touches</string>
+    <string name="touch_sensitivity_summary">Steuert die Empfindlichkeit für wiederholtes Tippen</string>
+    <string name="touch_resistant_title">Berührungssicherer Bereich</string>
+    <string name="touch_resistant_summary">Reduziert die Empfindlichkeit in der Nähe der Kanten, um versehentliche Berührungen zu vermeiden</string>
     <!-- Button settings -->
     <string name="button_settings_title">Tasten</string>
     <string name="button_swap_summary">Navigationstasten tauschen</string>
     <string name="home_button_extra_settings">Home-Tasteverhalten anpassen</string>
     <!-- Assistant button -->
-    <string name="assistant_button_action">Assistant key action</string>
+    <string name="assistant_button_action">Assistent Schlüsselaktion</string>
     <!-- Stylus pen -->
     <string name="stylus_title">Eingabestift</string>
     <!-- High Brightness Mode-->
@@ -233,7 +233,7 @@
     <string name="lcd_cabc_medium">Mittel (Videos)</string>
     <string name="lcd_cabc_high">Hoch (Bilder)</string>
     <!-- Always on brightness -->
-    <string name="doze_brightness_title">Always on brightness</string>
+    <string name="doze_brightness_title">Immer auf Helligkeit</string>
     <string name="doze_brightness_summary">%s-Modus ist aktiviert</string>
     <string name="doze_brightness_low">Geringe Helligkeit</string>
     <string name="doze_brightness_high">Hohe Helligkeit</string>
@@ -247,6 +247,6 @@
     <string name="refresh_high">Hoch (90Hz)</string>
     <string name="refresh_extreme">Extrem (120Hz)</string>
     <!-- Powershare -->
-    <string name="powershare_enable_title">Battery Share</string>
-    <string name="powershare_enable_summary">Charge other devices by placing them on the back of your phone</string>
+    <string name="powershare_enable_title">Akkustand teilen</string>
+    <string name="powershare_enable_summary">Andere Geräte aufladen, indem du sie auf die Rückseite deines Telefon legst</string>
 </resources>
