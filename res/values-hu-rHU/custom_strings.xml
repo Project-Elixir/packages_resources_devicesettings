@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- DC Dimming settings -->
+    <string name="display_title">Képernyő</string>
+    <string name="dc_dimming_enable_title">Villódzáscsökkentő</string>
+    <string name="dc_dimming_enable_summary">A villódzáscsökkentő segít csökkenteni a szem terhelését alacsony fényviszonyoknál a \"DC dimming\" funkcióval. Csökkentheti a színpontosságot és kihatással lehet egyes elemek megjelenítésére.</string>
+    <string name="dc_dimming_enable_summary_not_supported">A villódzáscsökkentés nem támogatott a kernel által</string>
+    <!-- Dirac settings -->
+    <string name="dirac_enable">Mi Hangerősítő használata</string>
+    <string name="dirac_title">Mi Hangerősítő</string>
+    <string name="dirac_summary">Hangminőség optimalizálása</string>
+    <string name="dirac_headset_title">Fülhallgató típus kiválasztása</string>
+    <string name="dirac_preset_title">Válasszon egy beállítást</string>
+    <!-- Dirac settings: Hi-Fi -->
+    <string name="dirac_hifi_title">Hi-Fi</string>
+    <string name="dirac_hifi_summary">Csökkenti a zajt és a torzítást, növeli a hangminőséget</string>
+    <string name="dirac_hifi_enable_title">Hi-Fi engedélyezése</string>
+    <!-- Dirac settings: Headset types -->
+    <string name="dirac_headset_default">Alapértelmezett</string>
+    <string name="dirac_headset_earbuds">Mi Earbuds</string>
+    <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
+    <string name="dirac_headset_piston_1">Mi Piston-1</string>
+    <string name="dirac_headset_general">Általános</string>
+    <string name="dirac_headset_general_inear">Általános In-Ear fülhallgató</string>
+    <string name="dirac_headset_piston_basic">Basic Edition</string>
+    <string name="dirac_headset_piston_2">Mi Piston-2</string>
+    <string name="dirac_headset_piston_standard">Standard Edition</string>
+    <string name="dirac_headset_headphone">Mi fejhallgatók</string>
+    <string name="dirac_headset_piston_youth">Youth Edition</string>
+    <string name="dirac_headset_piston_color">Color Edition</string>
+    <string name="dirac_headset_in_ear">Mi In-Ear</string>
+    <string name="dirac_headset_capsule">Mi Capsule</string>
+    <string name="dirac_headset_in_ear_pro">Mi In-Ear Pro</string>
+    <string name="dirac_headset_comfort">Mi Comfort</string>
+    <string name="dirac_headset_reduction_noise">Mi Noise Cancelling Type-C</string>
+    <string name="dirac_headset_cancelling">Mi Noise Cancelling 3.5mm</string>
+    <string name="dirac_headset_half_in_ear">Mi Half In-Ear</string>
+    <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
+    <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
+    <string name="dirac_headset_earphone">Mi Earphones</string>
+    <!-- Dirac settings: Equalizer presets -->
+    <string name="dirac_preset_default">Alapértelmezett</string>
+    <string name="dirac_preset_rock">Rock</string>
+    <string name="dirac_preset_jazz">Jazz</string>
+    <string name="dirac_preset_pop">Pop</string>
+    <string name="dirac_preset_classical">Klasszikus</string>
+    <string name="dirac_preset_hiphop">Hip Hop</string>
+    <string name="dirac_preset_blues">Blues</string>
+    <string name="dirac_preset_electronic">Elektronikus</string>
+    <string name="dirac_preset_country">Country</string>
+    <string name="dirac_preset_dance">Dance</string>
+    <string name="dirac_preset_metal">Metál</string>
+    <string name="dirac_preset_bass_booster">Erősített basszus</string>
+    <string name="dirac_preset_live">Élő</string>
+    <string name="dirac_preset_balanced">Kiegyensúlyozott</string>
+    <string name="dirac_preset_bass_reduction">Csökkentett basszus</string>
+    <string name="dirac_preset_treble_reduction">Csökkentett magas hang</string>
+    <string name="dirac_preset_soft_bass">Lágy basszus</string>
+    <string name="dirac_preset_soft_treble">Lágy magas hang</string>
+    <!-- Dirac Scene Selection -->
+    <string name="music_headset_scenario_select">Válasszon jelenetet</string>
+    <string name="music_headset_scenario_intelligent">Intelligens</string>
+    <string name="music_headset_scenario_music">Zene</string>
+    <string name="music_headset_scenario_video">Videó</string>
+    <string name="music_headset_scenario_vocal">Hang</string>
+    <!-- Popup camera settings -->
+    <string name="popup_settings_title">Felugró kamera beállításai</string>
+    <string name="popup_led_title">Kamera LED</string>
+    <string name="popup_led_summary">Világítson a LED, amikor az elülső kamera megjelenik és visszahúzódik</string>
+    <string name="popup_sound_title">Hangeffektek</string>
+    <string name="popup_title_muqin">Xilofon</string>
+    <string name="popup_title_yingyan">Kondorkeselyű</string>
+    <string name="popup_title_mofa">Varázslat</string>
+    <string name="popup_title_jijia">Mecha</string>
+    <string name="popup_title_chilun">Fogaskerék</string>
+    <string name="popup_title_cangmen">Kabinajtó</string>
+    <!-- Popup camera strings -->
+    <string name="popup_camera_tip">Figyelem</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">Többszöri alkalommal sem sikerült bezárni az elülső kamerát. Próbálja meg kalibrálni.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">Többszöri alkalommal sem sikerült kinyitni az elülső kamerát. Próbálja meg kalibrálni.</string>
+    <string name="popup_camera_calibrate_running">Kalibráció alatt nem lehet használni az elülső kamerát.</string>
+    <string name="popup_camera_calibrate_now">Kalibrálás</string>
+    <string name="popup_camera_calibrate_failed">Kalibrálás nem sikerült</string>
+    <string name="popup_camera_calibrate_success">Sikeres kalibrálás. Mostmár használhatja az elülső kamerát.</string>
+    <string name="stop_operate_camera_frequently">Túl sűrűn nyitja ki az elülső kamerát.</string>
+    <string name="takeback_camera_front_failed">Nem sikerült bezárni az elülső kamerát. Próbálja újra.</string>
+    <string name="popup_camera_front_failed">Nem sikerült megnyitni az elülső kamerát. Próbálja újra.</string>
+    <string name="popup_camera_proximity_obstructed">Vegye el a kezét a közelségérzékelő elől, hogy megnyithassa az elülső kamerát...</string>
+    <!-- Clear Speaker -->
+    <string name="clear_speaker_title">Hangszóró tisztítása</string>
+    <string name="clear_speaker_summary">30 másodperces hang lejátszása a hangszóró tisztításához</string>
+    <string name="clear_speaker_description">Futtassa le 1-2 alkalommal, ha a hangszóró halkan szól vagy koszos. Állítsa a hangerőt maximumra.\n\nHa a hangszóró nagyon koszos vagy el van tömődve, akkor futtassa le 2-5 alkalommal miközben megrázza a készüléket arcal lefelé fordítva.</string>
+    <!-- Moto Actions - Title and summary -->
+    <string name="moto_actions_title">Moto műveletek</string>
+    <!-- Device gestures -->
+    <string name="device_gestures_title">Gesztusok</string>
+    <string name="device_gestures_summary">Gesztusok kezelése</string>
+    <!-- Ambient display gestures -->
+    <string name="ambient_display_manage_summary">Környezeti kijelző gesztusainak kezelése</string>
+    <!-- Fingerprint gestures -->
+    <string name="fingerprint_gestures_title">Ujjlenyomat gesztusok</string>
+    <string name="fingerprint_gestures_summary">Ujjlenyomat gesztusok használata</string>
+    <string name="fingerprint_gestures_manage_summary">Ujjlenyomat gesztusok kezelése</string>
+    <string name="fingerprint_actions_screenon">Művelet feloldott kijelzőnél</string>
+    <!-- Fingerprint gestures screen off -->
+    <string name="fingerprint_gestures_screenoff_title">Ujjlenyomat gesztusok kikapcsolt kijelzőnél</string>
+    <string name="fingerprint_gestures_screenoff_summary">Ujjlenyomat gesztusok használata, amikor a kijelző ki van kapcsolva.\n\nAz ujjlenyomatos feloldásnak letiltva kell lennie ezek használatához.</string>
+    <string name="fingerprint_actions_screenoff">Művelet kikapcsolt kijelzőnél</string>
+    <!-- Actions -->
+    <string name="action_home">Kezdőlap</string>
+    <string name="action_power">Képernyő be/ki</string>
+    <string name="action_wake">Felébresztés</string>
+    <string name="action_back">Vissza</string>
+    <string name="action_recents">Legutóbbiak</string>
+    <string name="action_last_app">Utolsó alkalmazás</string>
+    <string name="action_volume_up">Hangerő fel</string>
+    <string name="action_volume_down">Hangerő le</string>
+    <string name="action_voice_assistant">Asszisztens</string>
+    <string name="action_play_pause">Lejátszás/szünet</string>
+    <string name="action_previous_track">Előző szám</string>
+    <string name="action_next_track">Következő szám</string>
+    <string name="action_flashlight">Zseblámpa be/ki</string>
+    <string name="action_camera">Kamera megnyitása</string>
+    <string name="action_screenshot">Képernyőkép készítése</string>
+    <string name="action_browser">Böngésző megnyitása</string>
+    <string name="action_dialer">Tárcsázó megnyitása</string>
+    <string name="action_email">Email app megnyitása</string>
+    <string name="action_messages">Üzenetküldő app megnyitása</string>
+    <!-- Screen off gestures -->
+    <string name="screen_off_gestures_manage_summary">Lezárt képernyő gesztusainak testreszabása</string>
+    <!-- Swipe/tap/long tap -->
+    <string name="swipe_left_dlg_title">Balra húzás művelete</string>
+    <string name="swipe_right_dlg_title">Jobbra húzás művelete</string>
+    <string name="swipe_up_dlg_title">Felfelé húzás művelete</string>
+    <string name="swipe_down_dlg_title">Lefelé húzás művelete</string>
+    <string name="tap_title">Egyszeri érintés</string>
+    <string name="double_tap_title">Dupla érintés</string>
+    <string name="long_tap_title">Hosszú érintés</string>
+    <string name="tap_dlg_title">Egyszeri érintés művelet testreszabása</string>
+    <string name="double_tap_dlg_title">Dupla érintés művelet testreszabása</string>
+    <string name="long_tap_dlg_title">Hosszú érintés művelet testreszabása</string>
+    <!-- Double tap to wake -->
+    <string name="tap_to_wake">Felébresztés érintésre</string>
+    <string name="tap_to_wake_summary">Dupla érintés bárhol a képernyőn a készülék felébresztéséhez</string>
+    <!-- Proximity sensor -->
+    <string name="allow_proximity_sensor_title">Közelségérzékelő engedélyezése</string>
+    <string name="allow_proximity_sensor_summary">A művelet végrehajtása előtt ellenőrizze a közelségérzékelőt</string>
+    <!-- OnePlus - General -->
+    <string name="oneplus_advanced_settings">OnePlus beállítások</string>
+    <string name="oneplus_advanced_settings_summary">Egyedi beállítások a készülékére</string>
+    <!-- OnePlus - PanelModes -->
+    <string name="panel_modes_settings_title">Panel módok</string>
+    <string name="panel_modes_settings_summary">Válasszon egy előre elkészített kijelző kalibrációt</string>
+    <!-- OnePlus - Alert slider settings -->
+    <string name="notification_slider_category_title">Némító gomb</string>
+    <string name="notification_slider_selection_dialog_title">Művelet</string>
+    <string name="notification_slider_top_position">Felső pozíció</string>
+    <string name="notification_slider_middle_position">Középen</string>
+    <string name="notification_slider_bottom_position">Alul</string>
+    <string name="notification_slider_mode_total_silence">Teljes csend</string>
+    <string name="notification_slider_mode_alarms_only">Csak ébresztések</string>
+    <string name="notification_slider_mode_priority_only">Csak a fontosak</string>
+    <string name="notification_slider_mode_silent">Néma</string>
+    <string name="notification_slider_mode_vibrate">Rezgés</string>
+    <string name="notification_slider_mode_none">Normál</string>
+    <!-- Thermal profiles -->
+    <string name="thermal_title">Optimalizálási profilok</string>
+    <string name="thermal_summary">Alkalmazásonkénti profil beállítása az optimális teljesítményért</string>
+    <string name="thermal_default">Nincs optimalizálás</string>
+    <string name="thermal_benchmark">Teljesítmény</string>
+    <string name="thermal_browser">Böngésző</string>
+    <string name="thermal_camera">Kamera</string>
+    <string name="thermal_dialer">Tárcsázó</string>
+    <string name="thermal_gaming">Játék</string>
+    <string name="thermal_streaming">Streaming</string>
+    <!-- Raise to wake strings-->
+    <string name="raise_to_wake_gesture_title">Felébresztés felemeléssel</string>
+    <string name="raise_to_wake_gesture_summary">Ébressze fel az eszközt a pulzáló értesítések helyett</string>
+    <!-- Refresh Rate Settings -->
+    <string name="device_min_refresh_rate">Minimum frissítési ráta</string>
+    <string name="device_power_save_refresh_rate">Automatikus akkukímélés</string>
+    <string name="device_power_save_refresh_rate_switch">Automatikusan csökkentse a frissítési rátát, ha az akkumulátorkímélő engedélyezve van</string>
+    <string name="refresh_rate_settings_title">Képernyő frissítési ráta</string>
+    <string name="refresh_rate_settings_summary">Frissítési ráta beállítása</string>
+    <string name="refresh_rate_tile_title">Frissítési ráta</string>
+    <string name="refresh_rate_tile_disabled">Akkukímélő engedélyezve</string>
+    <!-- Touch Control Settings -->
+    <string name="touch_control_title">Érintőkijelző optimalizálások</string>
+    <string name="touch_game_mode_title">Játéküzemmód engedélyezése</string>
+    <string name="touch_game_mode_summary">Növeli a játékélményt az érintőkijelző optimalizálásával</string>
+    <string name="touch_response_title">Érintésreakció</string>
+    <string name="touch_response_summary">Érintés-visszajelzés vezérlése</string>
+    <string name="touch_sensitivity_title">Érintésérzékenység</string>
+    <string name="touch_sensitivity_summary">Vezérelheti az ismételt érintések érzékenységét</string>
+    <string name="touch_resistant_title">Érintésálló terület</string>
+    <string name="touch_resistant_summary">Csökkenti az érzékenységet a széleken, hogy megelőzze a véletlen érintéseket</string>
+    <!-- Button settings -->
+    <string name="button_settings_title">Gombok</string>
+    <string name="button_swap_summary">Navigációs gombok felcserélése</string>
+    <string name="home_button_extra_settings">A kezdőlap gomb viselkedésének testreszabása</string>
+    <!-- Assistant button -->
+    <string name="assistant_button_action">Asszisztens gomb művelete</string>
+    <!-- Stylus pen -->
+    <string name="stylus_title">Stylus ceruza</string>
+    <!-- High Brightness Mode-->
+    <string name="hbm_title">Magas fényerő mód</string>
+    <!-- LCD Features -->
+    <string name="lcd_features_title">További kijelző funkciók</string>
+    <string name="lcd_features_summary">Magas fényerő mód és Tartalom alapú háttérvilágítás-vezérlés</string>
+    <string name="lcd_features_info">A Magas fényerő mód növeli a kijelző fényerejét és javítja a láthatóságot napfényben. Növeli az energiahasználatot.\n\nA Tartalom alapú háttérvilágítás-vezérlés állítja a kijelző és a háttérvilágítás fényerejét az aktuálisan megjelenített tartalmat alapul véve, hogy csökkentse az energiafelhasználást.</string>
+    <string name="kernel_not_supported">A kernel nem támogatja ezt a funkciót</string>
+    <string name="lcd_hbm_title">Magas fényerő mód</string>
+    <string name="lcd_hbm_summary">A kijelző fényerejének növelése napfényben</string>
+    <string name="lcd_hbm_tile_title">Magas fényerő mód</string>
+    <string name="lcd_hbm_title_enabled">Engedélyezve</string>
+    <string name="lcd_hbm_title_disabled">Letiltva</string>
+    <string name="lcd_cabc_title">Tartalomhoz igazodó fényerővezérlés</string>
+    <string name="lcd_cabc_tile_title">Tartalom alapú háttérvilágítás-vezérlés</string>
+    <string name="lcd_cabc_off">Ki</string>
+    <string name="lcd_cabc_low">Alacsony (kezelőfelület)</string>
+    <string name="lcd_cabc_medium">Közepes (videók)</string>
+    <string name="lcd_cabc_high">Magas (képek)</string>
+    <!-- Always on brightness -->
+    <string name="doze_brightness_title">Mindig aktív kijelző fényereje</string>
+    <string name="doze_brightness_summary">%s mód engedélyezve</string>
+    <string name="doze_brightness_low">Alacsony fényerő</string>
+    <string name="doze_brightness_high">Magas fényerő</string>
+    <string name="doze_brightness_adaptive">Alkalmazkodó fényerő</string>
+    <!-- Refresh Rate per-app -->
+    <string name="refresh_title">Képfrissítés alkalmazásonként</string>
+    <string name="refresh_summary">Beállíthat egy képfrissítési rátát alkalmazásonként</string>
+    <string name="refresh_default">Alapértelmezett</string>
+    <string name="refresh_low">Alacsony (30Hz)</string>
+    <string name="refresh_medium">Közepes (60Hz)</string>
+    <string name="refresh_high">Magas (90Hz)</string>
+    <string name="refresh_extreme">Extrém (120Hz)</string>
+    <!-- Powershare -->
+    <string name="powershare_enable_title">Akkumulátor megosztás</string>
+    <string name="powershare_enable_summary">Más eszközök töltése a készülék hátoldalára helyezéssel</string>
+</resources>
