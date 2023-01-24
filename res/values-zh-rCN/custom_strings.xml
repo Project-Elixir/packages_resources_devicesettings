@@ -13,9 +13,9 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="display_title">Display</string>
-    <string name="dc_dimming_enable_title">Anti flicker</string>
-    <string name="dc_dimming_enable_summary">Anti flicker mode helps reducing eyestrain in low light conditions by using \"DC dimming\" feature. It might degrade color accuracy and affect the way some items are displayed.</string>
+    <string name="display_title">显示显示</string>
+    <string name="dc_dimming_enable_title">防闪烁（屏闪）</string>
+    <string name="dc_dimming_enable_summary">防闪烁模式能利用“dc调光”特性减少低亮度条件下的视觉疲劳。它可能会降低色准并影响某些项目的显示。</string>
     <string name="dc_dimming_enable_summary_not_supported">Anti flicker is currently not supported by the kernel</string>
     <!-- Dirac settings -->
     <string name="dirac_enable">Use Mi Sound Enhancer</string>
