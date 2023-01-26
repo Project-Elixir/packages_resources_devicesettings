@@ -13,16 +13,16 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="display_title">Display</string>
-    <string name="dc_dimming_enable_title">Anti flicker</string>
-    <string name="dc_dimming_enable_summary">Anti flicker mode helps reducing eyestrain in low light conditions by using \"DC dimming\" feature. It might degrade color accuracy and affect the way some items are displayed.</string>
-    <string name="dc_dimming_enable_summary_not_supported">Anti flicker is currently not supported by the kernel</string>
+    <string name="display_title">Skärm</string>
+    <string name="dc_dimming_enable_title">Anti flimmer</string>
+    <string name="dc_dimming_enable_summary">Anti flimmer läge hjälper att minska ansträngning för ögonen i svaga ljusförhållanden genom att använda \"DC dimming\" funktionen. Det kan försämra färgnoggrannheten och påverka hur vissa saker visas.</string>
+    <string name="dc_dimming_enable_summary_not_supported">Anti flimmer stöds inte av nuvarande kernel</string>
     <!-- Dirac settings -->
-    <string name="dirac_enable">Use Mi Sound Enhancer</string>
+    <string name="dirac_enable">Använd Mi Sound Enhancer</string>
     <string name="dirac_title">Mi Sound Enhancer</string>
-    <string name="dirac_summary">Optimize audio quality</string>
-    <string name="dirac_headset_title">Choose headphones type</string>
-    <string name="dirac_preset_title">Choose a preset</string>
+    <string name="dirac_summary">Optimera ljudkvalitet</string>
+    <string name="dirac_headset_title">Välj hörlurstyp</string>
+    <string name="dirac_preset_title">Välj en förinställning</string>
     <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">Hi-Fi</string>
     <string name="dirac_hifi_summary">Decrease noise and Distortion and increase audio quality</string>
