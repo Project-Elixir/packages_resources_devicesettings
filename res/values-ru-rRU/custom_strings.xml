@@ -99,16 +99,16 @@
     <string name="popup_camera_front_failed">Couldn\'t open front camera. Try again.</string>
     <string name="popup_camera_proximity_obstructed">Remove your hand from the proximity sensor to open the front camera...</string>
     <!-- Clear Speaker -->
-    <string name="clear_speaker_title">Clear speaker</string>
-    <string name="clear_speaker_summary">Play a 30-second audio to clear the speaker</string>
-    <string name="clear_speaker_description">Run this feature once or twice if you find that your speaker is lightly blocked by dust. Set media volume to maximum.\n\nIf the speaker is blocked heavily, run this feature 2-5 times while shaking your device with the speaker facing downwards.</string>
+    <string name="clear_speaker_title">Очистка динамиков</string>
+    <string name="clear_speaker_summary">Воспроизведение 30-секундного аудиофайла для очистки динамика</string>
+    <string name="clear_speaker_description">Запустите эту функцию разово или дважды если ваш динамик слегка загрязнен. Установите громкость на максимум.\n\nЕсли динамик загрязнен сильно, запустите функцию от двух до пяти раз, потрясывая устройство направив динамик вниз.</string>
     <!-- Moto Actions - Title and summary -->
     <string name="moto_actions_title">Moto Actions</string>
     <!-- Device gestures -->
     <string name="device_gestures_title">Жесты устройства</string>
     <string name="device_gestures_summary">Управление жестами устройства</string>
     <!-- Ambient display gestures -->
-    <string name="ambient_display_manage_summary">Manage ambient display gestures</string>
+    <string name="ambient_display_manage_summary">Управление жестами Ambient display</string>
     <!-- Fingerprint gestures -->
     <string name="fingerprint_gestures_title">Жесты сканера отпечатка пальцев</string>
     <string name="fingerprint_gestures_summary">Использовать жесты сканера отпечатка пальцев</string>
@@ -121,7 +121,7 @@
     <!-- Actions -->
     <string name="action_home">Домой</string>
     <string name="action_power">Экран вкл/выкл</string>
-    <string name="action_wake">Wake</string>
+    <string name="action_wake">Пробудить</string>
     <string name="action_back">Назад</string>
     <string name="action_recents">Недавние</string>
     <string name="action_last_app">Последнее приложение</string>
@@ -142,18 +142,18 @@
     <string name="screen_off_gestures_manage_summary">Управление жестами при выключенном экране</string>
     <!-- Swipe/tap/long tap -->
     <string name="swipe_left_dlg_title">Выберите действие для свайпа влево</string>
-    <string name="swipe_right_dlg_title">Select action for swipe right</string>
-    <string name="swipe_up_dlg_title">Select action for swipe up</string>
-    <string name="swipe_down_dlg_title">Select action for swipe down</string>
-    <string name="tap_title">Одиночное нажатие</string>
-    <string name="double_tap_title">Двойное нажатие</string>
-    <string name="long_tap_title">Длительное нажатие</string>
-    <string name="tap_dlg_title">Выберите действие для одиночного нажатия</string>
-    <string name="double_tap_dlg_title">Выберите действие для двойного нажатия</string>
-    <string name="long_tap_dlg_title">Выберите действие для долгого нажатия</string>
+    <string name="swipe_right_dlg_title">Выберите действие для свайпа вправо</string>
+    <string name="swipe_up_dlg_title">Выберите действие для свайпа вверх</string>
+    <string name="swipe_down_dlg_title">Выберите действие для свайпа вниз</string>
+    <string name="tap_title">Одиночное касание</string>
+    <string name="double_tap_title">Двойное касание</string>
+    <string name="long_tap_title">Удержание</string>
+    <string name="tap_dlg_title">Выберите действие для одиночного касания</string>
+    <string name="double_tap_dlg_title">Выберите действие для двойного касания</string>
+    <string name="long_tap_dlg_title">Выберите действие для удержания</string>
     <!-- Double tap to wake -->
     <string name="tap_to_wake">Коснитесь, чтобы разбудить</string>
-    <string name="tap_to_wake_summary">Дважды нажмите в любом месте экрана, чтобы разбудить устройство</string>
+    <string name="tap_to_wake_summary">Дважды коснитесь в любом месте экрана, чтобы разбудить устройство</string>
     <!-- Proximity sensor -->
     <string name="allow_proximity_sensor_title">Разрешить датчик приближения</string>
     <string name="allow_proximity_sensor_summary">Перед выполнением действия проверьте датчик приближения</string>
@@ -200,18 +200,18 @@
     <string name="touch_control_title">Оптимизация сенсорного экрана</string>
     <string name="touch_game_mode_title">Включить игровой режим</string>
     <string name="touch_game_mode_summary">Помогает улучшить игровой процесс за счет оптимизации сенсорного экрана</string>
-    <string name="touch_response_title">Touch response</string>
-    <string name="touch_response_summary">Controls touch response</string>
+    <string name="touch_response_title">Отклик на касание</string>
+    <string name="touch_response_summary">Управление откликом на касание</string>
     <string name="touch_sensitivity_title">Сенсорная чувствительность</string>
     <string name="touch_sensitivity_summary">Управляет чувствительностью для повторных нажатий</string>
-    <string name="touch_resistant_title">Touch-resistant area</string>
+    <string name="touch_resistant_title">Зона Touch-resistant</string>
     <string name="touch_resistant_summary">Снижает чувствительность по краям для предотвращения случайных прикосновений</string>
     <!-- Button settings -->
     <string name="button_settings_title">Кнопки</string>
     <string name="button_swap_summary">Поменять местами кнопки навигации</string>
     <string name="home_button_extra_settings">Настройка поведения кнопки «Домой»</string>
     <!-- Assistant button -->
-    <string name="assistant_button_action">Assistant key action</string>
+    <string name="assistant_button_action">Действие кнопки-ассистента</string>
     <!-- Stylus pen -->
     <string name="stylus_title">Stylus Pen</string>
     <!-- High Brightness Mode-->
