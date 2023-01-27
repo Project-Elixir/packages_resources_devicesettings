@@ -13,7 +13,7 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="display_title">Дисплей</string>
+    <string name="display_title">Экран</string>
     <string name="dc_dimming_enable_title">Подавление мерцания</string>
     <string name="dc_dimming_enable_summary">Режим подавления мерцания помогает снизить нагрузку на глаза в условиях низкой освещенности с помощью функции «DC dimming». Это может снизить точность цветопередачи и повлиять на отображение некоторых элементов.</string>
     <string name="dc_dimming_enable_summary_not_supported">Подавление мерцания в настоящее время не поддерживается ядром</string>
@@ -141,56 +141,56 @@
     <!-- Screen off gestures -->
     <string name="screen_off_gestures_manage_summary">Управление жестами при выключенном экране</string>
     <!-- Swipe/tap/long tap -->
-    <string name="swipe_left_dlg_title">Select action for swipe left</string>
+    <string name="swipe_left_dlg_title">Выберите действие для свайпа влево</string>
     <string name="swipe_right_dlg_title">Select action for swipe right</string>
     <string name="swipe_up_dlg_title">Select action for swipe up</string>
     <string name="swipe_down_dlg_title">Select action for swipe down</string>
-    <string name="tap_title">Single tap</string>
-    <string name="double_tap_title">Double tap</string>
-    <string name="long_tap_title">Long tap</string>
-    <string name="tap_dlg_title">Выберите действие для однократного нажатия</string>
+    <string name="tap_title">Одиночное нажатие</string>
+    <string name="double_tap_title">Двойное нажатие</string>
+    <string name="long_tap_title">Длительное нажатие</string>
+    <string name="tap_dlg_title">Выберите действие для одиночного нажатия</string>
     <string name="double_tap_dlg_title">Выберите действие для двойного нажатия</string>
     <string name="long_tap_dlg_title">Выберите действие для долгого нажатия</string>
     <!-- Double tap to wake -->
-    <string name="tap_to_wake">Tap to wake</string>
-    <string name="tap_to_wake_summary">Double-tap anywhere on the screen to wake device</string>
+    <string name="tap_to_wake">Коснитесь, чтобы разбудить</string>
+    <string name="tap_to_wake_summary">Дважды нажмите в любом месте экрана, чтобы разбудить устройство</string>
     <!-- Proximity sensor -->
-    <string name="allow_proximity_sensor_title">Allow proximity sensor</string>
-    <string name="allow_proximity_sensor_summary">Check the proximity sensor before performing the action</string>
+    <string name="allow_proximity_sensor_title">Разрешить датчик приближения</string>
+    <string name="allow_proximity_sensor_summary">Перед выполнением действия проверьте датчик приближения</string>
     <!-- OnePlus - General -->
-    <string name="oneplus_advanced_settings">OnePlus Settings</string>
-    <string name="oneplus_advanced_settings_summary">Custom settings for your device</string>
+    <string name="oneplus_advanced_settings">Настройки OnePlus</string>
+    <string name="oneplus_advanced_settings_summary">Пользовательские настройки для вашего устройства</string>
     <!-- OnePlus - PanelModes -->
     <string name="panel_modes_settings_title">Panel Modes</string>
-    <string name="panel_modes_settings_summary">Choose a pre-made display calibration</string>
+    <string name="panel_modes_settings_summary">Выберите готовую калибровку дисплея</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">Alert slider</string>
+    <string name="notification_slider_category_title">Ползунок предупреждений</string>
     <string name="notification_slider_selection_dialog_title">Действие</string>
     <string name="notification_slider_top_position">Сверху</string>
     <string name="notification_slider_middle_position">В центре</string>
     <string name="notification_slider_bottom_position">Внизу</string>
-    <string name="notification_slider_mode_total_silence">Total silence</string>
-    <string name="notification_slider_mode_alarms_only">Alarms only</string>
-    <string name="notification_slider_mode_priority_only">Priority only</string>
+    <string name="notification_slider_mode_total_silence">Полная тишина</string>
+    <string name="notification_slider_mode_alarms_only">Только будильники</string>
+    <string name="notification_slider_mode_priority_only">Только приоритетные</string>
     <string name="notification_slider_mode_silent">Без звука</string>
     <string name="notification_slider_mode_vibrate">Вибрация</string>
     <string name="notification_slider_mode_none">Обычный</string>
     <!-- Thermal profiles -->
-    <string name="thermal_title">Optimization profiles</string>
-    <string name="thermal_summary">Adjust per-app profiles for optimum performance</string>
-    <string name="thermal_default">No optimization</string>
-    <string name="thermal_benchmark">Performance</string>
-    <string name="thermal_browser">Browser</string>
-    <string name="thermal_camera">Camera</string>
-    <string name="thermal_dialer">Dialer</string>
-    <string name="thermal_gaming">Games</string>
+    <string name="thermal_title">Профили оптимизации</string>
+    <string name="thermal_summary">Настройте профили для каждого приложения для оптимальной производительности</string>
+    <string name="thermal_default">Без оптимизации</string>
+    <string name="thermal_benchmark">Производительность</string>
+    <string name="thermal_browser">Браузер</string>
+    <string name="thermal_camera">Камера</string>
+    <string name="thermal_dialer">Номеронабиратель</string>
+    <string name="thermal_gaming">Игры</string>
     <string name="thermal_streaming">Streaming applications</string>
     <!-- Raise to wake strings-->
-    <string name="raise_to_wake_gesture_title">Raise to wake</string>
-    <string name="raise_to_wake_gesture_summary">Wake up the device instead of pulsing notification</string>
+    <string name="raise_to_wake_gesture_title">Поднимите, чтобы разбудить</string>
+    <string name="raise_to_wake_gesture_summary">Разбудите устройство вместо пульсирующего уведомления</string>
     <!-- Refresh Rate Settings -->
     <string name="device_min_refresh_rate">Минимальная частота обновления</string>
-    <string name="device_power_save_refresh_rate">Save battery automatically</string>
+    <string name="device_power_save_refresh_rate">Автоматически экономить заряд батареи</string>
     <string name="device_power_save_refresh_rate_switch">Автоматически понижать частоту обновления в экономном режиме</string>
     <string name="refresh_rate_settings_title">Частота обновления экрана</string>
     <string name="refresh_rate_settings_summary">Настроить частоту обновления экрана</string>
@@ -199,54 +199,54 @@
     <!-- Touch Control Settings -->
     <string name="touch_control_title">Оптимизация сенсорного экрана</string>
     <string name="touch_game_mode_title">Включить игровой режим</string>
-    <string name="touch_game_mode_summary">Helps to improve the gaming experience by optimizing the touch screen</string>
+    <string name="touch_game_mode_summary">Помогает улучшить игровой процесс за счет оптимизации сенсорного экрана</string>
     <string name="touch_response_title">Touch response</string>
     <string name="touch_response_summary">Controls touch response</string>
-    <string name="touch_sensitivity_title">Touch sensitivity</string>
-    <string name="touch_sensitivity_summary">Controls the sensitivity for repeated taps</string>
+    <string name="touch_sensitivity_title">Сенсорная чувствительность</string>
+    <string name="touch_sensitivity_summary">Управляет чувствительностью для повторных нажатий</string>
     <string name="touch_resistant_title">Touch-resistant area</string>
-    <string name="touch_resistant_summary">Reduces sensitivity near the edges to prevent accidental touches</string>
+    <string name="touch_resistant_summary">Снижает чувствительность по краям для предотвращения случайных прикосновений</string>
     <!-- Button settings -->
-    <string name="button_settings_title">Buttons</string>
-    <string name="button_swap_summary">Swap Navigation Buttons</string>
-    <string name="home_button_extra_settings">Customize home button behavior</string>
+    <string name="button_settings_title">Кнопки</string>
+    <string name="button_swap_summary">Поменять местами кнопки навигации</string>
+    <string name="home_button_extra_settings">Настройка поведения кнопки «Домой»</string>
     <!-- Assistant button -->
     <string name="assistant_button_action">Assistant key action</string>
     <!-- Stylus pen -->
     <string name="stylus_title">Stylus Pen</string>
     <!-- High Brightness Mode-->
-    <string name="hbm_title">High Brightness Mode</string>
+    <string name="hbm_title">Режим высокой яркости</string>
     <!-- LCD Features -->
-    <string name="lcd_features_title">Additional Display Features</string>
+    <string name="lcd_features_title">Дополнительные функции дисплея</string>
     <string name="lcd_features_summary">High Brightness Mode (HBM) &amp; Content Adaptive Backlight Control (CABC)</string>
     <string name="lcd_features_info">High Brightness Mode (HBM) increases the maximum brightness of the display to improve visibility under sunlight. Increases power consumption.\n\nContent Adaptive Backlight Control (CABC) adjusts display and backlight brightness based on currently shown content, to reduce power consumption without degradation.</string>
-    <string name="kernel_not_supported">Kernel did not support this feature</string>
-    <string name="lcd_hbm_title">High Brightness Mode</string>
-    <string name="lcd_hbm_summary">Increase screen brightness under sunlight</string>
+    <string name="kernel_not_supported">Ядро не поддерживает эту функцию</string>
+    <string name="lcd_hbm_title">Режим высокой яркости</string>
+    <string name="lcd_hbm_summary">Увеличение яркости экрана при солнечном свете</string>
     <string name="lcd_hbm_tile_title">HBM</string>
     <string name="lcd_hbm_title_enabled">Включено</string>
     <string name="lcd_hbm_title_disabled">Отключено</string>
-    <string name="lcd_cabc_title">Content Adaptive Backlight Control</string>
+    <string name="lcd_cabc_title">Адаптивное управление подсветкой контента</string>
     <string name="lcd_cabc_tile_title">CABC</string>
-    <string name="lcd_cabc_off">Off</string>
-    <string name="lcd_cabc_low">Low (UI)</string>
-    <string name="lcd_cabc_medium">Medium (Videos)</string>
-    <string name="lcd_cabc_high">High (Images)</string>
+    <string name="lcd_cabc_off">Выключено</string>
+    <string name="lcd_cabc_low">Низкое (UI)</string>
+    <string name="lcd_cabc_medium">Среднее (Видео)</string>
+    <string name="lcd_cabc_high">Высокое (Изображение)</string>
     <!-- Always on brightness -->
     <string name="doze_brightness_title">Always on brightness</string>
-    <string name="doze_brightness_summary">%s mode is enabled</string>
-    <string name="doze_brightness_low">Low brightness</string>
-    <string name="doze_brightness_high">High brightness</string>
-    <string name="doze_brightness_adaptive">Adaptive brightness</string>
+    <string name="doze_brightness_summary">%s режим активирован</string>
+    <string name="doze_brightness_low">Низкая яркость</string>
+    <string name="doze_brightness_high">Высокая яркость</string>
+    <string name="doze_brightness_adaptive">Автоматическая яркость</string>
     <!-- Refresh Rate per-app -->
-    <string name="refresh_title">Refresh rate per-app</string>
-    <string name="refresh_summary">Set a specific refresh rate for each application</string>
+    <string name="refresh_title">Частота обновления для каждого приложения</string>
+    <string name="refresh_summary">Установить свою частоту обновления для каждого приложения</string>
     <string name="refresh_default">По умолчанию</string>
-    <string name="refresh_low">Low (30Hz)</string>
-    <string name="refresh_medium">Medium (60Hz)</string>
-    <string name="refresh_high">High (90Hz)</string>
-    <string name="refresh_extreme">Extreme (120Hz)</string>
+    <string name="refresh_low">Низкая (30Hz)</string>
+    <string name="refresh_medium">Средняя (60Hz)</string>
+    <string name="refresh_high">Высокая (90Hz)</string>
+    <string name="refresh_extreme">Наивысшая (120Hz)</string>
     <!-- Powershare -->
-    <string name="powershare_enable_title">Battery Share</string>
-    <string name="powershare_enable_summary">Charge other devices by placing them on the back of your phone</string>
+    <string name="powershare_enable_title">Обратная беспроводная зарядка</string>
+    <string name="powershare_enable_summary">Зарядите другие устройства, поместив их на заднюю панель телефона</string>
 </resources>
