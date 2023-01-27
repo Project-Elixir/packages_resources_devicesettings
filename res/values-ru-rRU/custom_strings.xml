@@ -14,21 +14,21 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Дисплей</string>
-    <string name="dc_dimming_enable_title">Anti flicker</string>
-    <string name="dc_dimming_enable_summary">Anti flicker mode helps reducing eyestrain in low light conditions by using \"DC dimming\" feature. It might degrade color accuracy and affect the way some items are displayed.</string>
-    <string name="dc_dimming_enable_summary_not_supported">Anti flicker is currently not supported by the kernel</string>
+    <string name="dc_dimming_enable_title">Подавление мерцания</string>
+    <string name="dc_dimming_enable_summary">Режим подавления мерцания помогает снизить нагрузку на глаза в условиях низкой освещенности с помощью функции «DC dimming». Это может снизить точность цветопередачи и повлиять на отображение некоторых элементов.</string>
+    <string name="dc_dimming_enable_summary_not_supported">Подавление мерцания в настоящее время не поддерживается ядром</string>
     <!-- Dirac settings -->
-    <string name="dirac_enable">Use Mi Sound Enhancer</string>
+    <string name="dirac_enable">Использовать Mi Sound Enhancer</string>
     <string name="dirac_title">Mi Sound Enhancer</string>
-    <string name="dirac_summary">Optimize audio quality</string>
-    <string name="dirac_headset_title">Choose headphones type</string>
-    <string name="dirac_preset_title">Choose a preset</string>
+    <string name="dirac_summary">Оптимизация качества звука</string>
+    <string name="dirac_headset_title">Выберите тип наушников</string>
+    <string name="dirac_preset_title">Выберите пресет</string>
     <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">Hi-Fi</string>
-    <string name="dirac_hifi_summary">Decrease noise and Distortion and increase audio quality</string>
-    <string name="dirac_hifi_enable_title">Enable Hi-fi</string>
+    <string name="dirac_hifi_summary">Увеличение качества звука и уменьшение шума и искажения</string>
+    <string name="dirac_hifi_enable_title">Включить Hi-Fi</string>
     <!-- Dirac settings: Headset types -->
-    <string name="dirac_headset_default">Default</string>
+    <string name="dirac_headset_default">По умолчанию</string>
     <string name="dirac_headset_earbuds">Mi Earbuds</string>
     <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
     <string name="dirac_headset_piston_1">Mi Piston-1</string>
@@ -51,23 +51,23 @@
     <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
     <string name="dirac_headset_earphone">Mi Earphones</string>
     <!-- Dirac settings: Equalizer presets -->
-    <string name="dirac_preset_default">Default</string>
-    <string name="dirac_preset_rock">Rock</string>
-    <string name="dirac_preset_jazz">Jazz</string>
-    <string name="dirac_preset_pop">Pop</string>
-    <string name="dirac_preset_classical">Classical</string>
-    <string name="dirac_preset_hiphop">Hip Hop</string>
-    <string name="dirac_preset_blues">Blues</string>
-    <string name="dirac_preset_electronic">Electronic</string>
-    <string name="dirac_preset_country">Country</string>
-    <string name="dirac_preset_dance">Dance</string>
-    <string name="dirac_preset_metal">Metal</string>
-    <string name="dirac_preset_bass_booster">Bass Booster</string>
-    <string name="dirac_preset_live">Live</string>
-    <string name="dirac_preset_balanced">Balanced</string>
-    <string name="dirac_preset_bass_reduction">Bass Reduction</string>
-    <string name="dirac_preset_treble_reduction">Treble Reduction</string>
-    <string name="dirac_preset_soft_bass">Soft Bass</string>
+    <string name="dirac_preset_default">По умолчанию</string>
+    <string name="dirac_preset_rock">Рок</string>
+    <string name="dirac_preset_jazz">Джаз</string>
+    <string name="dirac_preset_pop">Поп</string>
+    <string name="dirac_preset_classical">Классика</string>
+    <string name="dirac_preset_hiphop">Хип-хоп</string>
+    <string name="dirac_preset_blues">Блюз</string>
+    <string name="dirac_preset_electronic">Электроника</string>
+    <string name="dirac_preset_country">Кантри</string>
+    <string name="dirac_preset_dance">Танцевальная</string>
+    <string name="dirac_preset_metal">Металл</string>
+    <string name="dirac_preset_bass_booster">Усиление басов</string>
+    <string name="dirac_preset_live">Живая</string>
+    <string name="dirac_preset_balanced">Сбалансированная</string>
+    <string name="dirac_preset_bass_reduction">Снижение басов</string>
+    <string name="dirac_preset_treble_reduction">Снижение высоких частот</string>
+    <string name="dirac_preset_soft_bass">Мягкий бас</string>
     <string name="dirac_preset_soft_treble">Soft Treble</string>
     <!-- Dirac Scene Selection -->
     <string name="music_headset_scenario_select">Select scene</string>
@@ -106,40 +106,40 @@
     <string name="moto_actions_title">Moto Actions</string>
     <!-- Device gestures -->
     <string name="device_gestures_title">Device gestures</string>
-    <string name="device_gestures_summary">Manage device gestures</string>
+    <string name="device_gestures_summary">Управление жестами устройства</string>
     <!-- Ambient display gestures -->
     <string name="ambient_display_manage_summary">Manage ambient display gestures</string>
     <!-- Fingerprint gestures -->
-    <string name="fingerprint_gestures_title">Fingerprint gestures</string>
-    <string name="fingerprint_gestures_summary">Use fingerprint gestures</string>
-    <string name="fingerprint_gestures_manage_summary">Manage fingerprint gestures</string>
-    <string name="fingerprint_actions_screenon">Actions with screen on</string>
+    <string name="fingerprint_gestures_title">Жесты сканера отпечатка пальцев</string>
+    <string name="fingerprint_gestures_summary">Использовать жесты сканера отпечатка пальцев</string>
+    <string name="fingerprint_gestures_manage_summary">Управление жестами сканера отпечатка пальцев</string>
+    <string name="fingerprint_actions_screenon">Действия с включенным экраном</string>
     <!-- Fingerprint gestures screen off -->
-    <string name="fingerprint_gestures_screenoff_title">Fingerprint gestures when screen off</string>
-    <string name="fingerprint_gestures_screenoff_summary">Use fingerprint gestures when screen off.\n\nFingerprint unlocking must be disabled to use this feature.</string>
-    <string name="fingerprint_actions_screenoff">Actions with screen off</string>
+    <string name="fingerprint_gestures_screenoff_title">Жесты сканера отпечатка пальцев при выключенном экране</string>
+    <string name="fingerprint_gestures_screenoff_summary">Используйте жесты сканера отпечатка пальцев при выключенном экране.\n\nРазблокировка по отпечатку пальцев должна быть отключена, чтобы использовать эту функцию.</string>
+    <string name="fingerprint_actions_screenoff">Действия с выключенным экраном</string>
     <!-- Actions -->
-    <string name="action_home">Home</string>
-    <string name="action_power">Screen on/off</string>
+    <string name="action_home">Домой</string>
+    <string name="action_power">Экран вкл/выкл</string>
     <string name="action_wake">Wake</string>
-    <string name="action_back">Back</string>
-    <string name="action_recents">Recents</string>
-    <string name="action_last_app">Last app</string>
-    <string name="action_volume_up">Volume up</string>
-    <string name="action_volume_down">Volume down</string>
-    <string name="action_voice_assistant">Voice assistant</string>
-    <string name="action_play_pause">Play/pause</string>
-    <string name="action_previous_track">Previous track</string>
-    <string name="action_next_track">Next track</string>
+    <string name="action_back">Назад</string>
+    <string name="action_recents">Недавние</string>
+    <string name="action_last_app">Последнее приложение</string>
+    <string name="action_volume_up">Увеличение громкости</string>
+    <string name="action_volume_down">Уменьшение громкости</string>
+    <string name="action_voice_assistant">Голосовой помощник</string>
+    <string name="action_play_pause">Воспроизведение/пауза</string>
+    <string name="action_previous_track">Предыдущий композиция</string>
+    <string name="action_next_track">Следующая композиция</string>
     <string name="action_flashlight">Flashlight on/off</string>
-    <string name="action_camera">Open camera</string>
-    <string name="action_screenshot">Take screenshot</string>
-    <string name="action_browser">Open browser</string>
-    <string name="action_dialer">Open dialer</string>
-    <string name="action_email">Open email app</string>
-    <string name="action_messages">Open messages app</string>
+    <string name="action_camera">Открыть камеру</string>
+    <string name="action_screenshot">Сделать снимок экрана</string>
+    <string name="action_browser">Открыть браузер</string>
+    <string name="action_dialer">Открыть номеронабиратель</string>
+    <string name="action_email">Открыть приложение электронной почты</string>
+    <string name="action_messages">Открыть приложение сообщений</string>
     <!-- Screen off gestures -->
-    <string name="screen_off_gestures_manage_summary">Manage gestures when screen is off</string>
+    <string name="screen_off_gestures_manage_summary">Управление жестами при выключенном экране</string>
     <!-- Swipe/tap/long tap -->
     <string name="swipe_left_dlg_title">Select action for swipe left</string>
     <string name="swipe_right_dlg_title">Select action for swipe right</string>
