@@ -88,16 +88,16 @@
     <string name="popup_title_cangmen">Cabin door</string>
     <!-- Popup camera strings -->
     <string name="popup_camera_tip">Внимание</string>
-    <string name="popup_camera_takeback_failed_times_calibrate">Couldn\'t close front camera multiple times. Try calibrating the camera.</string>
-    <string name="popup_camera_popup_failed_times_calibrate">Couldn\'t open front camera multiple times. Try calibrating the camera.</string>
-    <string name="popup_camera_calibrate_running">Front camera cannot be used during calibration.</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">Не удалось закрыть фронтальную камеру несколько раз. Попробуйте откалибровать камеру.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">Не удалось открыть фронтальную камеру несколько раз. Попробуйте откалибровать камеру.</string>
+    <string name="popup_camera_calibrate_running">Фронтальная камера не может быть использована во время калибровки.</string>
     <string name="popup_camera_calibrate_now">Калибровка</string>
     <string name="popup_camera_calibrate_failed">Невозможно откалибровать</string>
-    <string name="popup_camera_calibrate_success">Calibrated successfully. You can open the front camera now.</string>
-    <string name="stop_operate_camera_frequently">You\'re opening the front camera too frequently.</string>
-    <string name="takeback_camera_front_failed">Couldn\'t close front camera. Try again.</string>
-    <string name="popup_camera_front_failed">Couldn\'t open front camera. Try again.</string>
-    <string name="popup_camera_proximity_obstructed">Remove your hand from the proximity sensor to open the front camera...</string>
+    <string name="popup_camera_calibrate_success">Калибровка выполнена успешно. Теперь вы можете открыть фронтальную камеру.</string>
+    <string name="stop_operate_camera_frequently">Вы слишком часто открываете фронтальную камеру.</string>
+    <string name="takeback_camera_front_failed">Не удалось закрыть фронтальную камеру. Попробуйте еще раз.</string>
+    <string name="popup_camera_front_failed">Не удалось открыть фронтальную камеру. Попробуйте еще раз.</string>
+    <string name="popup_camera_proximity_obstructed">Уберите руку с датчика приближения, чтобы открыть фронтальную камеру...</string>
     <!-- Clear Speaker -->
     <string name="clear_speaker_title">Очистка динамиков</string>
     <string name="clear_speaker_summary">Воспроизведение 30-секундного аудиофайла для очистки динамика</string>
@@ -184,7 +184,7 @@
     <string name="thermal_camera">Камера</string>
     <string name="thermal_dialer">Номеронабиратель</string>
     <string name="thermal_gaming">Игры</string>
-    <string name="thermal_streaming">Streaming applications</string>
+    <string name="thermal_streaming">Потоковые приложения</string>
     <!-- Raise to wake strings-->
     <string name="raise_to_wake_gesture_title">Поднимите, чтобы разбудить</string>
     <string name="raise_to_wake_gesture_summary">Разбудите устройство вместо пульсирующего уведомления</string>
@@ -218,8 +218,8 @@
     <string name="hbm_title">Режим высокой яркости</string>
     <!-- LCD Features -->
     <string name="lcd_features_title">Дополнительные функции дисплея</string>
-    <string name="lcd_features_summary">High Brightness Mode (HBM) &amp; Content Adaptive Backlight Control (CABC)</string>
-    <string name="lcd_features_info">High Brightness Mode (HBM) increases the maximum brightness of the display to improve visibility under sunlight. Increases power consumption.\n\nContent Adaptive Backlight Control (CABC) adjusts display and backlight brightness based on currently shown content, to reduce power consumption without degradation.</string>
+    <string name="lcd_features_summary">Режим высокой яркости (HBM) &amp; Адаптивное управление подсветкой контента (CABC)</string>
+    <string name="lcd_features_info">Режим высокой яркости (HBM) увеличивает максимальную яркость дисплея, чтобы улучшить видимость при солнечном свете. Увеличивает энергопотребление.\n\nАдаптивное управление подсветкой контента (CABC) регулирует яркость дисплея и подсветки в зависимости от отображаемого контента, чтобы снизить энергопотребление без ухудшения качества.</string>
     <string name="kernel_not_supported">Ядро не поддерживает эту функцию</string>
     <string name="lcd_hbm_title">Режим высокой яркости</string>
     <string name="lcd_hbm_summary">Увеличение яркости экрана при солнечном свете</string>
