@@ -71,7 +71,7 @@
     <string name="dirac_preset_soft_treble">Soft Treble</string>
     <!-- Dirac Scene Selection -->
     <string name="music_headset_scenario_select">Select scene</string>
-    <string name="music_headset_scenario_intelligent">Smart</string>
+    <string name="music_headset_scenario_intelligent">Интеллектуальный</string>
     <string name="music_headset_scenario_music">Музыка</string>
     <string name="music_headset_scenario_video">Видео</string>
     <string name="music_headset_scenario_vocal">Голос</string>
