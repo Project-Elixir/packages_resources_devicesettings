@@ -93,40 +93,40 @@
     <string name="popup_camera_calibrate_running">Front kameran kan inte användas under kalibrering.</string>
     <string name="popup_camera_calibrate_now">Kalibrera</string>
     <string name="popup_camera_calibrate_failed">Kunde inte kalibrera</string>
-    <string name="popup_camera_calibrate_success">Calibrated successfully. You can open the front camera now.</string>
-    <string name="stop_operate_camera_frequently">You\'re opening the front camera too frequently.</string>
-    <string name="takeback_camera_front_failed">Couldn\'t close front camera. Try again.</string>
-    <string name="popup_camera_front_failed">Couldn\'t open front camera. Try again.</string>
-    <string name="popup_camera_proximity_obstructed">Remove your hand from the proximity sensor to open the front camera...</string>
+    <string name="popup_camera_calibrate_success">Kalibreringen lyckades. Du kan öppna fram kameran nu.</string>
+    <string name="stop_operate_camera_frequently">Du öppnar fram kameran för ofta.</string>
+    <string name="takeback_camera_front_failed">Kunde inte stänga fram kameran. Försök igen.</string>
+    <string name="popup_camera_front_failed">Kunde inte öppna fram kameran. Försök igen.</string>
+    <string name="popup_camera_proximity_obstructed">Ta bort din hand från närhetssensorn för att öppna fram kameran...</string>
     <!-- Clear Speaker -->
-    <string name="clear_speaker_title">Clear speaker</string>
-    <string name="clear_speaker_summary">Play a 30-second audio to clear the speaker</string>
-    <string name="clear_speaker_description">Run this feature once or twice if you find that your speaker is lightly blocked by dust. Set media volume to maximum.\n\nIf the speaker is blocked heavily, run this feature 2-5 times while shaking your device with the speaker facing downwards.</string>
+    <string name="clear_speaker_title">Tydlig Högtalare</string>
+    <string name="clear_speaker_summary">Spela ett 30-sekunds ljudklipp för att klargöra högtalaren</string>
+    <string name="clear_speaker_description">Kör den här funktionen en eller två gånger om din högtalare är lite blockerad av damm. Ställ in media volym till max.\n\nOm högtalaren är hårt blockerad, kör funktionen 2-5 gånger medans du skakar din enhet med högtalaren riktad neråt.</string>
     <!-- Moto Actions - Title and summary -->
-    <string name="moto_actions_title">Moto Actions</string>
+    <string name="moto_actions_title">Moto Åtgärder</string>
     <!-- Device gestures -->
-    <string name="device_gestures_title">Device gestures</string>
-    <string name="device_gestures_summary">Manage device gestures</string>
+    <string name="device_gestures_title">Enhetsgester</string>
+    <string name="device_gestures_summary">Hantera enhetsgester</string>
     <!-- Ambient display gestures -->
-    <string name="ambient_display_manage_summary">Manage ambient display gestures</string>
+    <string name="ambient_display_manage_summary">Hantera ambient display gester</string>
     <!-- Fingerprint gestures -->
-    <string name="fingerprint_gestures_title">Fingerprint gestures</string>
-    <string name="fingerprint_gestures_summary">Use fingerprint gestures</string>
-    <string name="fingerprint_gestures_manage_summary">Manage fingerprint gestures</string>
-    <string name="fingerprint_actions_screenon">Actions with screen on</string>
+    <string name="fingerprint_gestures_title">Fingeravtrycksgester</string>
+    <string name="fingerprint_gestures_summary">Använd fingeravtrycksgester</string>
+    <string name="fingerprint_gestures_manage_summary">Hantera fingeravtrycksgester</string>
+    <string name="fingerprint_actions_screenon">Åtgärder med skärmen på</string>
     <!-- Fingerprint gestures screen off -->
-    <string name="fingerprint_gestures_screenoff_title">Fingerprint gestures when screen off</string>
-    <string name="fingerprint_gestures_screenoff_summary">Use fingerprint gestures when screen off.\n\nFingerprint unlocking must be disabled to use this feature.</string>
-    <string name="fingerprint_actions_screenoff">Actions with screen off</string>
+    <string name="fingerprint_gestures_screenoff_title">Fingertrycksgester med skärmen avstängd</string>
+    <string name="fingerprint_gestures_screenoff_summary">Använd fingeravtrycksgester när skärmen är släckt.\n\nFingeravtrycks upplåsning måste vara avaktiverat för att använda denna funktionen.</string>
+    <string name="fingerprint_actions_screenoff">Åtgärder med skärmen släckt</string>
     <!-- Actions -->
-    <string name="action_home">Home</string>
-    <string name="action_power">Screen on/off</string>
-    <string name="action_wake">Wake</string>
-    <string name="action_back">Back</string>
-    <string name="action_recents">Recents</string>
-    <string name="action_last_app">Last app</string>
-    <string name="action_volume_up">Volume up</string>
-    <string name="action_volume_down">Volume down</string>
+    <string name="action_home">Hem</string>
+    <string name="action_power">Skärm av/på</string>
+    <string name="action_wake">Väck</string>
+    <string name="action_back">Tillbaka</string>
+    <string name="action_recents">Senaste</string>
+    <string name="action_last_app">Senaste app</string>
+    <string name="action_volume_up">Volym upp</string>
+    <string name="action_volume_down">Volym ner</string>
     <string name="action_voice_assistant">Röst asisstent</string>
     <string name="action_play_pause">Spela/pausa</string>
     <string name="action_previous_track">Föregående spår</string>
@@ -141,24 +141,24 @@
     <!-- Screen off gestures -->
     <string name="screen_off_gestures_manage_summary">Hantera gester när skärmen är av</string>
     <!-- Swipe/tap/long tap -->
-    <string name="swipe_left_dlg_title">Select action for swipe left</string>
-    <string name="swipe_right_dlg_title">Select action for swipe right</string>
-    <string name="swipe_up_dlg_title">Select action for swipe up</string>
-    <string name="swipe_down_dlg_title">Select action for swipe down</string>
-    <string name="tap_title">Single tap</string>
-    <string name="double_tap_title">Double tap</string>
-    <string name="long_tap_title">Long tap</string>
-    <string name="tap_dlg_title">Select action for single tap</string>
-    <string name="double_tap_dlg_title">Select action for double tap</string>
-    <string name="long_tap_dlg_title">Select action for long tap</string>
+    <string name="swipe_left_dlg_title">Välj åtgärd för dra vänster</string>
+    <string name="swipe_right_dlg_title">Välj åtgärd för dra höger</string>
+    <string name="swipe_up_dlg_title">Välj åtgärd för dra up</string>
+    <string name="swipe_down_dlg_title">Välj åtgärd för dra ner</string>
+    <string name="tap_title">Ett tryck</string>
+    <string name="double_tap_title">Dubbeltryck</string>
+    <string name="long_tap_title">Långtryck</string>
+    <string name="tap_dlg_title">Välj en åtgärd för engångstryck</string>
+    <string name="double_tap_dlg_title">Välj en åtgärd för dubbeltryck</string>
+    <string name="long_tap_dlg_title">Välj en åtgärd för långtryck</string>
     <!-- Double tap to wake -->
-    <string name="tap_to_wake">Tap to wake</string>
-    <string name="tap_to_wake_summary">Double-tap anywhere on the screen to wake device</string>
+    <string name="tap_to_wake">Tryck för att väcka</string>
+    <string name="tap_to_wake_summary">Dubbeltryck någonstans på skärmen för att väcka enheten</string>
     <!-- Proximity sensor -->
-    <string name="allow_proximity_sensor_title">Allow proximity sensor</string>
-    <string name="allow_proximity_sensor_summary">Check the proximity sensor before performing the action</string>
+    <string name="allow_proximity_sensor_title">Tillåt närhetssensor</string>
+    <string name="allow_proximity_sensor_summary">Kolla närhetssensorn innan åtgärdsutförande</string>
     <!-- OnePlus - General -->
-    <string name="oneplus_advanced_settings">OnePlus Settings</string>
+    <string name="oneplus_advanced_settings">OnePlus Inställningar</string>
     <string name="oneplus_advanced_settings_summary">Custom settings for your device</string>
     <!-- OnePlus - PanelModes -->
     <string name="panel_modes_settings_title">Panel Modes</string>
