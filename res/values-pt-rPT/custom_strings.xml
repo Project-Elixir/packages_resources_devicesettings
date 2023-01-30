@@ -108,117 +108,117 @@
     <string name="device_gestures_title">Gestos do dispositivo</string>
     <string name="device_gestures_summary">Gerir os gestos do dispositivo</string>
     <!-- Ambient display gestures -->
-    <string name="ambient_display_manage_summary">Manage ambient display gestures</string>
+    <string name="ambient_display_manage_summary">Gerir gestos do modo ambiente</string>
     <!-- Fingerprint gestures -->
-    <string name="fingerprint_gestures_title">Fingerprint gestures</string>
-    <string name="fingerprint_gestures_summary">Use fingerprint gestures</string>
-    <string name="fingerprint_gestures_manage_summary">Manage fingerprint gestures</string>
-    <string name="fingerprint_actions_screenon">Actions with screen on</string>
+    <string name="fingerprint_gestures_title">Gestos do leitor de impressões digitais</string>
+    <string name="fingerprint_gestures_summary">Utilizar gestos do leitor de impressões digitais</string>
+    <string name="fingerprint_gestures_manage_summary">Gerir gestos do leitor de impressões digitais</string>
+    <string name="fingerprint_actions_screenon">Ações com o ecrã ligado</string>
     <!-- Fingerprint gestures screen off -->
-    <string name="fingerprint_gestures_screenoff_title">Fingerprint gestures when screen off</string>
-    <string name="fingerprint_gestures_screenoff_summary">Use fingerprint gestures when screen off.\n\nFingerprint unlocking must be disabled to use this feature.</string>
-    <string name="fingerprint_actions_screenoff">Actions with screen off</string>
+    <string name="fingerprint_gestures_screenoff_title">Gestos do leitor de impressões digitais com o ecrã desligado</string>
+    <string name="fingerprint_gestures_screenoff_summary">Utilizar gestos do leitor de impressões digitais quando o ecrã está desligado.\n\nO desbloqueio através do leitor de impressões digitais deve estar desativado para utilizar esta funcionalidade.</string>
+    <string name="fingerprint_actions_screenoff">Ações com o ecrã desligado</string>
     <!-- Actions -->
-    <string name="action_home">Home</string>
-    <string name="action_power">Screen on/off</string>
-    <string name="action_wake">Wake</string>
-    <string name="action_back">Back</string>
-    <string name="action_recents">Recents</string>
-    <string name="action_last_app">Last app</string>
-    <string name="action_volume_up">Volume up</string>
-    <string name="action_volume_down">Volume down</string>
-    <string name="action_voice_assistant">Voice assistant</string>
-    <string name="action_play_pause">Play/pause</string>
-    <string name="action_previous_track">Previous track</string>
-    <string name="action_next_track">Next track</string>
-    <string name="action_flashlight">Flashlight on/off</string>
-    <string name="action_camera">Open camera</string>
-    <string name="action_screenshot">Take screenshot</string>
-    <string name="action_browser">Open browser</string>
-    <string name="action_dialer">Open dialer</string>
-    <string name="action_email">Open email app</string>
-    <string name="action_messages">Open messages app</string>
+    <string name="action_home">Ecrã inicial</string>
+    <string name="action_power">Ligar ou desligar ecrã</string>
+    <string name="action_wake">Acordar</string>
+    <string name="action_back">Voltar</string>
+    <string name="action_recents">Recentes</string>
+    <string name="action_last_app">Última aplicação</string>
+    <string name="action_volume_up">Aumentar volume</string>
+    <string name="action_volume_down">Diminuir volume</string>
+    <string name="action_voice_assistant">Assistente de voz</string>
+    <string name="action_play_pause">Reproduzir/pausar</string>
+    <string name="action_previous_track">Faixa anterior</string>
+    <string name="action_next_track">Faixa seguinte</string>
+    <string name="action_flashlight">Ligar ou desligar lanterna</string>
+    <string name="action_camera">Abrir câmara</string>
+    <string name="action_screenshot">Efetuar captura de ecrã</string>
+    <string name="action_browser">Abrir navegador</string>
+    <string name="action_dialer">Abrir dialer</string>
+    <string name="action_email">Abrir aplicação de email</string>
+    <string name="action_messages">Abrir aplicação de mensagens</string>
     <!-- Screen off gestures -->
-    <string name="screen_off_gestures_manage_summary">Manage gestures when screen is off</string>
+    <string name="screen_off_gestures_manage_summary">Gerir gestos com o ecrã desligado</string>
     <!-- Swipe/tap/long tap -->
-    <string name="swipe_left_dlg_title">Select action for swipe left</string>
-    <string name="swipe_right_dlg_title">Select action for swipe right</string>
-    <string name="swipe_up_dlg_title">Select action for swipe up</string>
-    <string name="swipe_down_dlg_title">Select action for swipe down</string>
-    <string name="tap_title">Single tap</string>
-    <string name="double_tap_title">Double tap</string>
-    <string name="long_tap_title">Long tap</string>
-    <string name="tap_dlg_title">Select action for single tap</string>
-    <string name="double_tap_dlg_title">Select action for double tap</string>
-    <string name="long_tap_dlg_title">Select action for long tap</string>
+    <string name="swipe_left_dlg_title">Selecione a ação ao deslizar para a esquerda</string>
+    <string name="swipe_right_dlg_title">Selecione a ação ao deslizar para a direita</string>
+    <string name="swipe_up_dlg_title">Selecione a ação ao deslizar para cima</string>
+    <string name="swipe_down_dlg_title">Selecione a ação ao deslizar para baixo</string>
+    <string name="tap_title">Toque único</string>
+    <string name="double_tap_title">Toque duplo</string>
+    <string name="long_tap_title">Toque longo</string>
+    <string name="tap_dlg_title">Selecione a ação para toque único</string>
+    <string name="double_tap_dlg_title">Selecione a ação para toque duplo</string>
+    <string name="long_tap_dlg_title">Selecione a ação para toque longo</string>
     <!-- Double tap to wake -->
-    <string name="tap_to_wake">Tap to wake</string>
-    <string name="tap_to_wake_summary">Double-tap anywhere on the screen to wake device</string>
+    <string name="tap_to_wake">Tocar para acordar</string>
+    <string name="tap_to_wake_summary">Duplo toque em qualquer parte do ecrã para acordar o dispositivo</string>
     <!-- Proximity sensor -->
-    <string name="allow_proximity_sensor_title">Allow proximity sensor</string>
-    <string name="allow_proximity_sensor_summary">Check the proximity sensor before performing the action</string>
+    <string name="allow_proximity_sensor_title">Permitir sensor de proximidade</string>
+    <string name="allow_proximity_sensor_summary">Verificar o sensor de proximidade antes de efetuar a ação</string>
     <!-- OnePlus - General -->
-    <string name="oneplus_advanced_settings">OnePlus Settings</string>
-    <string name="oneplus_advanced_settings_summary">Custom settings for your device</string>
+    <string name="oneplus_advanced_settings">Definições OnePlus</string>
+    <string name="oneplus_advanced_settings_summary">Definições personalizadas para o seu dispositivo</string>
     <!-- OnePlus - PanelModes -->
-    <string name="panel_modes_settings_title">Panel Modes</string>
-    <string name="panel_modes_settings_summary">Choose a pre-made display calibration</string>
+    <string name="panel_modes_settings_title">Moldes de painel</string>
+    <string name="panel_modes_settings_summary">Escolha um modo de calibração de ecrã pré-concebido</string>
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">Alert slider</string>
-    <string name="notification_slider_selection_dialog_title">Action</string>
-    <string name="notification_slider_top_position">Top position</string>
-    <string name="notification_slider_middle_position">Middle position</string>
+    <string name="notification_slider_selection_dialog_title">Ação</string>
+    <string name="notification_slider_top_position">Posição superior</string>
+    <string name="notification_slider_middle_position">Posição intermédia</string>
     <string name="notification_slider_bottom_position">Bottom position</string>
-    <string name="notification_slider_mode_total_silence">Total silence</string>
-    <string name="notification_slider_mode_alarms_only">Alarms only</string>
-    <string name="notification_slider_mode_priority_only">Priority only</string>
-    <string name="notification_slider_mode_silent">Silent</string>
-    <string name="notification_slider_mode_vibrate">Vibrate</string>
+    <string name="notification_slider_mode_total_silence">Silêncio total</string>
+    <string name="notification_slider_mode_alarms_only">Apenas alarmes</string>
+    <string name="notification_slider_mode_priority_only">Apenas prioridade</string>
+    <string name="notification_slider_mode_silent">Silêncio</string>
+    <string name="notification_slider_mode_vibrate">Vibração</string>
     <string name="notification_slider_mode_none">Normal</string>
     <!-- Thermal profiles -->
-    <string name="thermal_title">Optimization profiles</string>
-    <string name="thermal_summary">Adjust per-app profiles for optimum performance</string>
-    <string name="thermal_default">No optimization</string>
+    <string name="thermal_title">Perfis de otimização</string>
+    <string name="thermal_summary">Ajustar perfis por aplicação para uma performance otimizada</string>
+    <string name="thermal_default">Sem otimização</string>
     <string name="thermal_benchmark">Performance</string>
-    <string name="thermal_browser">Browser</string>
-    <string name="thermal_camera">Camera</string>
+    <string name="thermal_browser">Navegador</string>
+    <string name="thermal_camera">Câmara</string>
     <string name="thermal_dialer">Dialer</string>
-    <string name="thermal_gaming">Games</string>
-    <string name="thermal_streaming">Streaming applications</string>
+    <string name="thermal_gaming">Jogos</string>
+    <string name="thermal_streaming">Aplicações de streaming</string>
     <!-- Raise to wake strings-->
-    <string name="raise_to_wake_gesture_title">Raise to wake</string>
-    <string name="raise_to_wake_gesture_summary">Wake up the device instead of pulsing notification</string>
+    <string name="raise_to_wake_gesture_title">Levantar para acordar</string>
+    <string name="raise_to_wake_gesture_summary">Acordar o dispositivo ao invés de pulsar as notificações</string>
     <!-- Refresh Rate Settings -->
-    <string name="device_min_refresh_rate">Minimum refresh rate</string>
-    <string name="device_power_save_refresh_rate">Save battery automatically</string>
-    <string name="device_power_save_refresh_rate_switch">Automatically lower refresh rate when battery saver is active</string>
-    <string name="refresh_rate_settings_title">Screen refresh rate</string>
-    <string name="refresh_rate_settings_summary">Adjust screen refresh rate</string>
-    <string name="refresh_rate_tile_title">Refresh Rate</string>
-    <string name="refresh_rate_tile_disabled">Battery saver enabled</string>
+    <string name="device_min_refresh_rate">Taxa de atualização mínima</string>
+    <string name="device_power_save_refresh_rate">Poupar bateria automaticamente</string>
+    <string name="device_power_save_refresh_rate_switch">Reduzir a taxa de atualização automaticamente quando o modo de poupança de energia está ativo</string>
+    <string name="refresh_rate_settings_title">Taxa de atualização do ecrã</string>
+    <string name="refresh_rate_settings_summary">Ajustar a taxa de atualização do ecrã</string>
+    <string name="refresh_rate_tile_title">Taxa de Atualização</string>
+    <string name="refresh_rate_tile_disabled">Modo de poupança de bateria ativado</string>
     <!-- Touch Control Settings -->
-    <string name="touch_control_title">Touch screen optimizations</string>
-    <string name="touch_game_mode_title">Enable game mode</string>
-    <string name="touch_game_mode_summary">Helps to improve the gaming experience by optimizing the touch screen</string>
-    <string name="touch_response_title">Touch response</string>
-    <string name="touch_response_summary">Controls touch response</string>
-    <string name="touch_sensitivity_title">Touch sensitivity</string>
-    <string name="touch_sensitivity_summary">Controls the sensitivity for repeated taps</string>
-    <string name="touch_resistant_title">Touch-resistant area</string>
-    <string name="touch_resistant_summary">Reduces sensitivity near the edges to prevent accidental touches</string>
+    <string name="touch_control_title">Otimizações do ecrã tátil</string>
+    <string name="touch_game_mode_title">Ativar modo de jogo</string>
+    <string name="touch_game_mode_summary">Ajuda a melhorar a experiência gaming ao otimizar o ecrã tátil</string>
+    <string name="touch_response_title">Resposta ao toque</string>
+    <string name="touch_response_summary">Controlos de resposta ao toque</string>
+    <string name="touch_sensitivity_title">Sensibilidade do toque</string>
+    <string name="touch_sensitivity_summary">Controla a sensibilidade para toque repetidos</string>
+    <string name="touch_resistant_title">Área resistente ao toque</string>
+    <string name="touch_resistant_summary">Reduz a sensibilidade junto às margens do ecrã para prevenir toques acidentais</string>
     <!-- Button settings -->
-    <string name="button_settings_title">Buttons</string>
-    <string name="button_swap_summary">Swap Navigation Buttons</string>
-    <string name="home_button_extra_settings">Customize home button behavior</string>
+    <string name="button_settings_title">Botões</string>
+    <string name="button_swap_summary">Alterar Botões de Navegação</string>
+    <string name="home_button_extra_settings">Personalizar comportamento do botão Home</string>
     <!-- Assistant button -->
-    <string name="assistant_button_action">Assistant key action</string>
+    <string name="assistant_button_action">Ação do botão do assistente</string>
     <!-- Stylus pen -->
-    <string name="stylus_title">Stylus Pen</string>
+    <string name="stylus_title">Caneta Stylus</string>
     <!-- High Brightness Mode-->
-    <string name="hbm_title">High Brightness Mode</string>
+    <string name="hbm_title">Modo de Alto Brilho</string>
     <!-- LCD Features -->
-    <string name="lcd_features_title">Additional Display Features</string>
-    <string name="lcd_features_summary">High Brightness Mode (HBM) &amp; Content Adaptive Backlight Control (CABC)</string>
+    <string name="lcd_features_title">Funcionalidades Adicionais do Ecrã</string>
+    <string name="lcd_features_summary">Modo de Alto Brilho (HBM) &amp; Controle de luz de fundo adaptável (CABC)</string>
     <string name="lcd_features_info">High Brightness Mode (HBM) increases the maximum brightness of the display to improve visibility under sunlight. Increases power consumption.\n\nContent Adaptive Backlight Control (CABC) adjusts display and backlight brightness based on currently shown content, to reduce power consumption without degradation.</string>
     <string name="kernel_not_supported">Kernel did not support this feature</string>
     <string name="lcd_hbm_title">High Brightness Mode</string>
