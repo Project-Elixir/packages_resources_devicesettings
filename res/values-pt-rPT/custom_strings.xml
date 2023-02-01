@@ -168,7 +168,7 @@
     <string name="notification_slider_selection_dialog_title">Ação</string>
     <string name="notification_slider_top_position">Posição superior</string>
     <string name="notification_slider_middle_position">Posição intermédia</string>
-    <string name="notification_slider_bottom_position">Bottom position</string>
+    <string name="notification_slider_bottom_position">Posição inferior</string>
     <string name="notification_slider_mode_total_silence">Silêncio total</string>
     <string name="notification_slider_mode_alarms_only">Apenas alarmes</string>
     <string name="notification_slider_mode_priority_only">Apenas prioridade</string>
