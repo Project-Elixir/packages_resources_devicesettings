@@ -159,94 +159,94 @@
     <string name="allow_proximity_sensor_summary">Kolla närhetssensorn innan åtgärdsutförande</string>
     <!-- OnePlus - General -->
     <string name="oneplus_advanced_settings">OnePlus Inställningar</string>
-    <string name="oneplus_advanced_settings_summary">Custom settings for your device</string>
+    <string name="oneplus_advanced_settings_summary">Anpassade inställningar för din enhet</string>
     <!-- OnePlus - PanelModes -->
-    <string name="panel_modes_settings_title">Panel Modes</string>
-    <string name="panel_modes_settings_summary">Choose a pre-made display calibration</string>
+    <string name="panel_modes_settings_title">Panel Lägen</string>
+    <string name="panel_modes_settings_summary">Välj en förhandsgjord skärm kalibrering</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">Alert slider</string>
-    <string name="notification_slider_selection_dialog_title">Action</string>
-    <string name="notification_slider_top_position">Top position</string>
-    <string name="notification_slider_middle_position">Middle position</string>
-    <string name="notification_slider_bottom_position">Bottom position</string>
-    <string name="notification_slider_mode_total_silence">Total silence</string>
-    <string name="notification_slider_mode_alarms_only">Alarms only</string>
-    <string name="notification_slider_mode_priority_only">Priority only</string>
-    <string name="notification_slider_mode_silent">Silent</string>
-    <string name="notification_slider_mode_vibrate">Vibrate</string>
+    <string name="notification_slider_category_title">Varningsreglage</string>
+    <string name="notification_slider_selection_dialog_title">Handling</string>
+    <string name="notification_slider_top_position">Topp position</string>
+    <string name="notification_slider_middle_position">Mitten position</string>
+    <string name="notification_slider_bottom_position">Botten position</string>
+    <string name="notification_slider_mode_total_silence">Total tystnad</string>
+    <string name="notification_slider_mode_alarms_only">Endast alarm</string>
+    <string name="notification_slider_mode_priority_only">Endast prioritet</string>
+    <string name="notification_slider_mode_silent">Tyst</string>
+    <string name="notification_slider_mode_vibrate">Vibrera</string>
     <string name="notification_slider_mode_none">Normal</string>
     <!-- Thermal profiles -->
-    <string name="thermal_title">Optimization profiles</string>
-    <string name="thermal_summary">Adjust per-app profiles for optimum performance</string>
-    <string name="thermal_default">No optimization</string>
-    <string name="thermal_benchmark">Performance</string>
-    <string name="thermal_browser">Browser</string>
-    <string name="thermal_camera">Camera</string>
-    <string name="thermal_dialer">Dialer</string>
-    <string name="thermal_gaming">Games</string>
-    <string name="thermal_streaming">Streaming applications</string>
+    <string name="thermal_title">Optimiseringsprofiler</string>
+    <string name="thermal_summary">Justera per-app profiler för optimal prestanda</string>
+    <string name="thermal_default">Ingen optimisering</string>
+    <string name="thermal_benchmark">Prestanda</string>
+    <string name="thermal_browser">Webbläsare</string>
+    <string name="thermal_camera">Kamera</string>
+    <string name="thermal_dialer">Uppringare</string>
+    <string name="thermal_gaming">Spel</string>
+    <string name="thermal_streaming">Streamingapplikationer</string>
     <!-- Raise to wake strings-->
-    <string name="raise_to_wake_gesture_title">Raise to wake</string>
-    <string name="raise_to_wake_gesture_summary">Wake up the device instead of pulsing notification</string>
+    <string name="raise_to_wake_gesture_title">Res för att väcka</string>
+    <string name="raise_to_wake_gesture_summary">Väcker enheten istället för att pulsa notifikation</string>
     <!-- Refresh Rate Settings -->
-    <string name="device_min_refresh_rate">Minimum refresh rate</string>
-    <string name="device_power_save_refresh_rate">Save battery automatically</string>
-    <string name="device_power_save_refresh_rate_switch">Automatically lower refresh rate when battery saver is active</string>
-    <string name="refresh_rate_settings_title">Screen refresh rate</string>
-    <string name="refresh_rate_settings_summary">Adjust screen refresh rate</string>
-    <string name="refresh_rate_tile_title">Refresh Rate</string>
-    <string name="refresh_rate_tile_disabled">Battery saver enabled</string>
+    <string name="device_min_refresh_rate">Minsta uppdateringsfrekvens</string>
+    <string name="device_power_save_refresh_rate">Spara batteri automatiskt</string>
+    <string name="device_power_save_refresh_rate_switch">Sänker uppdateringsfrekvens när batterispararen är aktiv</string>
+    <string name="refresh_rate_settings_title">Skärm uppdateringsfrekvens</string>
+    <string name="refresh_rate_settings_summary">Justera skärm uppdateringsfrekvens</string>
+    <string name="refresh_rate_tile_title">Uppdateringsfrekvens</string>
+    <string name="refresh_rate_tile_disabled">Batterisparare aktiverad</string>
     <!-- Touch Control Settings -->
-    <string name="touch_control_title">Touch screen optimizations</string>
-    <string name="touch_game_mode_title">Enable game mode</string>
-    <string name="touch_game_mode_summary">Helps to improve the gaming experience by optimizing the touch screen</string>
-    <string name="touch_response_title">Touch response</string>
-    <string name="touch_response_summary">Controls touch response</string>
-    <string name="touch_sensitivity_title">Touch sensitivity</string>
-    <string name="touch_sensitivity_summary">Controls the sensitivity for repeated taps</string>
-    <string name="touch_resistant_title">Touch-resistant area</string>
-    <string name="touch_resistant_summary">Reduces sensitivity near the edges to prevent accidental touches</string>
+    <string name="touch_control_title">Pekskärmsoptimeringar</string>
+    <string name="touch_game_mode_title">Aktivera spelläge</string>
+    <string name="touch_game_mode_summary">Hjälper att förbättra spelupplevelsen genom att optimera pekskärmen</string>
+    <string name="touch_response_title">Touch respons</string>
+    <string name="touch_response_summary">Kontrollerar touch respons</string>
+    <string name="touch_sensitivity_title">Touch känslighet</string>
+    <string name="touch_sensitivity_summary">Kontrollerar känsligheten för repeterade tryck</string>
+    <string name="touch_resistant_title">Touch-resistent yta</string>
+    <string name="touch_resistant_summary">Sänker känsligheten nära kanterna för att motverka oavsiktlig touch</string>
     <!-- Button settings -->
-    <string name="button_settings_title">Buttons</string>
-    <string name="button_swap_summary">Swap Navigation Buttons</string>
-    <string name="home_button_extra_settings">Customize home button behavior</string>
+    <string name="button_settings_title">Knappar</string>
+    <string name="button_swap_summary">Byta Navigations Knappar</string>
+    <string name="home_button_extra_settings">Anpassa hemknappsbeteende</string>
     <!-- Assistant button -->
-    <string name="assistant_button_action">Assistant key action</string>
+    <string name="assistant_button_action">Assistent knapp åtgärd</string>
     <!-- Stylus pen -->
-    <string name="stylus_title">Stylus Pen</string>
+    <string name="stylus_title">Stylus Penna</string>
     <!-- High Brightness Mode-->
-    <string name="hbm_title">High Brightness Mode</string>
+    <string name="hbm_title">Hög Ljusstyrke Läge</string>
     <!-- LCD Features -->
-    <string name="lcd_features_title">Additional Display Features</string>
-    <string name="lcd_features_summary">High Brightness Mode (HBM) &amp; Content Adaptive Backlight Control (CABC)</string>
-    <string name="lcd_features_info">High Brightness Mode (HBM) increases the maximum brightness of the display to improve visibility under sunlight. Increases power consumption.\n\nContent Adaptive Backlight Control (CABC) adjusts display and backlight brightness based on currently shown content, to reduce power consumption without degradation.</string>
-    <string name="kernel_not_supported">Kernel did not support this feature</string>
-    <string name="lcd_hbm_title">High Brightness Mode</string>
-    <string name="lcd_hbm_summary">Increase screen brightness under sunlight</string>
+    <string name="lcd_features_title">Ytterligare Skärm Funktioner</string>
+    <string name="lcd_features_summary">Hög Ljusstyrke Läge (HBM) &amp; Innehållsanpassningsbar bakgrundsbelysning (CABC)</string>
+    <string name="lcd_features_info">Hög Ljusstyrke Läge (HBM) ökar max ljusstyrkan av skärmen för att förbättra synligheten under solsken. Ökar ström konsumptionen.\n\nInnehållsanpassningsbar bakgrundsbelysning (CABC) justerar skärmen och backljus ljusstyrka baserad på vad som syns på skärmen, för att sänka strömkonsumption utan degradering.</string>
+    <string name="kernel_not_supported">Kernel stödde inte denna funktion</string>
+    <string name="lcd_hbm_title">Hög Ljusstyrke Läge</string>
+    <string name="lcd_hbm_summary">Öka skärm ljusstyrkan under solljus</string>
     <string name="lcd_hbm_tile_title">HBM</string>
-    <string name="lcd_hbm_title_enabled">Enabled</string>
-    <string name="lcd_hbm_title_disabled">Disabled</string>
-    <string name="lcd_cabc_title">Content Adaptive Backlight Control</string>
+    <string name="lcd_hbm_title_enabled">Aktiverad</string>
+    <string name="lcd_hbm_title_disabled">Avaktiverad</string>
+    <string name="lcd_cabc_title">Innehållsanpassningsbar bakgrundsbelysning</string>
     <string name="lcd_cabc_tile_title">CABC</string>
-    <string name="lcd_cabc_off">Off</string>
-    <string name="lcd_cabc_low">Low (UI)</string>
-    <string name="lcd_cabc_medium">Medium (Videos)</string>
-    <string name="lcd_cabc_high">High (Images)</string>
+    <string name="lcd_cabc_off">Av</string>
+    <string name="lcd_cabc_low">Låg (UI)</string>
+    <string name="lcd_cabc_medium">Mellan (Videor)</string>
+    <string name="lcd_cabc_high">Hög (Bilder)</string>
     <!-- Always on brightness -->
-    <string name="doze_brightness_title">Always on brightness</string>
-    <string name="doze_brightness_summary">%s mode is enabled</string>
-    <string name="doze_brightness_low">Low brightness</string>
-    <string name="doze_brightness_high">High brightness</string>
-    <string name="doze_brightness_adaptive">Adaptive brightness</string>
+    <string name="doze_brightness_title">Alltid på ljusstyrka</string>
+    <string name="doze_brightness_summary">%s läge är aktiverad</string>
+    <string name="doze_brightness_low">Låg ljusstyrka</string>
+    <string name="doze_brightness_high">Hög ljusstyrka</string>
+    <string name="doze_brightness_adaptive">Adaptiv ljusstyrka</string>
     <!-- Refresh Rate per-app -->
-    <string name="refresh_title">Refresh rate per-app</string>
-    <string name="refresh_summary">Set a specific refresh rate for each application</string>
-    <string name="refresh_default">Default</string>
-    <string name="refresh_low">Low (30Hz)</string>
-    <string name="refresh_medium">Medium (60Hz)</string>
-    <string name="refresh_high">High (90Hz)</string>
-    <string name="refresh_extreme">Extreme (120Hz)</string>
+    <string name="refresh_title">Uppdateringsfrekvens per-app</string>
+    <string name="refresh_summary">Sätt en specifik uppdateringsfrekvens för varje app</string>
+    <string name="refresh_default">Standard</string>
+    <string name="refresh_low">Låg (30Hz)</string>
+    <string name="refresh_medium">Mellan (60Hz)</string>
+    <string name="refresh_high">Hög (90Hz)</string>
+    <string name="refresh_extreme">Extrem (120Hz)</string>
     <!-- Powershare -->
-    <string name="powershare_enable_title">Battery Share</string>
-    <string name="powershare_enable_summary">Charge other devices by placing them on the back of your phone</string>
+    <string name="powershare_enable_title">Batteridelning</string>
+    <string name="powershare_enable_summary">Ladda andra enheter genom att lägga dem på baksidan av din telefon</string>
 </resources>
