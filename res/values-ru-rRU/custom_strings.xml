@@ -233,7 +233,7 @@
     <string name="lcd_cabc_medium">Среднее (Видео)</string>
     <string name="lcd_cabc_high">Высокое (Изображение)</string>
     <!-- Always on brightness -->
-    <string name="doze_brightness_title">Always on brightness</string>
+    <string name="doze_brightness_title">Яркость всегда включенного экрана</string>
     <string name="doze_brightness_summary">%s режим активирован</string>
     <string name="doze_brightness_low">Низкая яркость</string>
     <string name="doze_brightness_high">Высокая яркость</string>
