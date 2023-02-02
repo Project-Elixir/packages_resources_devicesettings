@@ -13,7 +13,7 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="display_title">Anzeige</string>
+    <string name="display_title">Bildschirm</string>
     <string name="dc_dimming_enable_title">Antiflimmern</string>
     <string name="dc_dimming_enable_summary">Der Antiflimmer-Modus reduziert die Ermüdung der Augen bei schlechten Lichtverhältnissen durch die Funktion \"DC-Dimming\". Dies kann die Farbgenauigkeit beeinträchtigen und die Art und Weise, wie einige Elemente angezeigt werden, beeinflussen.</string>
     <string name="dc_dimming_enable_summary_not_supported">Antiflimmern wird derzeit vom Kernel nicht unterstützt</string>
