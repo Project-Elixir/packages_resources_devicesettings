@@ -13,13 +13,13 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="display_title">Display</string>
-    <string name="dc_dimming_enable_title">Anti flicker</string>
-    <string name="dc_dimming_enable_summary">Anti flicker mode helps reducing eyestrain in low light conditions by using \"DC dimming\" feature. It might degrade color accuracy and affect the way some items are displayed.</string>
-    <string name="dc_dimming_enable_summary_not_supported">Anti flicker is currently not supported by the kernel</string>
+    <string name="display_title">ডিসপ্লে</string>
+    <string name="dc_dimming_enable_title">অ্যান্টি ফ্লিকার</string>
+    <string name="dc_dimming_enable_summary">অল্প আলোতে চোখের ওপর চাপ কমায় ডিসি ডিমিং ফিচার ব্যবহারের মাধ্যমে । তবে ডিসপ্লের কালার একুরেসি কমে যেতে পারে ।.</string>
+    <string name="dc_dimming_enable_summary_not_supported">অ্যান্টি ফ্লিকার বর্তমান কার্নেল দ্বারা সমর্থিত নয়</string>
     <!-- Dirac settings -->
-    <string name="dirac_enable">Use Mi Sound Enhancer</string>
-    <string name="dirac_title">Mi Sound Enhancer</string>
+    <string name="dirac_enable">মি সাউন্ড এনহ্যান্স ব্যবহার করুন</string>
+    <string name="dirac_title">মি সাউন্ড এন হান্সার</string>
     <string name="dirac_summary">Optimize audio quality</string>
     <string name="dirac_headset_title">Choose headphones type</string>
     <string name="dirac_preset_title">Choose a preset</string>
