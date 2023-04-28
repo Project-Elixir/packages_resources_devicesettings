@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- DC Dimming settings -->
+    <string name="display_title">Skärm</string>
+    <string name="dc_dimming_enable_title">Anti flimmer</string>
+    <string name="dc_dimming_enable_summary">Anti flimmer läge hjälper att minska ansträngning för ögonen i svaga ljusförhållanden genom att använda \"DC dimming\" funktionen. Det kan försämra färgnoggrannheten och påverka hur vissa saker visas.</string>
+    <string name="dc_dimming_enable_summary_not_supported">Anti flimmer stöds inte av nuvarande kernel</string>
+    <!-- Dirac settings -->
+    <string name="dirac_enable">Använd Mi Sound Enhancer</string>
+    <string name="dirac_title">Mi Sound Enhancer</string>
+    <string name="dirac_summary">Optimera ljudkvalitet</string>
+    <string name="dirac_headset_title">Välj hörlurstyp</string>
+    <string name="dirac_preset_title">Välj en förinställning</string>
+    <!-- Dirac settings: Hi-Fi -->
+    <string name="dirac_hifi_title">Hi-Fi</string>
+    <string name="dirac_hifi_summary">Minska brus och distorsion och öka ljudkvalitet</string>
+    <string name="dirac_hifi_enable_title">Aktivera Hi-fi</string>
+    <!-- Dirac settings: Headset types -->
+    <string name="dirac_headset_default">Standard</string>
+    <string name="dirac_headset_earbuds">Mi Earbuds</string>
+    <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
+    <string name="dirac_headset_piston_1">Mi Piston-1</string>
+    <string name="dirac_headset_general">Allmänt</string>
+    <string name="dirac_headset_general_inear">Allmän In-Ear</string>
+    <string name="dirac_headset_piston_basic">Basic Edition</string>
+    <string name="dirac_headset_piston_2">Mi Piston-2</string>
+    <string name="dirac_headset_piston_standard">Standard Edition</string>
+    <string name="dirac_headset_headphone">Mi Headphones</string>
+    <string name="dirac_headset_piston_youth">Youth Edition</string>
+    <string name="dirac_headset_piston_color">Color Edition</string>
+    <string name="dirac_headset_in_ear">Mi In-Ear</string>
+    <string name="dirac_headset_capsule">Mi Capsule</string>
+    <string name="dirac_headset_in_ear_pro">Mi In-Ear Pro</string>
+    <string name="dirac_headset_comfort">Mi Comfort</string>
+    <string name="dirac_headset_reduction_noise">Mi Noise Cancelling Type-C</string>
+    <string name="dirac_headset_cancelling">Mi Noise Cancelling 3.5mm</string>
+    <string name="dirac_headset_half_in_ear">Mi Half In-Ear</string>
+    <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
+    <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
+    <string name="dirac_headset_earphone">Mi Earphones</string>
+    <!-- Dirac settings: Equalizer presets -->
+    <string name="dirac_preset_default">Standard</string>
+    <string name="dirac_preset_rock">Rock</string>
+    <string name="dirac_preset_jazz">Jazz</string>
+    <string name="dirac_preset_pop">Pop</string>
+    <string name="dirac_preset_classical">Classical</string>
+    <string name="dirac_preset_hiphop">Hip Hop</string>
+    <string name="dirac_preset_blues">Blues</string>
+    <string name="dirac_preset_electronic">Elektronisk</string>
+    <string name="dirac_preset_country">Country</string>
+    <string name="dirac_preset_dance">Dance</string>
+    <string name="dirac_preset_metal">Metal</string>
+    <string name="dirac_preset_bass_booster">Bass Booster</string>
+    <string name="dirac_preset_live">Live</string>
+    <string name="dirac_preset_balanced">Balanserad</string>
+    <string name="dirac_preset_bass_reduction">Bas Reducering</string>
+    <string name="dirac_preset_treble_reduction">Treble Reducering</string>
+    <string name="dirac_preset_soft_bass">Mjuk Bas</string>
+    <string name="dirac_preset_soft_treble">Mjuk Treble</string>
+    <!-- Dirac Scene Selection -->
+    <string name="music_headset_scenario_select">Välj scen</string>
+    <string name="music_headset_scenario_intelligent">Smart</string>
+    <string name="music_headset_scenario_music">Musik</string>
+    <string name="music_headset_scenario_video">Video</string>
+    <string name="music_headset_scenario_vocal">Röst</string>
+    <!-- Popup camera settings -->
+    <string name="popup_settings_title">Pop-up kamera inställningar</string>
+    <string name="popup_led_title">Kamera LED</string>
+    <string name="popup_led_summary">Visa LED effekt när framkameran hissas upp och ner</string>
+    <string name="popup_sound_title">Ljudeffekter</string>
+    <string name="popup_title_muqin">Xylofon</string>
+    <string name="popup_title_yingyan">Condor</string>
+    <string name="popup_title_mofa">Magisk</string>
+    <string name="popup_title_jijia">Mecha</string>
+    <string name="popup_title_chilun">Gearwheel</string>
+    <string name="popup_title_cangmen">Hyttdörr</string>
+    <!-- Popup camera strings -->
+    <string name="popup_camera_tip">Observera</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">Kunde inte stänga front kameran flertal gånger. Prova att kalibrera kameran.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">Kunde inte öppna front kameran flertal gånger. Prova att kalibrera kameran.</string>
+    <string name="popup_camera_calibrate_running">Front kameran kan inte användas under kalibrering.</string>
+    <string name="popup_camera_calibrate_now">Kalibrera</string>
+    <string name="popup_camera_calibrate_failed">Kunde inte kalibrera</string>
+    <string name="popup_camera_calibrate_success">Kalibreringen lyckades. Du kan öppna fram kameran nu.</string>
+    <string name="stop_operate_camera_frequently">Du öppnar fram kameran för ofta.</string>
+    <string name="takeback_camera_front_failed">Kunde inte stänga fram kameran. Försök igen.</string>
+    <string name="popup_camera_front_failed">Kunde inte öppna fram kameran. Försök igen.</string>
+    <string name="popup_camera_proximity_obstructed">Ta bort din hand från närhetssensorn för att öppna fram kameran...</string>
+    <!-- Clear Speaker -->
+    <string name="clear_speaker_title">Tydlig Högtalare</string>
+    <string name="clear_speaker_summary">Spela ett 30-sekunds ljudklipp för att klargöra högtalaren</string>
+    <string name="clear_speaker_description">Kör den här funktionen en eller två gånger om din högtalare är lite blockerad av damm. Ställ in media volym till max.\n\nOm högtalaren är hårt blockerad, kör funktionen 2-5 gånger medans du skakar din enhet med högtalaren riktad neråt.</string>
+    <!-- Moto Actions - Title and summary -->
+    <string name="moto_actions_title">Moto Åtgärder</string>
+    <!-- Device gestures -->
+    <string name="device_gestures_title">Enhetsgester</string>
+    <string name="device_gestures_summary">Hantera enhetsgester</string>
+    <!-- Ambient display gestures -->
+    <string name="ambient_display_manage_summary">Hantera ambient display gester</string>
+    <!-- Fingerprint gestures -->
+    <string name="fingerprint_gestures_title">Fingeravtrycksgester</string>
+    <string name="fingerprint_gestures_summary">Använd fingeravtrycksgester</string>
+    <string name="fingerprint_gestures_manage_summary">Hantera fingeravtrycksgester</string>
+    <string name="fingerprint_actions_screenon">Åtgärder med skärmen på</string>
+    <!-- Fingerprint gestures screen off -->
+    <string name="fingerprint_gestures_screenoff_title">Fingertrycksgester med skärmen avstängd</string>
+    <string name="fingerprint_gestures_screenoff_summary">Använd fingeravtrycksgester när skärmen är släckt.\n\nFingeravtrycks upplåsning måste vara avaktiverat för att använda denna funktionen.</string>
+    <string name="fingerprint_actions_screenoff">Åtgärder med skärmen släckt</string>
+    <!-- Actions -->
+    <string name="action_home">Hem</string>
+    <string name="action_power">Skärm av/på</string>
+    <string name="action_wake">Väck</string>
+    <string name="action_back">Tillbaka</string>
+    <string name="action_recents">Senaste</string>
+    <string name="action_last_app">Senaste app</string>
+    <string name="action_volume_up">Volym upp</string>
+    <string name="action_volume_down">Volym ner</string>
+    <string name="action_voice_assistant">Röst asisstent</string>
+    <string name="action_play_pause">Spela/pausa</string>
+    <string name="action_previous_track">Föregående spår</string>
+    <string name="action_next_track">Nästa spår</string>
+    <string name="action_flashlight">Ficklampa på/av</string>
+    <string name="action_camera">Öppna kamera</string>
+    <string name="action_screenshot">Ta skärmbild</string>
+    <string name="action_browser">Öppna webbläsare</string>
+    <string name="action_dialer">Öppna uppringare</string>
+    <string name="action_email">Öppna email app</string>
+    <string name="action_messages">Öppna meddelande app</string>
+    <!-- Screen off gestures -->
+    <string name="screen_off_gestures_manage_summary">Hantera gester när skärmen är av</string>
+    <!-- Swipe/tap/long tap -->
+    <string name="swipe_left_dlg_title">Välj åtgärd för dra vänster</string>
+    <string name="swipe_right_dlg_title">Välj åtgärd för dra höger</string>
+    <string name="swipe_up_dlg_title">Välj åtgärd för dra up</string>
+    <string name="swipe_down_dlg_title">Välj åtgärd för dra ner</string>
+    <string name="tap_title">Ett tryck</string>
+    <string name="double_tap_title">Dubbeltryck</string>
+    <string name="long_tap_title">Långtryck</string>
+    <string name="tap_dlg_title">Välj en åtgärd för engångstryck</string>
+    <string name="double_tap_dlg_title">Välj en åtgärd för dubbeltryck</string>
+    <string name="long_tap_dlg_title">Välj en åtgärd för långtryck</string>
+    <!-- Double tap to wake -->
+    <string name="tap_to_wake">Tryck för att väcka</string>
+    <string name="tap_to_wake_summary">Dubbeltryck någonstans på skärmen för att väcka enheten</string>
+    <!-- Proximity sensor -->
+    <string name="allow_proximity_sensor_title">Tillåt närhetssensor</string>
+    <string name="allow_proximity_sensor_summary">Kolla närhetssensorn innan åtgärdsutförande</string>
+    <!-- OnePlus - General -->
+    <string name="oneplus_advanced_settings">OnePlus Inställningar</string>
+    <string name="oneplus_advanced_settings_summary">Anpassade inställningar för din enhet</string>
+    <!-- OnePlus - PanelModes -->
+    <string name="panel_modes_settings_title">Panel Lägen</string>
+    <string name="panel_modes_settings_summary">Välj en förhandsgjord skärm kalibrering</string>
+    <!-- OnePlus - Alert slider settings -->
+    <string name="notification_slider_category_title">Varningsreglage</string>
+    <string name="notification_slider_selection_dialog_title">Handling</string>
+    <string name="notification_slider_top_position">Topp position</string>
+    <string name="notification_slider_middle_position">Mitten position</string>
+    <string name="notification_slider_bottom_position">Botten position</string>
+    <string name="notification_slider_mode_total_silence">Total tystnad</string>
+    <string name="notification_slider_mode_alarms_only">Endast alarm</string>
+    <string name="notification_slider_mode_priority_only">Endast prioritet</string>
+    <string name="notification_slider_mode_silent">Tyst</string>
+    <string name="notification_slider_mode_vibrate">Vibrera</string>
+    <string name="notification_slider_mode_none">Normal</string>
+    <!-- Thermal profiles -->
+    <string name="thermal_title">Optimiseringsprofiler</string>
+    <string name="thermal_summary">Justera per-app profiler för optimal prestanda</string>
+    <string name="thermal_default">Ingen optimisering</string>
+    <string name="thermal_benchmark">Prestanda</string>
+    <string name="thermal_browser">Webbläsare</string>
+    <string name="thermal_camera">Kamera</string>
+    <string name="thermal_dialer">Uppringare</string>
+    <string name="thermal_gaming">Spel</string>
+    <string name="thermal_streaming">Streamingapplikationer</string>
+    <!-- Raise to wake strings-->
+    <string name="raise_to_wake_gesture_title">Res för att väcka</string>
+    <string name="raise_to_wake_gesture_summary">Väcker enheten istället för att pulsa notifikation</string>
+    <!-- Refresh Rate Settings -->
+    <string name="device_min_refresh_rate">Minsta uppdateringsfrekvens</string>
+    <string name="device_power_save_refresh_rate">Spara batteri automatiskt</string>
+    <string name="device_power_save_refresh_rate_switch">Sänker uppdateringsfrekvens när batterispararen är aktiv</string>
+    <string name="refresh_rate_settings_title">Skärm uppdateringsfrekvens</string>
+    <string name="refresh_rate_settings_summary">Justera skärm uppdateringsfrekvens</string>
+    <string name="refresh_rate_tile_title">Uppdateringsfrekvens</string>
+    <string name="refresh_rate_tile_disabled">Batterisparare aktiverad</string>
+    <!-- Touch Control Settings -->
+    <string name="touch_control_title">Pekskärmsoptimeringar</string>
+    <string name="touch_game_mode_title">Aktivera spelläge</string>
+    <string name="touch_game_mode_summary">Hjälper att förbättra spelupplevelsen genom att optimera pekskärmen</string>
+    <string name="touch_response_title">Touch respons</string>
+    <string name="touch_response_summary">Kontrollerar touch respons</string>
+    <string name="touch_sensitivity_title">Touch känslighet</string>
+    <string name="touch_sensitivity_summary">Kontrollerar känsligheten för repeterade tryck</string>
+    <string name="touch_resistant_title">Touch-resistent yta</string>
+    <string name="touch_resistant_summary">Sänker känsligheten nära kanterna för att motverka oavsiktlig touch</string>
+    <!-- Button settings -->
+    <string name="button_settings_title">Knappar</string>
+    <string name="button_swap_summary">Byta Navigations Knappar</string>
+    <string name="home_button_extra_settings">Anpassa hemknappsbeteende</string>
+    <!-- Assistant button -->
+    <string name="assistant_button_action">Assistent knapp åtgärd</string>
+    <!-- Stylus pen -->
+    <string name="stylus_title">Stylus Penna</string>
+    <!-- High Brightness Mode-->
+    <string name="hbm_title">Hög Ljusstyrke Läge</string>
+    <!-- LCD Features -->
+    <string name="lcd_features_title">Ytterligare Skärm Funktioner</string>
+    <string name="lcd_features_summary">Hög Ljusstyrke Läge (HBM) &amp; Innehållsanpassningsbar bakgrundsbelysning (CABC)</string>
+    <string name="lcd_features_info">Hög Ljusstyrke Läge (HBM) ökar max ljusstyrkan av skärmen för att förbättra synligheten under solsken. Ökar ström konsumptionen.\n\nInnehållsanpassningsbar bakgrundsbelysning (CABC) justerar skärmen och backljus ljusstyrka baserad på vad som syns på skärmen, för att sänka strömkonsumption utan degradering.</string>
+    <string name="kernel_not_supported">Kernel stödde inte denna funktion</string>
+    <string name="lcd_hbm_title">Hög Ljusstyrke Läge</string>
+    <string name="lcd_hbm_summary">Öka skärm ljusstyrkan under solljus</string>
+    <string name="lcd_hbm_tile_title">HBM</string>
+    <string name="lcd_hbm_title_enabled">Aktiverad</string>
+    <string name="lcd_hbm_title_disabled">Avaktiverad</string>
+    <string name="lcd_cabc_title">Innehållsanpassningsbar bakgrundsbelysning</string>
+    <string name="lcd_cabc_tile_title">CABC</string>
+    <string name="lcd_cabc_off">Av</string>
+    <string name="lcd_cabc_low">Låg (UI)</string>
+    <string name="lcd_cabc_medium">Mellan (Videor)</string>
+    <string name="lcd_cabc_high">Hög (Bilder)</string>
+    <!-- Always on brightness -->
+    <string name="doze_brightness_title">Alltid på ljusstyrka</string>
+    <string name="doze_brightness_summary">%s läge är aktiverad</string>
+    <string name="doze_brightness_low">Låg ljusstyrka</string>
+    <string name="doze_brightness_high">Hög ljusstyrka</string>
+    <string name="doze_brightness_adaptive">Adaptiv ljusstyrka</string>
+    <!-- Refresh Rate per-app -->
+    <string name="refresh_title">Uppdateringsfrekvens per-app</string>
+    <string name="refresh_summary">Sätt en specifik uppdateringsfrekvens för varje app</string>
+    <string name="refresh_default">Standard</string>
+    <string name="refresh_low">Låg (30Hz)</string>
+    <string name="refresh_medium">Mellan (60Hz)</string>
+    <string name="refresh_high">Hög (90Hz)</string>
+    <string name="refresh_extreme">Extrem (120Hz)</string>
+    <!-- Powershare -->
+    <string name="powershare_enable_title">Batteridelning</string>
+    <string name="powershare_enable_summary">Ladda andra enheter genom att lägga dem på baksidan av din telefon</string>
+</resources>
