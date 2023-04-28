@@ -248,5 +248,5 @@
     <string name="refresh_extreme">Extrem (120Hz)</string>
     <!-- Powershare -->
     <string name="powershare_enable_title">Akkustand teilen</string>
-    <string name="powershare_enable_summary">Andere Geräte aufladen, indem du es auf die Rückseite deines Telefon legst</string>
+    <string name="powershare_enable_summary">Andere Geräte laden, indem du es auf die Rückseite deines Telefons legst</string>
 </resources>
