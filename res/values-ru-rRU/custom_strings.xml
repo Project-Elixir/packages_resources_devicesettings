@@ -39,7 +39,7 @@
     <string name="dirac_headset_piston_standard">Стандартное издание</string>
     <string name="dirac_headset_headphone">Mi Headphones</string>
     <string name="dirac_headset_piston_youth">Студенческое издание</string>
-    <string name="dirac_headset_piston_color">Цветастое издание</string>
+    <string name="dirac_headset_piston_color">Цветное издание</string>
     <string name="dirac_headset_in_ear">Mi In-Ear</string>
     <string name="dirac_headset_capsule">Mi Capsule</string>
     <string name="dirac_headset_in_ear_pro">Mi In-Ear Pro</string>
@@ -78,7 +78,7 @@
     <!-- Popup camera settings -->
     <string name="popup_settings_title">Настройки выдвижной камеры</string>
     <string name="popup_led_title">Вспышка камеры</string>
-    <string name="popup_led_summary">Мигать вспышкой когда фронтальная камера поднимается и опускается</string>
+    <string name="popup_led_summary">Мигать вспышкой, когда фронтальная камера поднимается и опускается</string>
     <string name="popup_sound_title">Звуковые эффекты</string>
     <string name="popup_title_muqin">Ксилофон</string>
     <string name="popup_title_yingyan">Кондор</string>
@@ -155,16 +155,16 @@
     <string name="tap_to_wake">Коснитесь, чтобы разбудить</string>
     <string name="tap_to_wake_summary">Дважды коснитесь в любом месте экрана, чтобы разбудить устройство</string>
     <!-- Proximity sensor -->
-    <string name="allow_proximity_sensor_title">Разрешить датчик приближения</string>
+    <string name="allow_proximity_sensor_title">Использовать датчик приближения</string>
     <string name="allow_proximity_sensor_summary">Перед выполнением действия проверьте датчик приближения</string>
     <!-- OnePlus - General -->
     <string name="oneplus_advanced_settings">Настройки OnePlus</string>
     <string name="oneplus_advanced_settings_summary">Пользовательские настройки для вашего устройства</string>
     <!-- OnePlus - PanelModes -->
-    <string name="panel_modes_settings_title">Виды панелей</string>
+    <string name="panel_modes_settings_title">Режимы панели</string>
     <string name="panel_modes_settings_summary">Выберите готовую калибровку дисплея</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">Ползунок предупреждений</string>
+    <string name="notification_slider_category_title">Ползунок уведомлений</string>
     <string name="notification_slider_selection_dialog_title">Действие</string>
     <string name="notification_slider_top_position">Сверху</string>
     <string name="notification_slider_middle_position">В центре</string>
@@ -187,25 +187,25 @@
     <string name="thermal_streaming">Потоковые приложения</string>
     <!-- Raise to wake strings-->
     <string name="raise_to_wake_gesture_title">Поднимите, чтобы разбудить</string>
-    <string name="raise_to_wake_gesture_summary">Разбудите устройство вместо пульсирующего уведомления</string>
+    <string name="raise_to_wake_gesture_summary">Разбудить устройство, вместо отображения уведомления</string>
     <!-- Refresh Rate Settings -->
     <string name="device_min_refresh_rate">Минимальная частота обновления</string>
     <string name="device_power_save_refresh_rate">Автоматически экономить заряд батареи</string>
-    <string name="device_power_save_refresh_rate_switch">Автоматически понижать частоту обновления в экономном режиме</string>
+    <string name="device_power_save_refresh_rate_switch">Автоматически понижать частоту обновления при активном режиме энергосбережения</string>
     <string name="refresh_rate_settings_title">Частота обновления экрана</string>
     <string name="refresh_rate_settings_summary">Настроить частоту обновления экрана</string>
     <string name="refresh_rate_tile_title">Частота обновления</string>
-    <string name="refresh_rate_tile_disabled">Экономный режим включен</string>
+    <string name="refresh_rate_tile_disabled">Режим энергосбережения включен</string>
     <!-- Touch Control Settings -->
     <string name="touch_control_title">Оптимизация сенсорного экрана</string>
     <string name="touch_game_mode_title">Включить игровой режим</string>
-    <string name="touch_game_mode_summary">Помогает улучшить игровой процесс за счет оптимизации сенсорного экрана</string>
-    <string name="touch_response_title">Отклик на касание</string>
-    <string name="touch_response_summary">Управление откликом на касание</string>
-    <string name="touch_sensitivity_title">Сенсорная чувствительность</string>
+    <string name="touch_game_mode_summary">Помогает улучшить игровой процесс, за счет оптимизации сенсорного экрана</string>
+    <string name="touch_response_title">Отклик сенсора</string>
+    <string name="touch_response_summary">Управляет откликом сенсора</string>
+    <string name="touch_sensitivity_title">Чувствительность сенсора</string>
     <string name="touch_sensitivity_summary">Управляет чувствительностью для повторных нажатий</string>
-    <string name="touch_resistant_title">Зона Touch-resistant</string>
-    <string name="touch_resistant_summary">Снижает чувствительность по краям для предотвращения случайных прикосновений</string>
+    <string name="touch_resistant_title">Неактивная область</string>
+    <string name="touch_resistant_summary">Снижает чувствительность по краям, для предотвращения случайных прикосновений</string>
     <!-- Button settings -->
     <string name="button_settings_title">Кнопки</string>
     <string name="button_swap_summary">Поменять местами кнопки навигации</string>
