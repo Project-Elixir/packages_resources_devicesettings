@@ -108,7 +108,7 @@
     <string name="device_gestures_title">Gerätegesten</string>
     <string name="device_gestures_summary">Gerätegesten verwalten</string>
     <!-- Ambient display gestures -->
-    <string name="ambient_display_manage_summary">Gesten für Umgebungsanzeige verwalten</string>
+    <string name="ambient_display_manage_summary">Gesten für Ambient Display verwalten</string>
     <!-- Fingerprint gestures -->
     <string name="fingerprint_gestures_title">Fingerabdruckgesten</string>
     <string name="fingerprint_gestures_summary">Fingerabdruckgesten verwenden</string>
@@ -248,5 +248,5 @@
     <string name="refresh_extreme">Extrem (120Hz)</string>
     <!-- Powershare -->
     <string name="powershare_enable_title">Akkustand teilen</string>
-    <string name="powershare_enable_summary">Andere Geräte laden, indem du es auf die Rückseite deines Telefons legst</string>
+    <string name="powershare_enable_summary">Andere Geräte laden, indem du sie auf die Rückseite deines Telefons legst</string>
 </resources>
