@@ -108,7 +108,7 @@
     <string name="device_gestures_title">Gerätegesten</string>
     <string name="device_gestures_summary">Gerätegesten verwalten</string>
     <!-- Ambient display gestures -->
-    <string name="ambient_display_manage_summary">Gesten für Ambient Display verwalten</string>
+    <string name="ambient_display_manage_summary">Ambient Display Gesten verwalten</string>
     <!-- Fingerprint gestures -->
     <string name="fingerprint_gestures_title">Fingerabdruckgesten</string>
     <string name="fingerprint_gestures_summary">Fingerabdruckgesten verwenden</string>
