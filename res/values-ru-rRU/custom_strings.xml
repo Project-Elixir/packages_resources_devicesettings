@@ -20,12 +20,12 @@
     <!-- Dirac settings -->
     <string name="dirac_enable">Использовать Mi Sound Enhancer</string>
     <string name="dirac_title">Mi Sound Enhancer</string>
-    <string name="dirac_summary">Оптимизация качества звука</string>
+    <string name="dirac_summary">Оптимизировать качество звука</string>
     <string name="dirac_headset_title">Выберите тип наушников</string>
     <string name="dirac_preset_title">Выберите пресет</string>
     <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">Hi-Fi</string>
-    <string name="dirac_hifi_summary">Увеличение качества звука и уменьшение шума и искажения</string>
+    <string name="dirac_hifi_summary">Уменьшить шумы и искажения для улучшения качества звука</string>
     <string name="dirac_hifi_enable_title">Включить Hi-Fi</string>
     <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_default">По умолчанию</string>
@@ -101,14 +101,14 @@
     <!-- Clear Speaker -->
     <string name="clear_speaker_title">Очистка динамиков</string>
     <string name="clear_speaker_summary">Воспроизведение 30-секундного аудиофайла для очистки динамика</string>
-    <string name="clear_speaker_description">Запустите эту функцию разово или дважды если ваш динамик слегка загрязнен. Установите громкость на максимум.\n\nЕсли динамик загрязнен сильно, запустите функцию от двух до пяти раз, потрясывая устройство направив динамик вниз.</string>
+    <string name="clear_speaker_description">Запустите эту функцию разово или дважды, если ваш динамик слегка загрязнен. Установите громкость на максимум.\n\nЕсли динамик загрязнен сильно, запустите функцию от двух до пяти раз, потрясывая устройство направив динамик вниз.</string>
     <!-- Moto Actions - Title and summary -->
     <string name="moto_actions_title">Жесты Moto</string>
     <!-- Device gestures -->
     <string name="device_gestures_title">Жесты устройства</string>
     <string name="device_gestures_summary">Управление жестами устройства</string>
     <!-- Ambient display gestures -->
-    <string name="ambient_display_manage_summary">Управление жестами Ambient display</string>
+    <string name="ambient_display_manage_summary">Управление жестами Активного экрана</string>
     <!-- Fingerprint gestures -->
     <string name="fingerprint_gestures_title">Жесты сканера отпечатка пальцев</string>
     <string name="fingerprint_gestures_summary">Использовать жесты сканера отпечатка пальцев</string>
@@ -147,7 +147,7 @@
     <string name="swipe_down_dlg_title">Выберите действие для свайпа вниз</string>
     <string name="tap_title">Одиночное касание</string>
     <string name="double_tap_title">Двойное касание</string>
-    <string name="long_tap_title">Удержание</string>
+    <string name="long_tap_title">Долгое нажатие</string>
     <string name="tap_dlg_title">Выберите действие для одиночного касания</string>
     <string name="double_tap_dlg_title">Выберите действие для двойного касания</string>
     <string name="long_tap_dlg_title">Выберите действие для удержания</string>
@@ -211,14 +211,14 @@
     <string name="button_swap_summary">Поменять местами кнопки навигации</string>
     <string name="home_button_extra_settings">Настройка поведения кнопки «Домой»</string>
     <!-- Assistant button -->
-    <string name="assistant_button_action">Действие кнопки-ассистента</string>
+    <string name="assistant_button_action">Действие кнопки ассистента</string>
     <!-- Stylus pen -->
     <string name="stylus_title">Стилус</string>
     <!-- High Brightness Mode-->
     <string name="hbm_title">Режим высокой яркости</string>
     <!-- LCD Features -->
     <string name="lcd_features_title">Дополнительные функции дисплея</string>
-    <string name="lcd_features_summary">Режим высокой яркости (HBM) &amp; Адаптивное управление подсветкой контента (CABC)</string>
+    <string name="lcd_features_summary">Режим высокой яркости (HBM) и Адаптивное управление подсветкой контента (CABC)</string>
     <string name="lcd_features_info">Режим высокой яркости (HBM) увеличивает максимальную яркость дисплея, чтобы улучшить видимость при солнечном свете. Увеличивает энергопотребление.\n\nАдаптивное управление подсветкой контента (CABC) регулирует яркость дисплея и подсветки в зависимости от отображаемого контента, чтобы снизить энергопотребление без ухудшения качества.</string>
     <string name="kernel_not_supported">Ядро не поддерживает эту функцию</string>
     <string name="lcd_hbm_title">Режим высокой яркости</string>
