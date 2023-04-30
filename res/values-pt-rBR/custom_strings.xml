@@ -113,37 +113,37 @@
     <string name="fingerprint_gestures_title">Gestos de impressão digital</string>
     <string name="fingerprint_gestures_summary">Use gestos de impressão digital</string>
     <string name="fingerprint_gestures_manage_summary">Gerenciar gestos de impressão digital</string>
-    <string name="fingerprint_actions_screenon">Actions with screen on</string>
+    <string name="fingerprint_actions_screenon">Ações com tela ligada</string>
     <!-- Fingerprint gestures screen off -->
-    <string name="fingerprint_gestures_screenoff_title">Fingerprint gestures when screen off</string>
-    <string name="fingerprint_gestures_screenoff_summary">Use fingerprint gestures when screen off.\n\nFingerprint unlocking must be disabled to use this feature.</string>
-    <string name="fingerprint_actions_screenoff">Actions with screen off</string>
+    <string name="fingerprint_gestures_screenoff_title">Gestos de impressão digital quando a tela está desligada</string>
+    <string name="fingerprint_gestures_screenoff_summary">Use gestos de impressão digital quando a tela estiver desligada.\n\nO desbloqueio de impressão digital deve ser desativado para usar este recurso.</string>
+    <string name="fingerprint_actions_screenoff">Ações com tela desligada</string>
     <!-- Actions -->
-    <string name="action_home">Home</string>
-    <string name="action_power">Screen on/off</string>
-    <string name="action_wake">Wake</string>
-    <string name="action_back">Back</string>
-    <string name="action_recents">Recents</string>
-    <string name="action_last_app">Last app</string>
-    <string name="action_volume_up">Volume up</string>
-    <string name="action_volume_down">Volume down</string>
-    <string name="action_voice_assistant">Voice assistant</string>
-    <string name="action_play_pause">Play/pause</string>
-    <string name="action_previous_track">Previous track</string>
-    <string name="action_next_track">Next track</string>
-    <string name="action_flashlight">Flashlight on/off</string>
-    <string name="action_camera">Open camera</string>
-    <string name="action_screenshot">Take screenshot</string>
-    <string name="action_browser">Open browser</string>
-    <string name="action_dialer">Open dialer</string>
-    <string name="action_email">Open email app</string>
-    <string name="action_messages">Open messages app</string>
+    <string name="action_home">Início</string>
+    <string name="action_power">Tela ligada/desligada</string>
+    <string name="action_wake">Acordar</string>
+    <string name="action_back">Voltar</string>
+    <string name="action_recents">Recentes</string>
+    <string name="action_last_app">Último aplicativo</string>
+    <string name="action_volume_up">Aumentar o volume</string>
+    <string name="action_volume_down">Diminuir o volume</string>
+    <string name="action_voice_assistant">Assistente de voz</string>
+    <string name="action_play_pause">Reproduzir/pausar</string>
+    <string name="action_previous_track">Faixa anterior</string>
+    <string name="action_next_track">Próxima faixa</string>
+    <string name="action_flashlight">Lanterna ligada/desligada</string>
+    <string name="action_camera">Abrir câmera</string>
+    <string name="action_screenshot">Tirar captura de tela</string>
+    <string name="action_browser">Abrir navegador</string>
+    <string name="action_dialer">Abrir discador</string>
+    <string name="action_email">Abrir aplicativo de email</string>
+    <string name="action_messages">Abrir aplicativo de mensagens</string>
     <!-- Screen off gestures -->
-    <string name="screen_off_gestures_manage_summary">Manage gestures when screen is off</string>
+    <string name="screen_off_gestures_manage_summary">Gerenciar gestos quando a tela estiver desligada</string>
     <!-- Swipe/tap/long tap -->
-    <string name="swipe_left_dlg_title">Select action for swipe left</string>
-    <string name="swipe_right_dlg_title">Select action for swipe right</string>
-    <string name="swipe_up_dlg_title">Select action for swipe up</string>
+    <string name="swipe_left_dlg_title">Selecione a ação para deslizar para a esquerda</string>
+    <string name="swipe_right_dlg_title">Selecione a ação para deslizar para a direita</string>
+    <string name="swipe_up_dlg_title">Selecione a ação para deslizar para cima</string>
     <string name="swipe_down_dlg_title">Selecione a ação para deslizar para baixo</string>
     <string name="tap_title">Toque único</string>
     <string name="double_tap_title">Duplo Toque</string>
@@ -203,50 +203,50 @@
     <string name="touch_response_title">Resposta ao toque</string>
     <string name="touch_response_summary">Controla a resposta ao toque</string>
     <string name="touch_sensitivity_title">Sensibilidade ao toque</string>
-    <string name="touch_sensitivity_summary">Controls the sensitivity for repeated taps</string>
-    <string name="touch_resistant_title">Touch-resistant area</string>
-    <string name="touch_resistant_summary">Reduces sensitivity near the edges to prevent accidental touches</string>
+    <string name="touch_sensitivity_summary">Controla a sensibilidade para toques repetidos</string>
+    <string name="touch_resistant_title">Área resistente ao toque</string>
+    <string name="touch_resistant_summary">Reduz a sensibilidade perto das bordas para evitar toques acidentais</string>
     <!-- Button settings -->
-    <string name="button_settings_title">Buttons</string>
-    <string name="button_swap_summary">Swap Navigation Buttons</string>
-    <string name="home_button_extra_settings">Customize home button behavior</string>
+    <string name="button_settings_title">Botões</string>
+    <string name="button_swap_summary">Trocar Botões de Navegação</string>
+    <string name="home_button_extra_settings">Personalizar o comportamento do botão home</string>
     <!-- Assistant button -->
-    <string name="assistant_button_action">Assistant key action</string>
+    <string name="assistant_button_action">Ação chave do assistente</string>
     <!-- Stylus pen -->
-    <string name="stylus_title">Stylus Pen</string>
+    <string name="stylus_title">Caneta Stylus</string>
     <!-- High Brightness Mode-->
-    <string name="hbm_title">High Brightness Mode</string>
+    <string name="hbm_title">Modo de alto brilho</string>
     <!-- LCD Features -->
-    <string name="lcd_features_title">Additional Display Features</string>
-    <string name="lcd_features_summary">High Brightness Mode (HBM) &amp; Content Adaptive Backlight Control (CABC)</string>
-    <string name="lcd_features_info">High Brightness Mode (HBM) increases the maximum brightness of the display to improve visibility under sunlight. Increases power consumption.\n\nContent Adaptive Backlight Control (CABC) adjusts display and backlight brightness based on currently shown content, to reduce power consumption without degradation.</string>
-    <string name="kernel_not_supported">Kernel did not support this feature</string>
-    <string name="lcd_hbm_title">High Brightness Mode</string>
-    <string name="lcd_hbm_summary">Increase screen brightness under sunlight</string>
+    <string name="lcd_features_title">Recursos adicionais de exibição</string>
+    <string name="lcd_features_summary">Modo de alto brilho (HBM) &amp; Controle de luz de fundo adaptável de conteúdo (CABC)</string>
+    <string name="lcd_features_info">O modo de alto brilho (HBM) aumenta o brilho máximo da tela para melhorar a visibilidade sob a luz do sol. Aumenta o consumo de energia.\n\nContent Adaptive Backlight Control (CABC) ajusta o brilho da tela e da luz de fundo com base no conteúdo exibido no momento, para reduzir o consumo de energia sem degradação.</string>
+    <string name="kernel_not_supported">Kernel não suporta este recurso</string>
+    <string name="lcd_hbm_title">Modo de alto brilho</string>
+    <string name="lcd_hbm_summary">Aumente o brilho da tela sob a luz do sol</string>
     <string name="lcd_hbm_tile_title">HBM</string>
-    <string name="lcd_hbm_title_enabled">Enabled</string>
-    <string name="lcd_hbm_title_disabled">Disabled</string>
-    <string name="lcd_cabc_title">Content Adaptive Backlight Control</string>
+    <string name="lcd_hbm_title_enabled">Habilitado</string>
+    <string name="lcd_hbm_title_disabled">Desabilitado</string>
+    <string name="lcd_cabc_title">Controle de luz de fundo adaptável de conteúdo</string>
     <string name="lcd_cabc_tile_title">CABC</string>
-    <string name="lcd_cabc_off">Off</string>
-    <string name="lcd_cabc_low">Low (UI)</string>
-    <string name="lcd_cabc_medium">Medium (Videos)</string>
-    <string name="lcd_cabc_high">High (Images)</string>
+    <string name="lcd_cabc_off">Desligado</string>
+    <string name="lcd_cabc_low">Baixo (UI)</string>
+    <string name="lcd_cabc_medium">Médio (Vídeos)</string>
+    <string name="lcd_cabc_high">Alto (imagens)</string>
     <!-- Always on brightness -->
-    <string name="doze_brightness_title">Always on brightness</string>
-    <string name="doze_brightness_summary">%s mode is enabled</string>
-    <string name="doze_brightness_low">Low brightness</string>
-    <string name="doze_brightness_high">High brightness</string>
-    <string name="doze_brightness_adaptive">Adaptive brightness</string>
+    <string name="doze_brightness_title">Sempre no brilho</string>
+    <string name="doze_brightness_summary">%s modo está ativado</string>
+    <string name="doze_brightness_low">Baixo brilho</string>
+    <string name="doze_brightness_high">Alto brilho</string>
+    <string name="doze_brightness_adaptive">Brilho adaptável</string>
     <!-- Refresh Rate per-app -->
-    <string name="refresh_title">Refresh rate per-app</string>
-    <string name="refresh_summary">Set a specific refresh rate for each application</string>
-    <string name="refresh_default">Default</string>
-    <string name="refresh_low">Low (30Hz)</string>
-    <string name="refresh_medium">Medium (60Hz)</string>
-    <string name="refresh_high">High (90Hz)</string>
-    <string name="refresh_extreme">Extreme (120Hz)</string>
+    <string name="refresh_title">Taxa de atualização por aplicativo</string>
+    <string name="refresh_summary">Definir uma taxa de atualização específica para cada aplicativo</string>
+    <string name="refresh_default">Padrão</string>
+    <string name="refresh_low">Baixa (30Hz)</string>
+    <string name="refresh_medium">Média (60 Hz)</string>
+    <string name="refresh_high">Alta (90Hz)</string>
+    <string name="refresh_extreme">Extrema (120Hz)</string>
     <!-- Powershare -->
-    <string name="powershare_enable_title">Battery Share</string>
-    <string name="powershare_enable_summary">Charge other devices by placing them on the back of your phone</string>
+    <string name="powershare_enable_title">Compartilhamento de bateria</string>
+    <string name="powershare_enable_summary">Carregue outros dispositivos colocando-os na parte de trás do telefone</string>
 </resources>
