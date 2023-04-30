@@ -84,35 +84,35 @@
     <string name="popup_title_yingyan">Condor</string>
     <string name="popup_title_mofa">Magic</string>
     <string name="popup_title_jijia">Mecha</string>
-    <string name="popup_title_chilun">Gearwheel</string>
-    <string name="popup_title_cangmen">Cabin door</string>
+    <string name="popup_title_chilun">Roda de engrenagem</string>
+    <string name="popup_title_cangmen">Porta da cabine</string>
     <!-- Popup camera strings -->
-    <string name="popup_camera_tip">Attention</string>
-    <string name="popup_camera_takeback_failed_times_calibrate">Couldn\'t close front camera multiple times. Try calibrating the camera.</string>
-    <string name="popup_camera_popup_failed_times_calibrate">Couldn\'t open front camera multiple times. Try calibrating the camera.</string>
-    <string name="popup_camera_calibrate_running">Front camera cannot be used during calibration.</string>
-    <string name="popup_camera_calibrate_now">Calibrate</string>
-    <string name="popup_camera_calibrate_failed">Couldn\'t calibrate</string>
-    <string name="popup_camera_calibrate_success">Calibrated successfully. You can open the front camera now.</string>
-    <string name="stop_operate_camera_frequently">You\'re opening the front camera too frequently.</string>
-    <string name="takeback_camera_front_failed">Couldn\'t close front camera. Try again.</string>
-    <string name="popup_camera_front_failed">Couldn\'t open front camera. Try again.</string>
-    <string name="popup_camera_proximity_obstructed">Remove your hand from the proximity sensor to open the front camera...</string>
+    <string name="popup_camera_tip">Atenção</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">Não foi possível fechar a câmera frontal várias vezes. Tente calibrar a câmera.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">Não foi possível abrir a câmera frontal várias vezes. Tente calibrar a câmera.</string>
+    <string name="popup_camera_calibrate_running">A câmera frontal não pode ser usada durante a calibração.</string>
+    <string name="popup_camera_calibrate_now">Calibrar</string>
+    <string name="popup_camera_calibrate_failed">Não foi possível calibrar</string>
+    <string name="popup_camera_calibrate_success">Calibrado com sucesso. Você pode abrir a câmera frontal agora.</string>
+    <string name="stop_operate_camera_frequently">Você está abrindo a câmera frontal com muita frequência.</string>
+    <string name="takeback_camera_front_failed">Não foi possível fechar a câmera frontal. Tente novamente.</string>
+    <string name="popup_camera_front_failed">Não foi possível abrir a câmera frontal. Tente novamente.</string>
+    <string name="popup_camera_proximity_obstructed">Tire a mão do sensor de proximidade para abrir a câmera frontal...</string>
     <!-- Clear Speaker -->
-    <string name="clear_speaker_title">Clear speaker</string>
-    <string name="clear_speaker_summary">Play a 30-second audio to clear the speaker</string>
-    <string name="clear_speaker_description">Run this feature once or twice if you find that your speaker is lightly blocked by dust. Set media volume to maximum.\n\nIf the speaker is blocked heavily, run this feature 2-5 times while shaking your device with the speaker facing downwards.</string>
+    <string name="clear_speaker_title">Limpar alto-falante</string>
+    <string name="clear_speaker_summary">Reproduza um áudio de 30 segundos para limpar o alto-falante</string>
+    <string name="clear_speaker_description">Execute esse recurso uma ou duas vezes se achar que o alto-falante está levemente bloqueado por poeira. Defina o volume da mídia no máximo.\n\nSe o alto-falante estiver muito bloqueado, execute esse recurso de 2 a 5 vezes enquanto agita o dispositivo com o alto-falante voltado para baixo.</string>
     <!-- Moto Actions - Title and summary -->
-    <string name="moto_actions_title">Moto Actions</string>
+    <string name="moto_actions_title">Moto Ações</string>
     <!-- Device gestures -->
-    <string name="device_gestures_title">Device gestures</string>
-    <string name="device_gestures_summary">Manage device gestures</string>
+    <string name="device_gestures_title">Gestos do dispositivo</string>
+    <string name="device_gestures_summary">Gerenciar gestos do dispositivo</string>
     <!-- Ambient display gestures -->
-    <string name="ambient_display_manage_summary">Manage ambient display gestures</string>
+    <string name="ambient_display_manage_summary">Gerenciar gestos de exibição do ambiente</string>
     <!-- Fingerprint gestures -->
-    <string name="fingerprint_gestures_title">Fingerprint gestures</string>
-    <string name="fingerprint_gestures_summary">Use fingerprint gestures</string>
-    <string name="fingerprint_gestures_manage_summary">Manage fingerprint gestures</string>
+    <string name="fingerprint_gestures_title">Gestos de impressão digital</string>
+    <string name="fingerprint_gestures_summary">Use gestos de impressão digital</string>
+    <string name="fingerprint_gestures_manage_summary">Gerenciar gestos de impressão digital</string>
     <string name="fingerprint_actions_screenon">Actions with screen on</string>
     <!-- Fingerprint gestures screen off -->
     <string name="fingerprint_gestures_screenoff_title">Fingerprint gestures when screen off</string>
