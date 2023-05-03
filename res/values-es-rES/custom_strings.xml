@@ -242,11 +242,11 @@
     <string name="refresh_title">Frecuencia de actualización por aplicación</string>
     <string name="refresh_summary">Frecuencia de actualización por aplicación</string>
     <string name="refresh_default">Defecto</string>
-    <string name="refresh_low">Low (30Hz)</string>
-    <string name="refresh_medium">Medium (60Hz)</string>
-    <string name="refresh_high">High (90Hz)</string>
-    <string name="refresh_extreme">Extreme (120Hz)</string>
+    <string name="refresh_low">Bajo (30Hz)</string>
+    <string name="refresh_medium">Medio (60Hz)</string>
+    <string name="refresh_high">Alto (90Hz)</string>
+    <string name="refresh_extreme">Extremo (120 Hz)</string>
     <!-- Powershare -->
-    <string name="powershare_enable_title">Battery Share</string>
-    <string name="powershare_enable_summary">Charge other devices by placing them on the back of your phone</string>
+    <string name="powershare_enable_title">Compartir batería</string>
+    <string name="powershare_enable_summary">Cargue otros dispositivos colocándolos en la parte posterior de su teléfono</string>
 </resources>
