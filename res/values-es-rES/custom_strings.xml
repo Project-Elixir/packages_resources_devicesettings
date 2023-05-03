@@ -84,8 +84,8 @@
     <string name="popup_title_yingyan">Cóndor</string>
     <string name="popup_title_mofa">Magia</string>
     <string name="popup_title_jijia">Mecha</string>
-    <string name="popup_title_chilun">Gearwheel</string>
-    <string name="popup_title_cangmen">Cabin door</string>
+    <string name="popup_title_chilun">Rueda de engranaje</string>
+    <string name="popup_title_cangmen">Puerta de cabina</string>
     <!-- Popup camera strings -->
     <string name="popup_camera_tip">Atención</string>
     <string name="popup_camera_takeback_failed_times_calibrate">No se pudo cerrar la cámara frontal varias veces. Prueba calibrar la cámara.</string>
@@ -119,7 +119,7 @@
     <string name="fingerprint_gestures_screenoff_summary">Use gestos de huellas dactilares cuando la pantalla esté apagada.\n\nEl desbloqueo de huellas dactilares debe estar deshabilitado para usar esta función.</string>
     <string name="fingerprint_actions_screenoff">Acciones con la pantalla apagada</string>
     <!-- Actions -->
-    <string name="action_home">Home</string>
+    <string name="action_home">Hogar</string>
     <string name="action_power">Pantalla encendida/apagada</string>
     <string name="action_wake">Despertar</string>
     <string name="action_back">Atras</string>
@@ -144,31 +144,31 @@
     <string name="swipe_left_dlg_title">Seleccionar acción para deslizar hacia la izquierda</string>
     <string name="swipe_right_dlg_title">Seleccionar acción para deslizar hacia la derecha</string>
     <string name="swipe_up_dlg_title">Seleccionar acción para deslizar hacia arriba</string>
-    <string name="swipe_down_dlg_title">Select action for swipe down</string>
-    <string name="tap_title">Single tap</string>
-    <string name="double_tap_title">Double tap</string>
-    <string name="long_tap_title">Long tap</string>
-    <string name="tap_dlg_title">Select action for single tap</string>
-    <string name="double_tap_dlg_title">Select action for double tap</string>
-    <string name="long_tap_dlg_title">Select action for long tap</string>
+    <string name="swipe_down_dlg_title">Seleccionar acción para deslizar hacia abajo</string>
+    <string name="tap_title">Solo toque</string>
+    <string name="double_tap_title">Solo toque</string>
+    <string name="long_tap_title">Toque largo</string>
+    <string name="tap_dlg_title">Seleccionar acción para un solo toque</string>
+    <string name="double_tap_dlg_title">Seleccionar acción para tocar dos veces</string>
+    <string name="long_tap_dlg_title">Seleccionar acción para toque largo</string>
     <!-- Double tap to wake -->
-    <string name="tap_to_wake">Tap to wake</string>
-    <string name="tap_to_wake_summary">Double-tap anywhere on the screen to wake device</string>
+    <string name="tap_to_wake">Toca para despertar</string>
+    <string name="tap_to_wake_summary">Toque dos veces en cualquier lugar de la pantalla para activar el dispositivo</string>
     <!-- Proximity sensor -->
-    <string name="allow_proximity_sensor_title">Allow proximity sensor</string>
-    <string name="allow_proximity_sensor_summary">Check the proximity sensor before performing the action</string>
+    <string name="allow_proximity_sensor_title">Permitir sensor de proximidad</string>
+    <string name="allow_proximity_sensor_summary">Compruebe el sensor de proximidad antes de realizar la acción</string>
     <!-- OnePlus - General -->
-    <string name="oneplus_advanced_settings">OnePlus Settings</string>
-    <string name="oneplus_advanced_settings_summary">Custom settings for your device</string>
+    <string name="oneplus_advanced_settings">Configuración de OnePlus</string>
+    <string name="oneplus_advanced_settings_summary">Configuraciones personalizadas para su dispositivo</string>
     <!-- OnePlus - PanelModes -->
-    <string name="panel_modes_settings_title">Panel Modes</string>
-    <string name="panel_modes_settings_summary">Choose a pre-made display calibration</string>
+    <string name="panel_modes_settings_title">Modos de panel</string>
+    <string name="panel_modes_settings_summary">Elija una calibración de pantalla prefabricada</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">Alert slider</string>
-    <string name="notification_slider_selection_dialog_title">Action</string>
-    <string name="notification_slider_top_position">Top position</string>
-    <string name="notification_slider_middle_position">Middle position</string>
-    <string name="notification_slider_bottom_position">Bottom position</string>
+    <string name="notification_slider_category_title">Control deslizante de alerta</string>
+    <string name="notification_slider_selection_dialog_title">Acción</string>
+    <string name="notification_slider_top_position">Posición superior</string>
+    <string name="notification_slider_middle_position">Posición media</string>
+    <string name="notification_slider_bottom_position">Posición inferior</string>
     <string name="notification_slider_mode_total_silence">Total silence</string>
     <string name="notification_slider_mode_alarms_only">Alarms only</string>
     <string name="notification_slider_mode_priority_only">Priority only</string>
