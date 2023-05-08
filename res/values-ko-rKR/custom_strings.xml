@@ -13,27 +13,27 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="display_title">Display</string>
-    <string name="dc_dimming_enable_title">Anti flicker</string>
-    <string name="dc_dimming_enable_summary">Anti flicker mode helps reducing eyestrain in low light conditions by using \"DC dimming\" feature. It might degrade color accuracy and affect the way some items are displayed.</string>
-    <string name="dc_dimming_enable_summary_not_supported">Anti flicker is currently not supported by the kernel</string>
+    <string name="display_title">디스플레이</string>
+    <string name="dc_dimming_enable_title">깜박임 방지</string>
+    <string name="dc_dimming_enable_summary">깜박임 방지 모드는 \"DC 디밍\" 기능을 사용하여 저조도 조건에서 눈의 피로를 줄이는 데 도움이 됩니다. 색상 정확도가 저하되고 일부 항목이 표시되는 방식에 영향을 줄 수 있습니다.</string>
+    <string name="dc_dimming_enable_summary_not_supported">깜박임 방지는 현재 커널에서 지원하지 않습니다.</string>
     <!-- Dirac settings -->
-    <string name="dirac_enable">Use Mi Sound Enhancer</string>
+    <string name="dirac_enable">Mi Sound Enhancer 사용</string>
     <string name="dirac_title">Mi Sound Enhancer</string>
-    <string name="dirac_summary">Optimize audio quality</string>
-    <string name="dirac_headset_title">Choose headphones type</string>
-    <string name="dirac_preset_title">Choose a preset</string>
+    <string name="dirac_summary">오디오 품질 최적화</string>
+    <string name="dirac_headset_title">헤드폰 유형 선택</string>
+    <string name="dirac_preset_title">프리셋 선택</string>
     <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">Hi-Fi</string>
-    <string name="dirac_hifi_summary">Decrease noise and Distortion and increase audio quality</string>
-    <string name="dirac_hifi_enable_title">Enable Hi-fi</string>
+    <string name="dirac_hifi_summary">노이즈 및 왜곡 감소 및 오디오 품질 향상</string>
+    <string name="dirac_hifi_enable_title">Hi-Fi 활성화</string>
     <!-- Dirac settings: Headset types -->
-    <string name="dirac_headset_default">Default</string>
+    <string name="dirac_headset_default">기본값</string>
     <string name="dirac_headset_earbuds">Mi Earbuds</string>
     <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
     <string name="dirac_headset_piston_1">Mi Piston-1</string>
-    <string name="dirac_headset_general">General</string>
-    <string name="dirac_headset_general_inear">General In-Ear</string>
+    <string name="dirac_headset_general">일반</string>
+    <string name="dirac_headset_general_inear">일반적인 인-이어 타입</string>
     <string name="dirac_headset_piston_basic">Basic Edition</string>
     <string name="dirac_headset_piston_2">Mi Piston-2</string>
     <string name="dirac_headset_piston_standard">Standard Edition</string>
@@ -51,22 +51,22 @@
     <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
     <string name="dirac_headset_earphone">Mi Earphones</string>
     <!-- Dirac settings: Equalizer presets -->
-    <string name="dirac_preset_default">Default</string>
-    <string name="dirac_preset_rock">Rock</string>
-    <string name="dirac_preset_jazz">Jazz</string>
-    <string name="dirac_preset_pop">Pop</string>
-    <string name="dirac_preset_classical">Classical</string>
-    <string name="dirac_preset_hiphop">Hip Hop</string>
-    <string name="dirac_preset_blues">Blues</string>
-    <string name="dirac_preset_electronic">Electronic</string>
-    <string name="dirac_preset_country">Country</string>
-    <string name="dirac_preset_dance">Dance</string>
-    <string name="dirac_preset_metal">Metal</string>
-    <string name="dirac_preset_bass_booster">Bass Booster</string>
-    <string name="dirac_preset_live">Live</string>
-    <string name="dirac_preset_balanced">Balanced</string>
-    <string name="dirac_preset_bass_reduction">Bass Reduction</string>
-    <string name="dirac_preset_treble_reduction">Treble Reduction</string>
+    <string name="dirac_preset_default">기본값</string>
+    <string name="dirac_preset_rock">락</string>
+    <string name="dirac_preset_jazz">재즈</string>
+    <string name="dirac_preset_pop">팝</string>
+    <string name="dirac_preset_classical">클래식</string>
+    <string name="dirac_preset_hiphop">힙합</string>
+    <string name="dirac_preset_blues">블루스</string>
+    <string name="dirac_preset_electronic">일렉트로닉</string>
+    <string name="dirac_preset_country">컨트리</string>
+    <string name="dirac_preset_dance">댄스</string>
+    <string name="dirac_preset_metal">메탈</string>
+    <string name="dirac_preset_bass_booster">Bass 부스터</string>
+    <string name="dirac_preset_live">라이브</string>
+    <string name="dirac_preset_balanced">균형</string>
+    <string name="dirac_preset_bass_reduction">Bass 감소</string>
+    <string name="dirac_preset_treble_reduction">Treble 감소</string>
     <string name="dirac_preset_soft_bass">Soft Bass</string>
     <string name="dirac_preset_soft_treble">Soft Treble</string>
     <!-- Dirac Scene Selection -->
@@ -127,12 +127,12 @@
     <string name="action_last_app">Last app</string>
     <string name="action_volume_up">Volume up</string>
     <string name="action_volume_down">Volume down</string>
-    <string name="action_voice_assistant">Voice assistant</string>
-    <string name="action_play_pause">Play/pause</string>
-    <string name="action_previous_track">Previous track</string>
-    <string name="action_next_track">Next track</string>
-    <string name="action_flashlight">Flashlight on/off</string>
-    <string name="action_camera">Open camera</string>
+    <string name="action_voice_assistant">음성 어시스턴트</string>
+    <string name="action_play_pause">재생/일시정지</string>
+    <string name="action_previous_track">이전 트랙</string>
+    <string name="action_next_track">다음 트랙</string>
+    <string name="action_flashlight">손전등 켜기/끄기</string>
+    <string name="action_camera">카메라 켜기</string>
     <string name="action_screenshot">Take screenshot</string>
     <string name="action_browser">Open browser</string>
     <string name="action_dialer">Open dialer</string>
