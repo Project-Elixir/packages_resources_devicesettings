@@ -16,7 +16,7 @@
     <string name="display_title">画面</string>
     <string name="dc_dimming_enable_title">アンチフリッカー</string>
     <string name="dc_dimming_enable_summary">アンチフリッカーモードは「DC ディミング機能」により低照度下での目の疲労を軽減させます。この機能を使用する事で色精度が低下し、表示の色合いに影響が出る場合があります。</string>
-    <string name="dc_dimming_enable_summary_not_supported">現在のカーネルはアンチフリッカーに非対応です</string>
+    <string name="dc_dimming_enable_summary_not_supported">カーネルがアンチフリッカーに対応していません</string>
     <!-- Dirac settings -->
     <string name="dirac_enable">Mi Sound Enhancer を使用する</string>
     <string name="dirac_title">Mi Sound Enhancer</string>
@@ -158,7 +158,7 @@
     <string name="allow_proximity_sensor_title">接近センサーを許可</string>
     <string name="allow_proximity_sensor_summary">アクションを行う前に接近センサーを確認します</string>
     <!-- OnePlus - General -->
-    <string name="oneplus_advanced_settings">OnePlusの設定</string>
+    <string name="oneplus_advanced_settings">OnePlus の設定</string>
     <string name="oneplus_advanced_settings_summary">デバイスに合わせたカスタム設定</string>
     <!-- OnePlus - PanelModes -->
     <string name="panel_modes_settings_title">パネルモード</string>
@@ -218,9 +218,9 @@
     <string name="hbm_title">高輝度モード</string>
     <!-- LCD Features -->
     <string name="lcd_features_title">画面の追加機能</string>
-    <string name="lcd_features_summary">高輝度モード(HBM)とコンテンツアダプティブバックライト制御(CABC)</string>
-    <string name="lcd_features_info">高輝度モード(HBM)は画面の最大輝度を上げて太陽光下の視認性を向上させます。しかし消費電力が増加します。\n\nコンテンツアダプティブバックライト制御(CABC)は現在表示されているコンテンツに基づき画面とバックライトの輝度を調整し、劣化をさせる事なく消費電力を抑えます。</string>
-    <string name="kernel_not_supported">カーネルがこの機能をサポートしていません</string>
+    <string name="lcd_features_summary">高輝度モード (HBM) とコンテンツアダプティブバックライト制御 (CABC)</string>
+    <string name="lcd_features_info">高輝度モード (HBM) は画面の最大輝度を上げて太陽光下の視認性を向上させます。しかし消費電力が増加します。\n\nコンテンツアダプティブバックライト制御 (CABC) は現在表示されているコンテンツに基づき画面とバックライトの輝度を調整し、劣化をさせる事なく消費電力を抑えます。</string>
+    <string name="kernel_not_supported">カーネルがこの機能に対応していません</string>
     <string name="lcd_hbm_title">高輝度モード</string>
     <string name="lcd_hbm_summary">太陽光の環境化で画面の輝度を上げます</string>
     <string name="lcd_hbm_tile_title">HBM</string>
@@ -234,7 +234,7 @@
     <string name="lcd_cabc_high">高 (画像)</string>
     <!-- Always on brightness -->
     <string name="doze_brightness_title">常に明るさを維持</string>
-    <string name="doze_brightness_summary">%sモードが有効になっています</string>
+    <string name="doze_brightness_summary">%s モードが有効になっています</string>
     <string name="doze_brightness_low">低輝度</string>
     <string name="doze_brightness_high">高輝度</string>
     <string name="doze_brightness_adaptive">アダプティブ輝度</string>
