@@ -172,30 +172,30 @@
     <string name="notification_slider_mode_total_silence">Total silence</string>
     <string name="notification_slider_mode_alarms_only">Alarms only</string>
     <string name="notification_slider_mode_priority_only">Priority only</string>
-    <string name="notification_slider_mode_silent">Silent</string>
-    <string name="notification_slider_mode_vibrate">Vibrate</string>
-    <string name="notification_slider_mode_none">Normal</string>
+    <string name="notification_slider_mode_silent">Néma</string>
+    <string name="notification_slider_mode_vibrate">Rezgés</string>
+    <string name="notification_slider_mode_none">Normál</string>
     <!-- Thermal profiles -->
     <string name="thermal_title">Optimization profiles</string>
     <string name="thermal_summary">Adjust per-app profiles for optimum performance</string>
-    <string name="thermal_default">No optimization</string>
-    <string name="thermal_benchmark">Performance</string>
-    <string name="thermal_browser">Browser</string>
-    <string name="thermal_camera">Camera</string>
-    <string name="thermal_dialer">Dialer</string>
-    <string name="thermal_gaming">Games</string>
-    <string name="thermal_streaming">Streaming applications</string>
+    <string name="thermal_default">Nincs optimalizálás</string>
+    <string name="thermal_benchmark">Teljesítmény</string>
+    <string name="thermal_browser">Böngésző</string>
+    <string name="thermal_camera">Kamera</string>
+    <string name="thermal_dialer">Tárcsázó</string>
+    <string name="thermal_gaming">Játék</string>
+    <string name="thermal_streaming">Streaming</string>
     <!-- Raise to wake strings-->
     <string name="raise_to_wake_gesture_title">Raise to wake</string>
     <string name="raise_to_wake_gesture_summary">Wake up the device instead of pulsing notification</string>
     <!-- Refresh Rate Settings -->
-    <string name="device_min_refresh_rate">Minimum refresh rate</string>
-    <string name="device_power_save_refresh_rate">Save battery automatically</string>
-    <string name="device_power_save_refresh_rate_switch">Automatically lower refresh rate when battery saver is active</string>
-    <string name="refresh_rate_settings_title">Screen refresh rate</string>
-    <string name="refresh_rate_settings_summary">Adjust screen refresh rate</string>
-    <string name="refresh_rate_tile_title">Refresh Rate</string>
-    <string name="refresh_rate_tile_disabled">Battery saver enabled</string>
+    <string name="device_min_refresh_rate">Minimum frissítési ráta</string>
+    <string name="device_power_save_refresh_rate">Automatikus akkumulátor kímélés</string>
+    <string name="device_power_save_refresh_rate_switch">Automatikusan csökkentse a frissítési rátát, ha az akkumulátorkímélő engedélyezve van</string>
+    <string name="refresh_rate_settings_title">Képernyő frissítési ráta</string>
+    <string name="refresh_rate_settings_summary">Frissítési ráta beállítása</string>
+    <string name="refresh_rate_tile_title">Frissítési ráta</string>
+    <string name="refresh_rate_tile_disabled">Akkumulátorkímélő engedélyezve</string>
     <!-- Touch Control Settings -->
     <string name="touch_control_title">Érintőkijelző optimalizálása</string>
     <string name="touch_game_mode_title">Játéküzemmód engedélyezése</string>
@@ -226,14 +226,14 @@
     <string name="lcd_hbm_tile_title">HBM</string>
     <string name="lcd_hbm_title_enabled">Engedélyezve</string>
     <string name="lcd_hbm_title_disabled">Letiltva</string>
-    <string name="lcd_cabc_title">Content Adaptive Backlight Control</string>
+    <string name="lcd_cabc_title">Tartalomhoz igazodó fényerő</string>
     <string name="lcd_cabc_tile_title">CABC</string>
     <string name="lcd_cabc_off">Ki</string>
     <string name="lcd_cabc_low">Alacsony (kezelőfelület)</string>
     <string name="lcd_cabc_medium">Közepes (videók)</string>
     <string name="lcd_cabc_high">Magas (képek)</string>
     <!-- Always on brightness -->
-    <string name="doze_brightness_title">Always on brightness</string>
+    <string name="doze_brightness_title">Mindig aktív kijelző fényereje</string>
     <string name="doze_brightness_summary">%s mód engedélyezve</string>
     <string name="doze_brightness_low">Alacsony fényerő</string>
     <string name="doze_brightness_high">Magas fényerő</string>
