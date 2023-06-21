@@ -191,7 +191,7 @@
     <!-- Refresh Rate Settings -->
     <string name="device_min_refresh_rate">最小リフレッシュレート</string>
     <string name="device_power_save_refresh_rate">バッテリーを自動で節約する</string>
-    <string name="device_power_save_refresh_rate_switch">バッテリーセーバーの有効時に自動的にリフレッシュレートを下げます</string>
+    <string name="device_power_save_refresh_rate_switch">バッテリーセーバーを有効時に自動的にリフレッシュレートを下げて電力の消費を抑えます</string>
     <string name="refresh_rate_settings_title">画面のリフレッシュレート</string>
     <string name="refresh_rate_settings_summary">画面のリフレッシュレートを調整します</string>
     <string name="refresh_rate_tile_title">リフレッシュレート</string>

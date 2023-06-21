@@ -97,7 +97,7 @@
     <string name="stop_operate_camera_frequently">Du hast die Frontkamera zu oft geöffnet.</string>
     <string name="takeback_camera_front_failed">Frontkamera schließen nicht möglich. Erneut versuchen.</string>
     <string name="popup_camera_front_failed">Frontkamera öffnen nicht möglich. Erneut versuchen.</string>
-    <string name="popup_camera_proximity_obstructed">Deine Hand vom Näherungssensor wegnehmen, um die Frontkamera zu öffnen…</string>
+    <string name="popup_camera_proximity_obstructed">Deine Hand vom Näherungssensor nehmen, um die Frontkamera zu öffnen …</string>
     <!-- Clear Speaker -->
     <string name="clear_speaker_title">Lautsprecher reinigen</string>
     <string name="clear_speaker_summary">Einen 30-sekündigen Ton abspielen, um den Lautsprecher zu reinigen</string>
