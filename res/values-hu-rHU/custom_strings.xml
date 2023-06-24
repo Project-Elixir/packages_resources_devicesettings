@@ -123,7 +123,7 @@
     <string name="action_power">Képernyő be/ki</string>
     <string name="action_wake">Felébresztés</string>
     <string name="action_back">Vissza</string>
-    <string name="action_recents">Recents</string>
+    <string name="action_recents">Legutóbbiak</string>
     <string name="action_last_app">Last app</string>
     <string name="action_volume_up">Hangerő fel</string>
     <string name="action_volume_down">Hangerő le</string>
