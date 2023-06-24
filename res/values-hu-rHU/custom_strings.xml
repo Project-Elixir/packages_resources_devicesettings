@@ -22,11 +22,11 @@
     <string name="dirac_title">Mi Sound Enhancer</string>
     <string name="dirac_summary">Optimize audio quality</string>
     <string name="dirac_headset_title">Choose headphones type</string>
-    <string name="dirac_preset_title">Válassz egy beállítást</string>
+    <string name="dirac_preset_title">Válasszon egy beállítást</string>
     <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">Hi-Fi</string>
     <string name="dirac_hifi_summary">Decrease noise and Distortion and increase audio quality</string>
-    <string name="dirac_hifi_enable_title">Hi-fi engedélyezése</string>
+    <string name="dirac_hifi_enable_title">Hi-Fi engedélyezése</string>
     <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_default">Alapértelmezett</string>
     <string name="dirac_headset_earbuds">Mi Earbuds</string>
@@ -78,30 +78,30 @@
     <!-- Popup camera settings -->
     <string name="popup_settings_title">Felugró kamera beállításai</string>
     <string name="popup_led_title">Kamera LED</string>
-    <string name="popup_led_summary">Világítson a LED, amikor az elülső kamera megjelenik vagy dolgozik</string>
-    <string name="popup_sound_title">Hangeffekt</string>
+    <string name="popup_led_summary">Világítson a LED, amikor az elülső kamera megjelenik és visszahúzódik</string>
+    <string name="popup_sound_title">Hangeffektek</string>
     <string name="popup_title_muqin">Xilofon</string>
     <string name="popup_title_yingyan">Kondorkeselyű</string>
     <string name="popup_title_mofa">Varázslat</string>
     <string name="popup_title_jijia">Mecha</string>
     <string name="popup_title_chilun">Fogaskerék</string>
-    <string name="popup_title_cangmen">Kabin</string>
+    <string name="popup_title_cangmen">Kabinajtó</string>
     <!-- Popup camera strings -->
     <string name="popup_camera_tip">Figyelem</string>
-    <string name="popup_camera_takeback_failed_times_calibrate">Többszöri alkalommal sem sikerült bezárni az elülső kamerát. Próbáld meg kalibrálni.</string>
-    <string name="popup_camera_popup_failed_times_calibrate">Többszöri alkalommal sem sikerült kinyitni az elülső kamerát. Próbáld meg kalibrálni.</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">Többszöri alkalommal sem sikerült bezárni az elülső kamerát. Próbálja meg kalibrálni.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">Többszöri alkalommal sem sikerült kinyitni az elülső kamerát. Próbálja meg kalibrálni.</string>
     <string name="popup_camera_calibrate_running">Kalibráció alatt nem lehet használni az elülső kamerát.</string>
     <string name="popup_camera_calibrate_now">Kalibrálás</string>
     <string name="popup_camera_calibrate_failed">Kalibrálás nem sikerült</string>
-    <string name="popup_camera_calibrate_success">Sikeres kalibrálás. Mostmár használhatod az elülső kamerát.</string>
-    <string name="stop_operate_camera_frequently">Túl sűrűn nyitogatod az elülső kamerát.</string>
-    <string name="takeback_camera_front_failed">Nem sikerült bezárni az elülső kamerát. Próbáld újra.</string>
-    <string name="popup_camera_front_failed">Nem sikerült megnyitni az elülső kamerát. Próbáld újra.</string>
-    <string name="popup_camera_proximity_obstructed">Takarásban van a közelségérzékelő, ezért nem lehet megnyitni az elülső kamerát...</string>
+    <string name="popup_camera_calibrate_success">Sikeres kalibrálás. Mostmár használhatja az elülső kamerát.</string>
+    <string name="stop_operate_camera_frequently">Túl sűrűn nyitja ki az elülső kamerát.</string>
+    <string name="takeback_camera_front_failed">Nem sikerült bezárni az elülső kamerát. Próbálja újra.</string>
+    <string name="popup_camera_front_failed">Nem sikerült megnyitni az elülső kamerát. Próbálja újra.</string>
+    <string name="popup_camera_proximity_obstructed">Vegye el a kezét a közelségérzékelő elől, hogy megnyithassa az elülső kamerát...</string>
     <!-- Clear Speaker -->
     <string name="clear_speaker_title">Hangszóró tisztítása</string>
-    <string name="clear_speaker_summary">30 másodperces hang lejárszása a hangszóró tisztításához</string>
-    <string name="clear_speaker_description">Futtasd le 1-2 alkalommal, ha a hangszóró halkan szól vagy koszos. Állítsd a hangerőt maximumra.\n\nHa a hangszóró nagyon koszos vagy el van tömődve, akkor futtasd le 2-5 alkalommal miközben megrázod a készüléket arcal lefelé fordítva.</string>
+    <string name="clear_speaker_summary">30 másodperces hang lejátszása a hangszóró tisztításához</string>
+    <string name="clear_speaker_description">Futtassa le 1-2 alkalommal, ha a hangszóró halkan szól vagy koszos. Állítsa a hangerőt maximumra.\n\nHa a hangszóró nagyon koszos vagy el van tömődve, akkor futtassa le 2-5 alkalommal miközben megrázza a készüléket arcal lefelé fordítva.</string>
     <!-- Moto Actions - Title and summary -->
     <string name="moto_actions_title">Moto műveletek</string>
     <!-- Device gestures -->
@@ -190,20 +190,20 @@
     <string name="raise_to_wake_gesture_summary">Wake up the device instead of pulsing notification</string>
     <!-- Refresh Rate Settings -->
     <string name="device_min_refresh_rate">Minimum frissítési ráta</string>
-    <string name="device_power_save_refresh_rate">Automatikus akkumulátor kímélés</string>
+    <string name="device_power_save_refresh_rate">Automatikus akkukímélés</string>
     <string name="device_power_save_refresh_rate_switch">Automatikusan csökkentse a frissítési rátát, ha az akkumulátorkímélő engedélyezve van</string>
     <string name="refresh_rate_settings_title">Képernyő frissítési ráta</string>
     <string name="refresh_rate_settings_summary">Frissítési ráta beállítása</string>
     <string name="refresh_rate_tile_title">Frissítési ráta</string>
-    <string name="refresh_rate_tile_disabled">Akkumulátorkímélő engedélyezve</string>
+    <string name="refresh_rate_tile_disabled">Akkukímélő engedélyezve</string>
     <!-- Touch Control Settings -->
-    <string name="touch_control_title">Érintőkijelző optimalizálása</string>
+    <string name="touch_control_title">Érintőkijelző optimalizálások</string>
     <string name="touch_game_mode_title">Játéküzemmód engedélyezése</string>
     <string name="touch_game_mode_summary">Helps to improve the gaming experience by optimizing the touch screen</string>
     <string name="touch_response_title">Touch response</string>
     <string name="touch_response_summary">Érintés-visszajelzés vezérlése</string>
     <string name="touch_sensitivity_title">Touch sensitivity</string>
-    <string name="touch_sensitivity_summary">Állíthatja az ismételt érintések érzékenységét</string>
+    <string name="touch_sensitivity_summary">Vezérelheti az ismételt érintések érzékenységét</string>
     <string name="touch_resistant_title">Touch-resistant area</string>
     <string name="touch_resistant_summary">Reduces sensitivity near the edges to prevent accidental touches</string>
     <!-- Button settings -->
@@ -226,7 +226,7 @@
     <string name="lcd_hbm_tile_title">HBM</string>
     <string name="lcd_hbm_title_enabled">Engedélyezve</string>
     <string name="lcd_hbm_title_disabled">Letiltva</string>
-    <string name="lcd_cabc_title">Tartalomhoz igazodó fényerő</string>
+    <string name="lcd_cabc_title">Tartalomhoz igazodó fényerővezérlés</string>
     <string name="lcd_cabc_tile_title">CABC</string>
     <string name="lcd_cabc_off">Ki</string>
     <string name="lcd_cabc_low">Alacsony (kezelőfelület)</string>
@@ -240,7 +240,7 @@
     <string name="doze_brightness_adaptive">Alkalmazkodó fényerő</string>
     <!-- Refresh Rate per-app -->
     <string name="refresh_title">Képfrissítés alkalmazásonként</string>
-    <string name="refresh_summary">Megadhatod a képfrissítési arányt alkalmazásonként</string>
+    <string name="refresh_summary">Beállíthat egy képfrissítési rátát alkalmazásonként</string>
     <string name="refresh_default">Alapértelmezett</string>
     <string name="refresh_low">Alacsony (30Hz)</string>
     <string name="refresh_medium">Közepes (60Hz)</string>
