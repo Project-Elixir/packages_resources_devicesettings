@@ -13,19 +13,19 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="display_title">Display</string>
-    <string name="dc_dimming_enable_title">Anti flicker</string>
-    <string name="dc_dimming_enable_summary">Anti flicker mode helps reducing eyestrain in low light conditions by using \"DC dimming\" feature. It might degrade color accuracy and affect the way some items are displayed.</string>
-    <string name="dc_dimming_enable_summary_not_supported">Anti flicker is currently not supported by the kernel</string>
+    <string name="display_title">Görüntüleme</string>
+    <string name="dc_dimming_enable_title">Titreme önleyici</string>
+    <string name="dc_dimming_enable_summary">Titreşim önleme modu, \"DC karartma\" özelliğini kullanarak düşük ışık koşullarında göz yorgunluğunu azaltmaya yardımcı olur. Renk doğruluğunu düşürebilir ve bazı öğelerin görüntülenme şeklini etkileyebilir.</string>
+    <string name="dc_dimming_enable_summary_not_supported">Titreşim önleme şu anda çekirdek tarafından desteklenmemektedir</string>
     <!-- Dirac settings -->
-    <string name="dirac_enable">Use Mi Sound Enhancer</string>
-    <string name="dirac_title">Mi Sound Enhancer</string>
-    <string name="dirac_summary">Optimize audio quality</string>
-    <string name="dirac_headset_title">Choose headphones type</string>
-    <string name="dirac_preset_title">Choose a preset</string>
+    <string name="dirac_enable">Mi Ses Arttırıcı kullanın</string>
+    <string name="dirac_title">Mi Ses Arttırıcı</string>
+    <string name="dirac_summary">Ses kalitesini optimize edin</string>
+    <string name="dirac_headset_title">Kulaklık tipini seçin</string>
+    <string name="dirac_preset_title">Bir ön ayar seçin</string>
     <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">Hi-Fi</string>
-    <string name="dirac_hifi_summary">Decrease noise and Distortion and increase audio quality</string>
+    <string name="dirac_hifi_summary">Gürültü ve bozulmayı azaltın ve ses kalitesini artırın</string>
     <string name="dirac_hifi_enable_title">Enable Hi-fi</string>
     <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_default">Default</string>
@@ -45,17 +45,17 @@
     <string name="dirac_headset_in_ear_pro">Mi In-Ear Pro</string>
     <string name="dirac_headset_comfort">Mi Comfort</string>
     <string name="dirac_headset_reduction_noise">Mi Noise Cancelling Type-C</string>
-    <string name="dirac_headset_cancelling">Mi Noise Cancelling 3.5mm</string>
+    <string name="dirac_headset_cancelling">Mi Gürültü Önleyici 3,5 mm</string>
     <string name="dirac_headset_half_in_ear">Mi Half In-Ear</string>
     <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
     <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
     <string name="dirac_headset_earphone">Mi Earphones</string>
     <!-- Dirac settings: Equalizer presets -->
-    <string name="dirac_preset_default">Default</string>
+    <string name="dirac_preset_default">Varsayılan</string>
     <string name="dirac_preset_rock">Rock</string>
     <string name="dirac_preset_jazz">Jazz</string>
     <string name="dirac_preset_pop">Pop</string>
-    <string name="dirac_preset_classical">Classical</string>
+    <string name="dirac_preset_classical">Klasik</string>
     <string name="dirac_preset_hiphop">Hip Hop</string>
     <string name="dirac_preset_blues">Blues</string>
     <string name="dirac_preset_electronic">Electronic</string>
@@ -64,9 +64,9 @@
     <string name="dirac_preset_metal">Metal</string>
     <string name="dirac_preset_bass_booster">Bass Booster</string>
     <string name="dirac_preset_live">Live</string>
-    <string name="dirac_preset_balanced">Balanced</string>
-    <string name="dirac_preset_bass_reduction">Bass Reduction</string>
-    <string name="dirac_preset_treble_reduction">Treble Reduction</string>
+    <string name="dirac_preset_balanced">Dengeli</string>
+    <string name="dirac_preset_bass_reduction">Bas Azaltma</string>
+    <string name="dirac_preset_treble_reduction">Tiz Azaltma</string>
     <string name="dirac_preset_soft_bass">Soft Bass</string>
     <string name="dirac_preset_soft_treble">Soft Treble</string>
     <!-- Dirac Scene Selection -->
@@ -93,66 +93,66 @@
     <string name="popup_camera_calibrate_running">Front camera cannot be used during calibration.</string>
     <string name="popup_camera_calibrate_now">Calibrate</string>
     <string name="popup_camera_calibrate_failed">Couldn\'t calibrate</string>
-    <string name="popup_camera_calibrate_success">Calibrated successfully. You can open the front camera now.</string>
-    <string name="stop_operate_camera_frequently">You\'re opening the front camera too frequently.</string>
-    <string name="takeback_camera_front_failed">Couldn\'t close front camera. Try again.</string>
-    <string name="popup_camera_front_failed">Couldn\'t open front camera. Try again.</string>
-    <string name="popup_camera_proximity_obstructed">Remove your hand from the proximity sensor to open the front camera...</string>
+    <string name="popup_camera_calibrate_success">Başarıyla kalibre edildi. Şimdi ön kamerayı açabilirsiniz.</string>
+    <string name="stop_operate_camera_frequently">Ön kamerayı çok sık açıyorsunuz.</string>
+    <string name="takeback_camera_front_failed">Ön kamera kapatılamadı. Tekrar deneyin.</string>
+    <string name="popup_camera_front_failed">Ön kamera açılamadı. Tekrar deneyin.</string>
+    <string name="popup_camera_proximity_obstructed">Ön kamerayı açmak için elinizi yakınlık sensöründen çekin...</string>
     <!-- Clear Speaker -->
-    <string name="clear_speaker_title">Clear speaker</string>
-    <string name="clear_speaker_summary">Play a 30-second audio to clear the speaker</string>
-    <string name="clear_speaker_description">Run this feature once or twice if you find that your speaker is lightly blocked by dust. Set media volume to maximum.\n\nIf the speaker is blocked heavily, run this feature 2-5 times while shaking your device with the speaker facing downwards.</string>
+    <string name="clear_speaker_title">Hoparlör temizleme</string>
+    <string name="clear_speaker_summary">Hoparlörü temizlemek için 30 saniyelik bir ses çalın</string>
+    <string name="clear_speaker_description">Hoparlörünüzün tozla tıkandığını fark ederseniz, bu özelliği bir veya iki kez çalıştırın. Medya sesini maksimuma ayarlayın.\n\n Hoparlör çok kirliyse, hoparlör aşağı bakacak şekilde cihazınızı sallayarak bu özelliği 2-5 kez çalıştırın.</string>
     <!-- Moto Actions - Title and summary -->
-    <string name="moto_actions_title">Moto Actions</string>
+    <string name="moto_actions_title">Moto Eylemleri</string>
     <!-- Device gestures -->
-    <string name="device_gestures_title">Device gestures</string>
-    <string name="device_gestures_summary">Manage device gestures</string>
+    <string name="device_gestures_title">Cihaz hareketleri</string>
+    <string name="device_gestures_summary">Cihaz hareketlerini yönetin</string>
     <!-- Ambient display gestures -->
-    <string name="ambient_display_manage_summary">Manage ambient display gestures</string>
+    <string name="ambient_display_manage_summary">Ambiyans görüntüleme hareketlerini yönet</string>
     <!-- Fingerprint gestures -->
-    <string name="fingerprint_gestures_title">Fingerprint gestures</string>
-    <string name="fingerprint_gestures_summary">Use fingerprint gestures</string>
-    <string name="fingerprint_gestures_manage_summary">Manage fingerprint gestures</string>
-    <string name="fingerprint_actions_screenon">Actions with screen on</string>
+    <string name="fingerprint_gestures_title">Parmak izi hareketleri</string>
+    <string name="fingerprint_gestures_summary">Parmak izi hareketlerini kullan</string>
+    <string name="fingerprint_gestures_manage_summary">Parmak izi hareketlerini yönet</string>
+    <string name="fingerprint_actions_screenon">Ekran açıkken eylemler</string>
     <!-- Fingerprint gestures screen off -->
-    <string name="fingerprint_gestures_screenoff_title">Fingerprint gestures when screen off</string>
-    <string name="fingerprint_gestures_screenoff_summary">Use fingerprint gestures when screen off.\n\nFingerprint unlocking must be disabled to use this feature.</string>
-    <string name="fingerprint_actions_screenoff">Actions with screen off</string>
+    <string name="fingerprint_gestures_screenoff_title">Ekran kapalıyken parmak izi hareketleri</string>
+    <string name="fingerprint_gestures_screenoff_summary">Ekran kapalıyken parmak izi hareketlerini kullanın.\n\n Bu özelliği kullanmak için parmak izi ile kilit açma devre dışı bırakılmalıdır.</string>
+    <string name="fingerprint_actions_screenoff">Ekran kapalıyken eylemler</string>
     <!-- Actions -->
-    <string name="action_home">Home</string>
-    <string name="action_power">Screen on/off</string>
-    <string name="action_wake">Wake</string>
-    <string name="action_back">Back</string>
-    <string name="action_recents">Recents</string>
-    <string name="action_last_app">Last app</string>
-    <string name="action_volume_up">Volume up</string>
-    <string name="action_volume_down">Volume down</string>
-    <string name="action_voice_assistant">Voice assistant</string>
-    <string name="action_play_pause">Play/pause</string>
-    <string name="action_previous_track">Previous track</string>
-    <string name="action_next_track">Next track</string>
-    <string name="action_flashlight">Flashlight on/off</string>
-    <string name="action_camera">Open camera</string>
-    <string name="action_screenshot">Take screenshot</string>
-    <string name="action_browser">Open browser</string>
-    <string name="action_dialer">Open dialer</string>
-    <string name="action_email">Open email app</string>
-    <string name="action_messages">Open messages app</string>
+    <string name="action_home">Ana Sayfa</string>
+    <string name="action_power">Ekran açık/kapalı</string>
+    <string name="action_wake">Uyan</string>
+    <string name="action_back">Geri</string>
+    <string name="action_recents">Son Kullanılanlar</string>
+    <string name="action_last_app">Son uygulama</string>
+    <string name="action_volume_up">Sesi aç</string>
+    <string name="action_volume_down">Sesi kıs</string>
+    <string name="action_voice_assistant">Ses asistanı</string>
+    <string name="action_play_pause">Oynat/ duraklat</string>
+    <string name="action_previous_track">Önceki parça</string>
+    <string name="action_next_track">Sonraki parça</string>
+    <string name="action_flashlight">El feneri açık/kapalı</string>
+    <string name="action_camera">Kamerayı aç</string>
+    <string name="action_screenshot">Ekran görüntüsü al</string>
+    <string name="action_browser">Tarayıcıyı aç</string>
+    <string name="action_dialer">Çeviriciyi aç</string>
+    <string name="action_email">E-posta uygulamasını aç</string>
+    <string name="action_messages">Mesajlar uygulamasını aç</string>
     <!-- Screen off gestures -->
-    <string name="screen_off_gestures_manage_summary">Manage gestures when screen is off</string>
+    <string name="screen_off_gestures_manage_summary">Ekran kapalıyken hareketleri yönetin</string>
     <!-- Swipe/tap/long tap -->
-    <string name="swipe_left_dlg_title">Select action for swipe left</string>
-    <string name="swipe_right_dlg_title">Select action for swipe right</string>
-    <string name="swipe_up_dlg_title">Select action for swipe up</string>
-    <string name="swipe_down_dlg_title">Select action for swipe down</string>
-    <string name="tap_title">Single tap</string>
-    <string name="double_tap_title">Double tap</string>
-    <string name="long_tap_title">Long tap</string>
-    <string name="tap_dlg_title">Select action for single tap</string>
-    <string name="double_tap_dlg_title">Select action for double tap</string>
-    <string name="long_tap_dlg_title">Select action for long tap</string>
+    <string name="swipe_left_dlg_title">Sola kaydırmak için eylem seçin</string>
+    <string name="swipe_right_dlg_title">Sağa kaydırmak için eylem seçin</string>
+    <string name="swipe_up_dlg_title">Yukarı kaydırmak için eylem seçin</string>
+    <string name="swipe_down_dlg_title">Aşağı kaydırmak için eylem seçin</string>
+    <string name="tap_title">Tek dokunuş</string>
+    <string name="double_tap_title">Çift dokunuş</string>
+    <string name="long_tap_title">Uzun dokunuş</string>
+    <string name="tap_dlg_title">Tek dokunuş için eylem seç</string>
+    <string name="double_tap_dlg_title">Çift dokunuş için eylem seç</string>
+    <string name="long_tap_dlg_title">Uzun dokunuş için eylem seç</string>
     <!-- Double tap to wake -->
-    <string name="tap_to_wake">Tap to wake</string>
+    <string name="tap_to_wake">Uyandırmak için dokunun</string>
     <string name="tap_to_wake_summary">Double-tap anywhere on the screen to wake device</string>
     <!-- Proximity sensor -->
     <string name="allow_proximity_sensor_title">Allow proximity sensor</string>
@@ -215,38 +215,38 @@
     <!-- Stylus pen -->
     <string name="stylus_title">Stylus Pen</string>
     <!-- High Brightness Mode-->
-    <string name="hbm_title">High Brightness Mode</string>
+    <string name="hbm_title">Yüksek Parlaklık Modu</string>
     <!-- LCD Features -->
-    <string name="lcd_features_title">Additional Display Features</string>
-    <string name="lcd_features_summary">High Brightness Mode (HBM) &amp; Content Adaptive Backlight Control (CABC)</string>
-    <string name="lcd_features_info">High Brightness Mode (HBM) increases the maximum brightness of the display to improve visibility under sunlight. Increases power consumption.\n\nContent Adaptive Backlight Control (CABC) adjusts display and backlight brightness based on currently shown content, to reduce power consumption without degradation.</string>
-    <string name="kernel_not_supported">Kernel did not support this feature</string>
-    <string name="lcd_hbm_title">High Brightness Mode</string>
-    <string name="lcd_hbm_summary">Increase screen brightness under sunlight</string>
+    <string name="lcd_features_title">Ek Ekran Özellikleri</string>
+    <string name="lcd_features_summary">Yüksek Parlaklık Modu (HBM) &amp; İçerik Uyarlamalı Arka Işık Kontrolü (CABC)</string>
+    <string name="lcd_features_info">Yüksek Parlaklık Modu (HBM), güneş ışığı altında görünürlüğü artırmak için ekranın maksimum parlaklığını artırır. Güç tüketimini artırır.\n\n İçerik Uyarlamalı Arka ışık kontrolü (CABC), bozulma olmadan güç tüketimini azaltmak için o anda gösterilen içeriğe göre ekran ve arka ışık parlaklığını ayarlar.</string>
+    <string name="kernel_not_supported">Çekirdek bu özelliği desteklemiyor</string>
+    <string name="lcd_hbm_title">Yüksek Parlaklık Modu</string>
+    <string name="lcd_hbm_summary">Güneş ışığı altında ekran parlaklığını artırın</string>
     <string name="lcd_hbm_tile_title">HBM</string>
-    <string name="lcd_hbm_title_enabled">Enabled</string>
-    <string name="lcd_hbm_title_disabled">Disabled</string>
-    <string name="lcd_cabc_title">Content Adaptive Backlight Control</string>
+    <string name="lcd_hbm_title_enabled">Etkinleştir</string>
+    <string name="lcd_hbm_title_disabled">Devre dışı</string>
+    <string name="lcd_cabc_title">İçeriğe göre uyarlanabilir arka ışık kontrolü</string>
     <string name="lcd_cabc_tile_title">CABC</string>
-    <string name="lcd_cabc_off">Off</string>
-    <string name="lcd_cabc_low">Low (UI)</string>
-    <string name="lcd_cabc_medium">Medium (Videos)</string>
-    <string name="lcd_cabc_high">High (Images)</string>
+    <string name="lcd_cabc_off">Kapalı</string>
+    <string name="lcd_cabc_low">Düşük (UI)</string>
+    <string name="lcd_cabc_medium">Orta (Videolar)</string>
+    <string name="lcd_cabc_high">Yüksek (Resimler)</string>
     <!-- Always on brightness -->
-    <string name="doze_brightness_title">Always on brightness</string>
-    <string name="doze_brightness_summary">%s mode is enabled</string>
-    <string name="doze_brightness_low">Low brightness</string>
-    <string name="doze_brightness_high">High brightness</string>
-    <string name="doze_brightness_adaptive">Adaptive brightness</string>
+    <string name="doze_brightness_title">Her zaman açık parlaklık</string>
+    <string name="doze_brightness_summary">%s modu etkin</string>
+    <string name="doze_brightness_low">Düşük parlaklık</string>
+    <string name="doze_brightness_high">Yüksek parlaklık</string>
+    <string name="doze_brightness_adaptive">Uyarlanabilir parlaklık</string>
     <!-- Refresh Rate per-app -->
-    <string name="refresh_title">Refresh rate per-app</string>
-    <string name="refresh_summary">Set a specific refresh rate for each application</string>
-    <string name="refresh_default">Default</string>
-    <string name="refresh_low">Low (30Hz)</string>
-    <string name="refresh_medium">Medium (60Hz)</string>
-    <string name="refresh_high">High (90Hz)</string>
-    <string name="refresh_extreme">Extreme (120Hz)</string>
+    <string name="refresh_title">Uygulama başına yenileme hızı</string>
+    <string name="refresh_summary">Her bir uygulama için belirli bir yenileme hızı ayarlayın</string>
+    <string name="refresh_default">Varsayılan</string>
+    <string name="refresh_low">Düşük (30Hz)</string>
+    <string name="refresh_medium">Orta (60Hz)</string>
+    <string name="refresh_high">Yüksek (90Hz)</string>
+    <string name="refresh_extreme">Aşırı (120Hz)</string>
     <!-- Powershare -->
-    <string name="powershare_enable_title">Battery Share</string>
-    <string name="powershare_enable_summary">Charge other devices by placing them on the back of your phone</string>
+    <string name="powershare_enable_title">Pil Paylaşımı</string>
+    <string name="powershare_enable_summary">Diğer cihazları telefonunuzun arkasına yerleştirerek şarj edin</string>
 </resources>
