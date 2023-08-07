@@ -13,8 +13,8 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="display_title">显示显示</string>
-    <string name="dc_dimming_enable_title">防闪烁（屏闪）</string>
+    <string name="display_title">显示</string>
+    <string name="dc_dimming_enable_title">防闪烁</string>
     <string name="dc_dimming_enable_summary">防闪烁模式能利用“dc调光”特性减少低亮度条件下的视觉疲劳。它可能会降低色准并影响某些项目的显示。</string>
     <string name="dc_dimming_enable_summary_not_supported">内核目前不支持防闪烁</string>
     <!-- Dirac settings -->
