@@ -96,7 +96,7 @@
     <string name="popup_camera_calibrate_success">Calibrated successfully. You can open the front camera now.</string>
     <string name="stop_operate_camera_frequently">You\'re opening the front camera too frequently.</string>
     <string name="takeback_camera_front_failed">Couldn\'t close front camera. Try again.</string>
-    <string name="popup_camera_front_failed">無法開啟前置相機，請再試一次。</string>
+    <string name="popup_camera_front_failed">Couldn\'t open front camera. Try again.</string>
     <string name="popup_camera_proximity_obstructed">Remove your hand from the proximity sensor to open the front camera...</string>
     <!-- Clear Speaker -->
     <string name="clear_speaker_title">Clear speaker</string>
@@ -195,10 +195,10 @@
     <string name="refresh_rate_settings_title">Screen refresh rate</string>
     <string name="refresh_rate_settings_summary">Adjust screen refresh rate</string>
     <string name="refresh_rate_tile_title">Refresh Rate</string>
-    <string name="refresh_rate_tile_disabled">省電模式已啟動</string>
+    <string name="refresh_rate_tile_disabled">Battery saver enabled</string>
     <!-- Touch Control Settings -->
     <string name="touch_control_title">Touch screen optimizations</string>
-    <string name="touch_game_mode_title">啟用遊戲模式</string>
+    <string name="touch_game_mode_title">Enable game mode</string>
     <string name="touch_game_mode_summary">Helps to improve the gaming experience by optimizing the touch screen</string>
     <string name="touch_response_title">Touch response</string>
     <string name="touch_response_summary">Controls touch response</string>
