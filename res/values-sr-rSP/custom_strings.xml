@@ -13,26 +13,26 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="display_title">Display</string>
-    <string name="dc_dimming_enable_title">Anti flicker</string>
-    <string name="dc_dimming_enable_summary">Anti flicker mode helps reducing eyestrain in low light conditions by using \"DC dimming\" feature. It might degrade color accuracy and affect the way some items are displayed.</string>
-    <string name="dc_dimming_enable_summary_not_supported">Anti flicker is currently not supported by the kernel</string>
+    <string name="display_title">Приказ</string>
+    <string name="dc_dimming_enable_title">Сузбијање треперења</string>
+    <string name="dc_dimming_enable_summary">Режим сузбијања треперења помаже у смањењу напрезања очију у условима ниске осветљености помоћу функције „DC затамњење”. Ово може смањити прецизност боја и утицати на приказ неких елемената.</string>
+    <string name="dc_dimming_enable_summary_not_supported">Језгро тренутно не подржава сузбијање треперења</string>
     <!-- Dirac settings -->
-    <string name="dirac_enable">Use Mi Sound Enhancer</string>
+    <string name="dirac_enable">Користи Mi Sound Enhancer</string>
     <string name="dirac_title">Mi Sound Enhancer</string>
-    <string name="dirac_summary">Optimize audio quality</string>
-    <string name="dirac_headset_title">Choose headphones type</string>
-    <string name="dirac_preset_title">Choose a preset</string>
+    <string name="dirac_summary">Оптимизујте квалитет звука</string>
+    <string name="dirac_headset_title">Изаберите тип слушалица</string>
+    <string name="dirac_preset_title">Изаберите шаблон</string>
     <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">Hi-Fi</string>
-    <string name="dirac_hifi_summary">Decrease noise and Distortion and increase audio quality</string>
-    <string name="dirac_hifi_enable_title">Enable Hi-fi</string>
+    <string name="dirac_hifi_summary">Смањује шум и изобличење сигнала ради бољег квалитета звука</string>
+    <string name="dirac_hifi_enable_title">Омогући Hi-Fi</string>
     <!-- Dirac settings: Headset types -->
-    <string name="dirac_headset_default">Default</string>
+    <string name="dirac_headset_default">Подразумевано</string>
     <string name="dirac_headset_earbuds">Mi Earbuds</string>
     <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
     <string name="dirac_headset_piston_1">Mi Piston-1</string>
-    <string name="dirac_headset_general">General</string>
+    <string name="dirac_headset_general">Опште</string>
     <string name="dirac_headset_general_inear">General In-Ear</string>
     <string name="dirac_headset_piston_basic">Basic Edition</string>
     <string name="dirac_headset_piston_2">Mi Piston-2</string>
