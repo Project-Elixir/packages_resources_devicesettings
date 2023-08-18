@@ -145,79 +145,79 @@
     <string name="swipe_right_dlg_title">Изаберите радњу за превлачење удесно</string>
     <string name="swipe_up_dlg_title">Изаберите радњу за превлачење нагоре</string>
     <string name="swipe_down_dlg_title">Изаберите радњу за превлачење надоле</string>
-    <string name="tap_title">Додир</string>
+    <string name="tap_title">Један додир</string>
     <string name="double_tap_title">Двоструки додир</string>
     <string name="long_tap_title">Дуги притисак</string>
-    <string name="tap_dlg_title">Select action for single tap</string>
-    <string name="double_tap_dlg_title">Select action for double tap</string>
-    <string name="long_tap_dlg_title">Select action for long tap</string>
+    <string name="tap_dlg_title">Изаберите радњу за један додир</string>
+    <string name="double_tap_dlg_title">Изаберите радњу за двоструки додир</string>
+    <string name="long_tap_dlg_title">Изаберите радњу за дуги притисак</string>
     <!-- Double tap to wake -->
-    <string name="tap_to_wake">Tap to wake</string>
-    <string name="tap_to_wake_summary">Double-tap anywhere on the screen to wake device</string>
+    <string name="tap_to_wake">Додирните за буђење</string>
+    <string name="tap_to_wake_summary">Двапут додирните било који део екрана да бисте пробудили уређај</string>
     <!-- Proximity sensor -->
-    <string name="allow_proximity_sensor_title">Allow proximity sensor</string>
-    <string name="allow_proximity_sensor_summary">Check the proximity sensor before performing the action</string>
+    <string name="allow_proximity_sensor_title">Користи сензор близине</string>
+    <string name="allow_proximity_sensor_summary">Пре извршења радње проверава сензор близине</string>
     <!-- OnePlus - General -->
-    <string name="oneplus_advanced_settings">OnePlus Settings</string>
-    <string name="oneplus_advanced_settings_summary">Custom settings for your device</string>
+    <string name="oneplus_advanced_settings">Подешавања OnePlus-а</string>
+    <string name="oneplus_advanced_settings_summary">Прилагођена подешавања за ваш уређај</string>
     <!-- OnePlus - PanelModes -->
-    <string name="panel_modes_settings_title">Panel Modes</string>
-    <string name="panel_modes_settings_summary">Choose a pre-made display calibration</string>
+    <string name="panel_modes_settings_title">Режими панела</string>
+    <string name="panel_modes_settings_summary">Изаберите готову калибрацију екрана</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">Alert slider</string>
-    <string name="notification_slider_selection_dialog_title">Action</string>
-    <string name="notification_slider_top_position">Top position</string>
-    <string name="notification_slider_middle_position">Middle position</string>
-    <string name="notification_slider_bottom_position">Bottom position</string>
-    <string name="notification_slider_mode_total_silence">Total silence</string>
-    <string name="notification_slider_mode_alarms_only">Alarms only</string>
-    <string name="notification_slider_mode_priority_only">Priority only</string>
-    <string name="notification_slider_mode_silent">Silent</string>
-    <string name="notification_slider_mode_vibrate">Vibrate</string>
-    <string name="notification_slider_mode_none">Normal</string>
+    <string name="notification_slider_category_title">Клизач за обавештења</string>
+    <string name="notification_slider_selection_dialog_title">Радња</string>
+    <string name="notification_slider_top_position">На врху</string>
+    <string name="notification_slider_middle_position">На средини</string>
+    <string name="notification_slider_bottom_position">На дну</string>
+    <string name="notification_slider_mode_total_silence">Потпуна тишина</string>
+    <string name="notification_slider_mode_alarms_only">Само аларми</string>
+    <string name="notification_slider_mode_priority_only">Само приоритетно</string>
+    <string name="notification_slider_mode_silent">Нечујно</string>
+    <string name="notification_slider_mode_vibrate">Вибрација</string>
+    <string name="notification_slider_mode_none">Нормално</string>
     <!-- Thermal profiles -->
-    <string name="thermal_title">Optimization profiles</string>
-    <string name="thermal_summary">Adjust per-app profiles for optimum performance</string>
-    <string name="thermal_default">No optimization</string>
-    <string name="thermal_benchmark">Performance</string>
-    <string name="thermal_browser">Browser</string>
-    <string name="thermal_camera">Camera</string>
-    <string name="thermal_dialer">Dialer</string>
-    <string name="thermal_gaming">Games</string>
-    <string name="thermal_streaming">Streaming applications</string>
+    <string name="thermal_title">Профили оптимизације</string>
+    <string name="thermal_summary">Подесите профиле за сваку апликацију ради оптималних перформанси</string>
+    <string name="thermal_default">Без оптимизације</string>
+    <string name="thermal_benchmark">Перформансе</string>
+    <string name="thermal_browser">Прегледач</string>
+    <string name="thermal_camera">Камера</string>
+    <string name="thermal_dialer">Бројчаник</string>
+    <string name="thermal_gaming">Игре</string>
+    <string name="thermal_streaming">Апликације за стриминг</string>
     <!-- Raise to wake strings-->
-    <string name="raise_to_wake_gesture_title">Raise to wake</string>
-    <string name="raise_to_wake_gesture_summary">Wake up the device instead of pulsing notification</string>
+    <string name="raise_to_wake_gesture_title">Подигните за буђење</string>
+    <string name="raise_to_wake_gesture_summary">Пробудите уређај уместо приказа обавештења</string>
     <!-- Refresh Rate Settings -->
-    <string name="device_min_refresh_rate">Minimum refresh rate</string>
-    <string name="device_power_save_refresh_rate">Save battery automatically</string>
-    <string name="device_power_save_refresh_rate_switch">Automatically lower refresh rate when battery saver is active</string>
-    <string name="refresh_rate_settings_title">Screen refresh rate</string>
-    <string name="refresh_rate_settings_summary">Adjust screen refresh rate</string>
-    <string name="refresh_rate_tile_title">Refresh Rate</string>
-    <string name="refresh_rate_tile_disabled">Battery saver enabled</string>
+    <string name="device_min_refresh_rate">Минимална учесталост освежавања</string>
+    <string name="device_power_save_refresh_rate">Аутоматски штеди батерију</string>
+    <string name="device_power_save_refresh_rate_switch">Аутоматски смањује учесталост освежавања у режиму уштеде батерије</string>
+    <string name="refresh_rate_settings_title">Учесталост освежавања екрана</string>
+    <string name="refresh_rate_settings_summary">Подесите учесталост освежавања екрана</string>
+    <string name="refresh_rate_tile_title">Учесталост освежавања</string>
+    <string name="refresh_rate_tile_disabled">Уштеда батерије је омогућена</string>
     <!-- Touch Control Settings -->
-    <string name="touch_control_title">Touch screen optimizations</string>
-    <string name="touch_game_mode_title">Enable game mode</string>
-    <string name="touch_game_mode_summary">Helps to improve the gaming experience by optimizing the touch screen</string>
-    <string name="touch_response_title">Touch response</string>
-    <string name="touch_response_summary">Controls touch response</string>
-    <string name="touch_sensitivity_title">Touch sensitivity</string>
-    <string name="touch_sensitivity_summary">Controls the sensitivity for repeated taps</string>
-    <string name="touch_resistant_title">Touch-resistant area</string>
-    <string name="touch_resistant_summary">Reduces sensitivity near the edges to prevent accidental touches</string>
+    <string name="touch_control_title">Оптимизација екрана на додир</string>
+    <string name="touch_game_mode_title">Омогући режим за игре</string>
+    <string name="touch_game_mode_summary">Помаже у побољшању играчког процеса оптимизовањем екрана на додир</string>
+    <string name="touch_response_title">Тактилни одзив</string>
+    <string name="touch_response_summary">Управља тактилним одзивом</string>
+    <string name="touch_sensitivity_title">Осетљивост на додир</string>
+    <string name="touch_sensitivity_summary">Управља осетљивошћу за поновљене додире</string>
+    <string name="touch_resistant_title">Неактивна област</string>
+    <string name="touch_resistant_summary">Смањује осетљивост по ивицама ради спречавања случајних додира</string>
     <!-- Button settings -->
-    <string name="button_settings_title">Buttons</string>
-    <string name="button_swap_summary">Swap Navigation Buttons</string>
-    <string name="home_button_extra_settings">Customize home button behavior</string>
+    <string name="button_settings_title">Дугмад</string>
+    <string name="button_swap_summary">Замените места дугмадима за навигацију</string>
+    <string name="home_button_extra_settings">Прилагоди понашање дугмета „Почетна”</string>
     <!-- Assistant button -->
-    <string name="assistant_button_action">Assistant key action</string>
+    <string name="assistant_button_action">Радња за дугме помоћника</string>
     <!-- Stylus pen -->
-    <string name="stylus_title">Stylus Pen</string>
+    <string name="stylus_title">Стилус</string>
     <!-- High Brightness Mode-->
-    <string name="hbm_title">High Brightness Mode</string>
+    <string name="hbm_title">Режим високе осветљености</string>
     <!-- LCD Features -->
-    <string name="lcd_features_title">Additional Display Features</string>
+    <string name="lcd_features_title">Додатне функције екрана</string>
     <string name="lcd_features_summary">High Brightness Mode (HBM) &amp; Content Adaptive Backlight Control (CABC)</string>
     <string name="lcd_features_info">High Brightness Mode (HBM) increases the maximum brightness of the display to improve visibility under sunlight. Increases power consumption.\n\nContent Adaptive Backlight Control (CABC) adjusts display and backlight brightness based on currently shown content, to reduce power consumption without degradation.</string>
     <string name="kernel_not_supported">Kernel did not support this feature</string>
