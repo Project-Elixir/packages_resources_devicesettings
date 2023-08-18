@@ -101,34 +101,34 @@
     <!-- Clear Speaker -->
     <string name="clear_speaker_title">Очисти звучник</string>
     <string name="clear_speaker_summary">Пустите аудио од 30 секунди да бисте очистили звучник</string>
-    <string name="clear_speaker_description">Run this feature once or twice if you find that your speaker is lightly blocked by dust. Set media volume to maximum.\n\nIf the speaker is blocked heavily, run this feature 2-5 times while shaking your device with the speaker facing downwards.</string>
+    <string name="clear_speaker_description">Покрените ову функцију једном или двапут ако вам је звучник мало прљав. Подесите јачину звука на максимум.\n\nАко је звучник много запрљан, покрените функцију од два до пет пута, тресући уређај са звучником окренутим надоле.</string>
     <!-- Moto Actions - Title and summary -->
-    <string name="moto_actions_title">Moto Actions</string>
+    <string name="moto_actions_title">Moto покрети</string>
     <!-- Device gestures -->
-    <string name="device_gestures_title">Device gestures</string>
-    <string name="device_gestures_summary">Manage device gestures</string>
+    <string name="device_gestures_title">Покрети уређаја</string>
+    <string name="device_gestures_summary">Управљајте покретима уређаја</string>
     <!-- Ambient display gestures -->
-    <string name="ambient_display_manage_summary">Manage ambient display gestures</string>
+    <string name="ambient_display_manage_summary">Управљајте покретима амбијенталног екрана</string>
     <!-- Fingerprint gestures -->
-    <string name="fingerprint_gestures_title">Fingerprint gestures</string>
-    <string name="fingerprint_gestures_summary">Use fingerprint gestures</string>
-    <string name="fingerprint_gestures_manage_summary">Manage fingerprint gestures</string>
-    <string name="fingerprint_actions_screenon">Actions with screen on</string>
+    <string name="fingerprint_gestures_title">Покрети сензора за отисак прста</string>
+    <string name="fingerprint_gestures_summary">Користи покрете сензора за отисак прста</string>
+    <string name="fingerprint_gestures_manage_summary">Управљајте покретима сензора за отисак прста</string>
+    <string name="fingerprint_actions_screenon">Радње са укљученим екраном</string>
     <!-- Fingerprint gestures screen off -->
-    <string name="fingerprint_gestures_screenoff_title">Fingerprint gestures when screen off</string>
-    <string name="fingerprint_gestures_screenoff_summary">Use fingerprint gestures when screen off.\n\nFingerprint unlocking must be disabled to use this feature.</string>
-    <string name="fingerprint_actions_screenoff">Actions with screen off</string>
+    <string name="fingerprint_gestures_screenoff_title">Покрети сензора за отисак прста при искљученом екрану</string>
+    <string name="fingerprint_gestures_screenoff_summary">Користите покрете сензора за отисак прста при искљученом екрану.\n\nОткључавање отиском прста мора бити онемогућено да бисте користили ову функцију.</string>
+    <string name="fingerprint_actions_screenoff">Радње са искљученим екраном</string>
     <!-- Actions -->
-    <string name="action_home">Home</string>
-    <string name="action_power">Screen on/off</string>
-    <string name="action_wake">Wake</string>
-    <string name="action_back">Back</string>
-    <string name="action_recents">Recents</string>
-    <string name="action_last_app">Last app</string>
-    <string name="action_volume_up">Volume up</string>
-    <string name="action_volume_down">Volume down</string>
-    <string name="action_voice_assistant">Voice assistant</string>
-    <string name="action_play_pause">Play/pause</string>
+    <string name="action_home">Почетна</string>
+    <string name="action_power">Укључи/искључи екран</string>
+    <string name="action_wake">Пробуди</string>
+    <string name="action_back">Назад</string>
+    <string name="action_recents">Недавно</string>
+    <string name="action_last_app">Последња апликација</string>
+    <string name="action_volume_up">Појачавање звука</string>
+    <string name="action_volume_down">Утишавање звука</string>
+    <string name="action_voice_assistant">Гласовни помоћник</string>
+    <string name="action_play_pause">Пусти/паузирај</string>
     <string name="action_previous_track">Previous track</string>
     <string name="action_next_track">Next track</string>
     <string name="action_flashlight">Flashlight on/off</string>
