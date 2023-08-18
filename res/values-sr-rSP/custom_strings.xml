@@ -90,17 +90,17 @@
     <string name="popup_camera_tip">Пажња</string>
     <string name="popup_camera_takeback_failed_times_calibrate">Није могуће затворити предњу камеру неколико пута. Пробајте да је калибришете.</string>
     <string name="popup_camera_popup_failed_times_calibrate">Није могуће отворити предњу камеру неколико пута. Пробајте да је калибришете.</string>
-    <string name="popup_camera_calibrate_running">Front camera cannot be used during calibration.</string>
-    <string name="popup_camera_calibrate_now">Calibrate</string>
-    <string name="popup_camera_calibrate_failed">Couldn\'t calibrate</string>
-    <string name="popup_camera_calibrate_success">Calibrated successfully. You can open the front camera now.</string>
-    <string name="stop_operate_camera_frequently">You\'re opening the front camera too frequently.</string>
-    <string name="takeback_camera_front_failed">Couldn\'t close front camera. Try again.</string>
-    <string name="popup_camera_front_failed">Couldn\'t open front camera. Try again.</string>
-    <string name="popup_camera_proximity_obstructed">Remove your hand from the proximity sensor to open the front camera...</string>
+    <string name="popup_camera_calibrate_running">Предња камера се не може користити током калибрације.</string>
+    <string name="popup_camera_calibrate_now">Калибриши</string>
+    <string name="popup_camera_calibrate_failed">Калибрација није успела</string>
+    <string name="popup_camera_calibrate_success">Калибрација је успела. Сада можете да отворите предњу камеру.</string>
+    <string name="stop_operate_camera_frequently">Превише често отварате предњу камеру.</string>
+    <string name="takeback_camera_front_failed">Није могуће затворити предњу камеру. Покушајте поново.</string>
+    <string name="popup_camera_front_failed">Није могуће отворити предњу камеру. Покушајте поново.</string>
+    <string name="popup_camera_proximity_obstructed">Склоните руку са сензора близине да бисте отворили предњу камеру.</string>
     <!-- Clear Speaker -->
-    <string name="clear_speaker_title">Clear speaker</string>
-    <string name="clear_speaker_summary">Play a 30-second audio to clear the speaker</string>
+    <string name="clear_speaker_title">Очисти звучник</string>
+    <string name="clear_speaker_summary">Пустите аудио од 30 секунди да бисте очистили звучник</string>
     <string name="clear_speaker_description">Run this feature once or twice if you find that your speaker is lightly blocked by dust. Set media volume to maximum.\n\nIf the speaker is blocked heavily, run this feature 2-5 times while shaking your device with the speaker facing downwards.</string>
     <!-- Moto Actions - Title and summary -->
     <string name="moto_actions_title">Moto Actions</string>
