@@ -218,35 +218,35 @@
     <string name="hbm_title">Режим високе осветљености</string>
     <!-- LCD Features -->
     <string name="lcd_features_title">Додатне функције екрана</string>
-    <string name="lcd_features_summary">High Brightness Mode (HBM) &amp; Content Adaptive Backlight Control (CABC)</string>
-    <string name="lcd_features_info">High Brightness Mode (HBM) increases the maximum brightness of the display to improve visibility under sunlight. Increases power consumption.\n\nContent Adaptive Backlight Control (CABC) adjusts display and backlight brightness based on currently shown content, to reduce power consumption without degradation.</string>
-    <string name="kernel_not_supported">Kernel did not support this feature</string>
-    <string name="lcd_hbm_title">High Brightness Mode</string>
-    <string name="lcd_hbm_summary">Increase screen brightness under sunlight</string>
+    <string name="lcd_features_summary">Режим високе осветљености (HBM) и прилагодљиво позадинско осветљење (CABC)</string>
+    <string name="lcd_features_info">Режим високе осветљености (HBM) повећава максималну осветљеност екрана како би се побољшала видљивост на сунчевој светлости. Повећава потрошњу батерије.\n\nПрилагодљиво позадинско осветљење (CABC) подешава позадинско осветљење на основу приказаног садржаја како би се смањила потрошња батерије без губитка квалитета.</string>
+    <string name="kernel_not_supported">Језгро не подржава ову функцију</string>
+    <string name="lcd_hbm_title">Режим високе осветљености</string>
+    <string name="lcd_hbm_summary">Повећава осветљеност екрана на сунчевој светлости</string>
     <string name="lcd_hbm_tile_title">HBM</string>
-    <string name="lcd_hbm_title_enabled">Enabled</string>
-    <string name="lcd_hbm_title_disabled">Disabled</string>
-    <string name="lcd_cabc_title">Content Adaptive Backlight Control</string>
+    <string name="lcd_hbm_title_enabled">Омогућено</string>
+    <string name="lcd_hbm_title_disabled">Онемогућено</string>
+    <string name="lcd_cabc_title">Прилагодљиво позадинско осветљење</string>
     <string name="lcd_cabc_tile_title">CABC</string>
-    <string name="lcd_cabc_off">Off</string>
-    <string name="lcd_cabc_low">Low (UI)</string>
-    <string name="lcd_cabc_medium">Medium (Videos)</string>
-    <string name="lcd_cabc_high">High (Images)</string>
+    <string name="lcd_cabc_off">Искључено</string>
+    <string name="lcd_cabc_low">Ниско (интерфејс)</string>
+    <string name="lcd_cabc_medium">Средње (видео)</string>
+    <string name="lcd_cabc_high">Високо (слике)</string>
     <!-- Always on brightness -->
-    <string name="doze_brightness_title">Always on brightness</string>
-    <string name="doze_brightness_summary">%s mode is enabled</string>
-    <string name="doze_brightness_low">Low brightness</string>
-    <string name="doze_brightness_high">High brightness</string>
-    <string name="doze_brightness_adaptive">Adaptive brightness</string>
+    <string name="doze_brightness_title">Осветљеност увек укљученог екрана</string>
+    <string name="doze_brightness_summary">%s режим је омогућен</string>
+    <string name="doze_brightness_low">Ниска осветљеност</string>
+    <string name="doze_brightness_high">Висока осветљеност</string>
+    <string name="doze_brightness_adaptive">Прилагодљива осветљеност</string>
     <!-- Refresh Rate per-app -->
-    <string name="refresh_title">Refresh rate per-app</string>
-    <string name="refresh_summary">Set a specific refresh rate for each application</string>
-    <string name="refresh_default">Default</string>
-    <string name="refresh_low">Low (30Hz)</string>
-    <string name="refresh_medium">Medium (60Hz)</string>
-    <string name="refresh_high">High (90Hz)</string>
-    <string name="refresh_extreme">Extreme (120Hz)</string>
+    <string name="refresh_title">Учесталост освежавања по апликацији</string>
+    <string name="refresh_summary">Поставите одређену учесталост освежавања за сваку апликацију</string>
+    <string name="refresh_default">Подразумевана</string>
+    <string name="refresh_low">Ниска (30 Hz)</string>
+    <string name="refresh_medium">Средња (60 Hz)</string>
+    <string name="refresh_high">Висока (90 Hz)</string>
+    <string name="refresh_extreme">Највиша (120 Hz)</string>
     <!-- Powershare -->
-    <string name="powershare_enable_title">Battery Share</string>
-    <string name="powershare_enable_summary">Charge other devices by placing them on the back of your phone</string>
+    <string name="powershare_enable_title">Дељење батерије</string>
+    <string name="powershare_enable_summary">Пуните друге уређаје тако што ћете их ставити на полеђину телефона</string>
 </resources>
