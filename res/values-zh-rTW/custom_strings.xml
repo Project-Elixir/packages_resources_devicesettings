@@ -172,15 +172,15 @@
     <string name="notification_slider_mode_total_silence">Total silence</string>
     <string name="notification_slider_mode_alarms_only">Alarms only</string>
     <string name="notification_slider_mode_priority_only">Priority only</string>
-    <string name="notification_slider_mode_silent">Silent</string>
-    <string name="notification_slider_mode_vibrate">Vibrate</string>
-    <string name="notification_slider_mode_none">Normal</string>
+    <string name="notification_slider_mode_silent">靜音</string>
+    <string name="notification_slider_mode_vibrate">震動</string>
+    <string name="notification_slider_mode_none">正常</string>
     <!-- Thermal profiles -->
-    <string name="thermal_title">Optimization profiles</string>
-    <string name="thermal_summary">Adjust per-app profiles for optimum performance</string>
-    <string name="thermal_default">No optimization</string>
+    <string name="thermal_title">最佳化配置</string>
+    <string name="thermal_summary">調整個別應用程式的配置以獲得最佳效能</string>
+    <string name="thermal_default">不最佳化</string>
     <string name="thermal_benchmark">Performance</string>
-    <string name="thermal_browser">Browser</string>
+    <string name="thermal_browser">瀏覽器</string>
     <string name="thermal_camera">Camera</string>
     <string name="thermal_dialer">Dialer</string>
     <string name="thermal_gaming">Games</string>
@@ -190,8 +190,8 @@
     <string name="raise_to_wake_gesture_summary">Wake up the device instead of pulsing notification</string>
     <!-- Refresh Rate Settings -->
     <string name="device_min_refresh_rate">Minimum refresh rate</string>
-    <string name="device_power_save_refresh_rate">Save battery automatically</string>
-    <string name="device_power_save_refresh_rate_switch">Automatically lower refresh rate when battery saver is active</string>
+    <string name="device_power_save_refresh_rate">自動開啟省電模式</string>
+    <string name="device_power_save_refresh_rate_switch">當省電模式開啟時，將自動降低螢幕更新率</string>
     <string name="refresh_rate_settings_title">Screen refresh rate</string>
     <string name="refresh_rate_settings_summary">Adjust screen refresh rate</string>
     <string name="refresh_rate_tile_title">Refresh Rate</string>
@@ -224,8 +224,8 @@
     <string name="lcd_hbm_title">High Brightness Mode</string>
     <string name="lcd_hbm_summary">Increase screen brightness under sunlight</string>
     <string name="lcd_hbm_tile_title">HBM</string>
-    <string name="lcd_hbm_title_enabled">Enabled</string>
-    <string name="lcd_hbm_title_disabled">Disabled</string>
+    <string name="lcd_hbm_title_enabled">已啟用</string>
+    <string name="lcd_hbm_title_disabled">已停用</string>
     <string name="lcd_cabc_title">Content Adaptive Backlight Control</string>
     <string name="lcd_cabc_tile_title">CABC</string>
     <string name="lcd_cabc_off">Off</string>
@@ -235,18 +235,18 @@
     <!-- Always on brightness -->
     <string name="doze_brightness_title">Always on brightness</string>
     <string name="doze_brightness_summary">%s mode is enabled</string>
-    <string name="doze_brightness_low">Low brightness</string>
-    <string name="doze_brightness_high">High brightness</string>
-    <string name="doze_brightness_adaptive">Adaptive brightness</string>
+    <string name="doze_brightness_low">低亮度</string>
+    <string name="doze_brightness_high">高亮度</string>
+    <string name="doze_brightness_adaptive">自動調整螢幕亮度</string>
     <!-- Refresh Rate per-app -->
-    <string name="refresh_title">Refresh rate per-app</string>
-    <string name="refresh_summary">Set a specific refresh rate for each application</string>
-    <string name="refresh_default">Default</string>
-    <string name="refresh_low">Low (30Hz)</string>
-    <string name="refresh_medium">Medium (60Hz)</string>
-    <string name="refresh_high">High (90Hz)</string>
-    <string name="refresh_extreme">Extreme (120Hz)</string>
+    <string name="refresh_title">個別應用程式螢幕更新率</string>
+    <string name="refresh_summary">為個別的應用程式設定螢幕更新率</string>
+    <string name="refresh_default">預設</string>
+    <string name="refresh_low">低 (30Hz)</string>
+    <string name="refresh_medium">中 (60Hz)</string>
+    <string name="refresh_high">高 (90Hz)</string>
+    <string name="refresh_extreme">極致 (120Hz)</string>
     <!-- Powershare -->
-    <string name="powershare_enable_title">Battery Share</string>
-    <string name="powershare_enable_summary">Charge other devices by placing them on the back of your phone</string>
+    <string name="powershare_enable_title">電力分享</string>
+    <string name="powershare_enable_summary">將其他裝置放在您的裝置背面，就能開始充電</string>
 </resources>
