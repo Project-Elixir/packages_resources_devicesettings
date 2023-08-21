@@ -181,7 +181,7 @@
     <string name="thermal_default">不最佳化</string>
     <string name="thermal_benchmark">Performance</string>
     <string name="thermal_browser">瀏覽器</string>
-    <string name="thermal_camera">Camera</string>
+    <string name="thermal_camera">相機</string>
     <string name="thermal_dialer">Dialer</string>
     <string name="thermal_gaming">Games</string>
     <string name="thermal_streaming">Streaming applications</string>
