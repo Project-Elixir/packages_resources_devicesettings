@@ -71,15 +71,15 @@
     <string name="dirac_preset_soft_treble">Soft Treble</string>
     <!-- Dirac Scene Selection -->
     <string name="music_headset_scenario_select">Select scene</string>
-    <string name="music_headset_scenario_intelligent">Smart</string>
-    <string name="music_headset_scenario_music">Music</string>
-    <string name="music_headset_scenario_video">Video</string>
-    <string name="music_headset_scenario_vocal">Voice</string>
+    <string name="music_headset_scenario_intelligent">지능적인</string>
+    <string name="music_headset_scenario_music">음악</string>
+    <string name="music_headset_scenario_video">비디오</string>
+    <string name="music_headset_scenario_vocal">보컬</string>
     <!-- Popup camera settings -->
-    <string name="popup_settings_title">Pop-up camera settings</string>
-    <string name="popup_led_title">Camera LED</string>
-    <string name="popup_led_summary">Show LED light when the front camera appears and retracts</string>
-    <string name="popup_sound_title">Sound effects</string>
+    <string name="popup_settings_title">팝업 카메라 설정</string>
+    <string name="popup_led_title">카메라 LED</string>
+    <string name="popup_led_summary">전면 카메라가 나타났다가 들어갈 때 LED 조명 표시</string>
+    <string name="popup_sound_title">소리 효과</string>
     <string name="popup_title_muqin">Xylophone</string>
     <string name="popup_title_yingyan">Condor</string>
     <string name="popup_title_mofa">Magic</string>
@@ -111,22 +111,22 @@
     <string name="ambient_display_manage_summary">Manage ambient display gestures</string>
     <!-- Fingerprint gestures -->
     <string name="fingerprint_gestures_title">Fingerprint gestures</string>
-    <string name="fingerprint_gestures_summary">Use fingerprint gestures</string>
-    <string name="fingerprint_gestures_manage_summary">Manage fingerprint gestures</string>
-    <string name="fingerprint_actions_screenon">Actions with screen on</string>
+    <string name="fingerprint_gestures_summary">지문 제스쳐 사용</string>
+    <string name="fingerprint_gestures_manage_summary">지문 제스쳐 관리</string>
+    <string name="fingerprint_actions_screenon">화면이 켜진 상태에서 수행되는 작업</string>
     <!-- Fingerprint gestures screen off -->
     <string name="fingerprint_gestures_screenoff_title">Fingerprint gestures when screen off</string>
     <string name="fingerprint_gestures_screenoff_summary">Use fingerprint gestures when screen off.\n\nFingerprint unlocking must be disabled to use this feature.</string>
-    <string name="fingerprint_actions_screenoff">Actions with screen off</string>
+    <string name="fingerprint_actions_screenoff">화면이 꺼진 상태에서 수행되는 작업</string>
     <!-- Actions -->
-    <string name="action_home">Home</string>
-    <string name="action_power">Screen on/off</string>
-    <string name="action_wake">Wake</string>
-    <string name="action_back">Back</string>
-    <string name="action_recents">Recents</string>
-    <string name="action_last_app">Last app</string>
-    <string name="action_volume_up">Volume up</string>
-    <string name="action_volume_down">Volume down</string>
+    <string name="action_home">홈</string>
+    <string name="action_power">화면 켜기/끄기</string>
+    <string name="action_wake">화면 켜기</string>
+    <string name="action_back">뒤로가기</string>
+    <string name="action_recents">최근 앱보기</string>
+    <string name="action_last_app">마지막으로 사용한 앱</string>
+    <string name="action_volume_up">볼륨 증가</string>
+    <string name="action_volume_down">볼륨 감소</string>
     <string name="action_voice_assistant">음성 어시스턴트</string>
     <string name="action_play_pause">재생/일시정지</string>
     <string name="action_previous_track">이전 트랙</string>
@@ -158,23 +158,23 @@
     <string name="allow_proximity_sensor_title">Allow proximity sensor</string>
     <string name="allow_proximity_sensor_summary">Check the proximity sensor before performing the action</string>
     <!-- OnePlus - General -->
-    <string name="oneplus_advanced_settings">OnePlus Settings</string>
-    <string name="oneplus_advanced_settings_summary">Custom settings for your device</string>
+    <string name="oneplus_advanced_settings">OnePlus Setting</string>
+    <string name="oneplus_advanced_settings_summary">커스텀 설정</string>
     <!-- OnePlus - PanelModes -->
     <string name="panel_modes_settings_title">Panel Modes</string>
-    <string name="panel_modes_settings_summary">Choose a pre-made display calibration</string>
+    <string name="panel_modes_settings_summary">디스플레이 보정 선택</string>
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">Alert slider</string>
     <string name="notification_slider_selection_dialog_title">Action</string>
     <string name="notification_slider_top_position">Top position</string>
     <string name="notification_slider_middle_position">Middle position</string>
     <string name="notification_slider_bottom_position">Bottom position</string>
-    <string name="notification_slider_mode_total_silence">Total silence</string>
-    <string name="notification_slider_mode_alarms_only">Alarms only</string>
-    <string name="notification_slider_mode_priority_only">Priority only</string>
-    <string name="notification_slider_mode_silent">Silent</string>
-    <string name="notification_slider_mode_vibrate">Vibrate</string>
-    <string name="notification_slider_mode_none">Normal</string>
+    <string name="notification_slider_mode_total_silence">전체 무음</string>
+    <string name="notification_slider_mode_alarms_only">알람만</string>
+    <string name="notification_slider_mode_priority_only">우선 순위만</string>
+    <string name="notification_slider_mode_silent">조용한</string>
+    <string name="notification_slider_mode_vibrate">진동</string>
+    <string name="notification_slider_mode_none">보통</string>
     <!-- Thermal profiles -->
     <string name="thermal_title">Optimization profiles</string>
     <string name="thermal_summary">Adjust per-app profiles for optimum performance</string>
@@ -192,33 +192,33 @@
     <string name="device_min_refresh_rate">Minimum refresh rate</string>
     <string name="device_power_save_refresh_rate">Save battery automatically</string>
     <string name="device_power_save_refresh_rate_switch">Automatically lower refresh rate when battery saver is active</string>
-    <string name="refresh_rate_settings_title">Screen refresh rate</string>
-    <string name="refresh_rate_settings_summary">Adjust screen refresh rate</string>
-    <string name="refresh_rate_tile_title">Refresh Rate</string>
-    <string name="refresh_rate_tile_disabled">Battery saver enabled</string>
+    <string name="refresh_rate_settings_title">화면 주사율</string>
+    <string name="refresh_rate_settings_summary">화면 주사율 조정</string>
+    <string name="refresh_rate_tile_title">주사율</string>
+    <string name="refresh_rate_tile_disabled">배터리 세이버 활성화</string>
     <!-- Touch Control Settings -->
-    <string name="touch_control_title">Touch screen optimizations</string>
-    <string name="touch_game_mode_title">Enable game mode</string>
+    <string name="touch_control_title">화면 최적화</string>
+    <string name="touch_game_mode_title">게임 모드 활성화</string>
     <string name="touch_game_mode_summary">Helps to improve the gaming experience by optimizing the touch screen</string>
-    <string name="touch_response_title">Touch response</string>
+    <string name="touch_response_title">터치 응답시간</string>
     <string name="touch_response_summary">Controls touch response</string>
     <string name="touch_sensitivity_title">Touch sensitivity</string>
     <string name="touch_sensitivity_summary">Controls the sensitivity for repeated taps</string>
     <string name="touch_resistant_title">Touch-resistant area</string>
     <string name="touch_resistant_summary">Reduces sensitivity near the edges to prevent accidental touches</string>
     <!-- Button settings -->
-    <string name="button_settings_title">Buttons</string>
+    <string name="button_settings_title">버튼</string>
     <string name="button_swap_summary">Swap Navigation Buttons</string>
     <string name="home_button_extra_settings">Customize home button behavior</string>
     <!-- Assistant button -->
     <string name="assistant_button_action">Assistant key action</string>
     <!-- Stylus pen -->
-    <string name="stylus_title">Stylus Pen</string>
+    <string name="stylus_title">스타일러스 펜</string>
     <!-- High Brightness Mode-->
-    <string name="hbm_title">High Brightness Mode</string>
+    <string name="hbm_title">고휘도 모드</string>
     <!-- LCD Features -->
-    <string name="lcd_features_title">Additional Display Features</string>
-    <string name="lcd_features_summary">High Brightness Mode (HBM) &amp; Content Adaptive Backlight Control (CABC)</string>
+    <string name="lcd_features_title">추가 디스플레이 기능</string>
+    <string name="lcd_features_summary">고휘도 모드(HBM) &amp; 컨텐츠 적응형 백라이트 제어 (CABC)</string>
     <string name="lcd_features_info">High Brightness Mode (HBM) increases the maximum brightness of the display to improve visibility under sunlight. Increases power consumption.\n\nContent Adaptive Backlight Control (CABC) adjusts display and backlight brightness based on currently shown content, to reduce power consumption without degradation.</string>
     <string name="kernel_not_supported">Kernel did not support this feature</string>
     <string name="lcd_hbm_title">High Brightness Mode</string>
@@ -242,11 +242,11 @@
     <string name="refresh_title">Refresh rate per-app</string>
     <string name="refresh_summary">Set a specific refresh rate for each application</string>
     <string name="refresh_default">Default</string>
-    <string name="refresh_low">Low (30Hz)</string>
-    <string name="refresh_medium">Medium (60Hz)</string>
-    <string name="refresh_high">High (90Hz)</string>
-    <string name="refresh_extreme">Extreme (120Hz)</string>
+    <string name="refresh_low">낮음 (30Hz)</string>
+    <string name="refresh_medium">보통 (60Hz)</string>
+    <string name="refresh_high">높음 (90Hz)</string>
+    <string name="refresh_extreme">매우 높음 (120Hz)</string>
     <!-- Powershare -->
-    <string name="powershare_enable_title">Battery Share</string>
-    <string name="powershare_enable_summary">Charge other devices by placing them on the back of your phone</string>
+    <string name="powershare_enable_title">배터리 공유</string>
+    <string name="powershare_enable_summary">다른 기기를 휴대전화 뒷면에 올려 충전하세요</string>
 </resources>
