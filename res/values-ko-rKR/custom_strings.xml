@@ -139,7 +139,7 @@
     <string name="action_email">이메일 앱 열기</string>
     <string name="action_messages">매세지 앱 열기</string>
     <!-- Screen off gestures -->
-    <string name="screen_off_gestures_manage_summary">화면이 꺼져 있을 때 제스쳐 관리</string>
+    <string name="screen_off_gestures_manage_summary">화면이 꺼져 있을 때 동작 관리</string>
     <!-- Swipe/tap/long tap -->
     <string name="swipe_left_dlg_title">왼쪽으로 스와이프 동작 선택</string>
     <string name="swipe_right_dlg_title">오른쪽으로 스와이프 동작 선택</string>
