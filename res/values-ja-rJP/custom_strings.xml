@@ -97,7 +97,7 @@
     <string name="stop_operate_camera_frequently">フロントカメラを開く頻度が頻繁です。</string>
     <string name="takeback_camera_front_failed">フロントカメラを閉じる事ができませんでした。再度試してください。</string>
     <string name="popup_camera_front_failed">フロントカメラを開く事ができませんでした。再度試してください。</string>
-    <string name="popup_camera_proximity_obstructed">接近センサーから手を離すとフロントカメラを開きます...</string>
+    <string name="popup_camera_proximity_obstructed">近接センサーから手を離すとフロントカメラを開きます...</string>
     <!-- Clear Speaker -->
     <string name="clear_speaker_title">スピーカーのクリーニング</string>
     <string name="clear_speaker_summary">30 秒間サウンドを再生してスピーカーをクリーニングします</string>
@@ -155,8 +155,8 @@
     <string name="tap_to_wake">タップで起動</string>
     <string name="tap_to_wake_summary">画面上の任意の箇所をダブルタップでデバイスを起動します</string>
     <!-- Proximity sensor -->
-    <string name="allow_proximity_sensor_title">接近センサーを許可</string>
-    <string name="allow_proximity_sensor_summary">アクションを行う前に接近センサーを確認します</string>
+    <string name="allow_proximity_sensor_title">近接センサーを許可</string>
+    <string name="allow_proximity_sensor_summary">アクションを行う前に近接センサーを確認します</string>
     <!-- OnePlus - General -->
     <string name="oneplus_advanced_settings">OnePlus の設定</string>
     <string name="oneplus_advanced_settings_summary">デバイスに合わせたカスタム設定</string>
