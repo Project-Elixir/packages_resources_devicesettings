@@ -187,7 +187,7 @@
     <string name="thermal_streaming">配信アプリ</string>
     <!-- Raise to wake strings-->
     <string name="raise_to_wake_gesture_title">持ち上げて起動</string>
-    <string name="raise_to_wake_gesture_summary">パルス通知の代わりにデバイスを起動します</string>
+    <string name="raise_to_wake_gesture_summary">点滅の通知の代わりにデバイスを起動します</string>
     <!-- Refresh Rate Settings -->
     <string name="device_min_refresh_rate">最小リフレッシュレート</string>
     <string name="device_power_save_refresh_rate">バッテリーを自動で節約する</string>
