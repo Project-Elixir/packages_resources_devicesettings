@@ -15,7 +15,7 @@
     <!-- DC Dimming settings -->
     <string name="display_title">画面</string>
     <string name="dc_dimming_enable_title">アンチフリッカー</string>
-    <string name="dc_dimming_enable_summary">アンチフリッカーモードは「DC ディミング機能」により低照度下での目の疲労を軽減させます。この機能を使用する事で色精度が低下し、表示の色合いに影響が出る場合があります。</string>
+    <string name="dc_dimming_enable_summary">アンチフリッカーモードは「DC 調光機能」により低照度下での目の疲労を軽減させます。この機能を使用する事で色精度が低下し、表示の色合いに影響が出る場合があります。</string>
     <string name="dc_dimming_enable_summary_not_supported">カーネルがアンチフリッカーに対応していません</string>
     <!-- Dirac settings -->
     <string name="dirac_enable">Mi Sound Enhancer を使用する</string>
@@ -88,12 +88,12 @@
     <string name="popup_title_cangmen">キャビンドア</string>
     <!-- Popup camera strings -->
     <string name="popup_camera_tip">注意事項</string>
-    <string name="popup_camera_takeback_failed_times_calibrate">フロントカメラを閉じる事が何度もできなくなった場合はカメラのキャリブレーションを試してください。</string>
-    <string name="popup_camera_popup_failed_times_calibrate">フロントカメラを複数回開けませんでした。カメラのキャリブレーションを試してください。</string>
-    <string name="popup_camera_calibrate_running">キャリブレーション中はフロントカメラは使用できません。</string>
-    <string name="popup_camera_calibrate_now">キャリブレーション</string>
-    <string name="popup_camera_calibrate_failed">キャリブレーションができませんでした</string>
-    <string name="popup_camera_calibrate_success">キャリブレーションに成功しました。フロントカメラを開く事ができます。</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">フロントカメラを閉じる事が何度もできなくなった場合は、カメラの補正を試してください。</string>
+    <string name="popup_camera_popup_failed_times_calibrate">フロントカメラを複数回開けませんでした。カメラの補正を試してください。</string>
+    <string name="popup_camera_calibrate_running">補正中はフロントカメラを使用できません。</string>
+    <string name="popup_camera_calibrate_now">補正</string>
+    <string name="popup_camera_calibrate_failed">補正ができませんでした</string>
+    <string name="popup_camera_calibrate_success">補正が成功しました。フロントカメラを開く事ができます。</string>
     <string name="stop_operate_camera_frequently">フロントカメラを開く頻度が頻繁です。</string>
     <string name="takeback_camera_front_failed">フロントカメラを閉じる事ができませんでした。再度試してください。</string>
     <string name="popup_camera_front_failed">フロントカメラを開く事ができませんでした。再度試してください。</string>
@@ -162,7 +162,7 @@
     <string name="oneplus_advanced_settings_summary">デバイスに合わせたカスタム設定</string>
     <!-- OnePlus - PanelModes -->
     <string name="panel_modes_settings_title">パネルモード</string>
-    <string name="panel_modes_settings_summary">あらかじめ用意されたディスプレイキャリブレーションを選択します</string>
+    <string name="panel_modes_settings_summary">あらかじめ用意された画面補正を選択します</string>
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">Alert Slider</string>
     <string name="notification_slider_selection_dialog_title">アクション</string>
