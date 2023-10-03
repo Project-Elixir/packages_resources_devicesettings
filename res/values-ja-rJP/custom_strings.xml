@@ -106,13 +106,13 @@
     <string name="moto_actions_title">Moto アクション</string>
     <!-- Device gestures -->
     <string name="device_gestures_title">デバイスジェスチャー</string>
-    <string name="device_gestures_summary">デバイスのジェスチャーを管理</string>
+    <string name="device_gestures_summary">デバイスジェスチャーを管理します</string>
     <!-- Ambient display gestures -->
     <string name="ambient_display_manage_summary">アンビエント表示のジェスチャーを管理します</string>
     <!-- Fingerprint gestures -->
     <string name="fingerprint_gestures_title">指紋認証ジェスチャー</string>
-    <string name="fingerprint_gestures_summary">指紋認証ジェスチャーを使用する</string>
-    <string name="fingerprint_gestures_manage_summary">指紋認証ジェスチャーの管理</string>
+    <string name="fingerprint_gestures_summary">指紋認証ジェスチャーを使用します</string>
+    <string name="fingerprint_gestures_manage_summary">指紋認証ジェスチャーの管理をします</string>
     <string name="fingerprint_actions_screenon">画面点灯時のアクション</string>
     <!-- Fingerprint gestures screen off -->
     <string name="fingerprint_gestures_screenoff_title">画面消灯時の指紋認証ジェスチャー</string>
@@ -139,7 +139,7 @@
     <string name="action_email">メールアプリを開く</string>
     <string name="action_messages">メッセージアプリを開く</string>
     <!-- Screen off gestures -->
-    <string name="screen_off_gestures_manage_summary">画面消灯時のジェスチャーを管理します</string>
+    <string name="screen_off_gestures_manage_summary">画面消灯時のジェスチャーの管理をします</string>
     <!-- Swipe/tap/long tap -->
     <string name="swipe_left_dlg_title">左スワイプ時のアクションを選択</string>
     <string name="swipe_right_dlg_title">右スワイプ時のアクションを選択</string>
