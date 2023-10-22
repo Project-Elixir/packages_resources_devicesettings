@@ -13,28 +13,28 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="display_title">Display</string>
-    <string name="dc_dimming_enable_title">Anti flicker</string>
-    <string name="dc_dimming_enable_summary">Anti flicker mode helps reducing eyestrain in low light conditions by using \"DC dimming\" feature. It might degrade color accuracy and affect the way some items are displayed.</string>
-    <string name="dc_dimming_enable_summary_not_supported">Anti flicker is currently not supported by the kernel</string>
+    <string name="display_title">Ekran</string>
+    <string name="dc_dimming_enable_title">Przeciwodblaskowy</string>
+    <string name="dc_dimming_enable_summary">Tryb zapobiegania migotaniu pomaga zmniejszyć zmęczenie oczu w warunkach słabego oświetlenia dzięki funkcji „przyciemniania DC”. Może to pogorszyć dokładność kolorów i wpłynąć na sposób wyświetlania niektórych elementów.</string>
+    <string name="dc_dimming_enable_summary_not_supported">Funkcja Anti Flicker nie jest obecnie obsługiwana przez Twój kernel</string>
     <!-- Dirac settings -->
-    <string name="dirac_enable">Use Mi Sound Enhancer</string>
-    <string name="dirac_title">Mi Sound Enhancer</string>
-    <string name="dirac_summary">Optimize audio quality</string>
-    <string name="dirac_headset_title">Choose headphones type</string>
-    <string name="dirac_preset_title">Choose a preset</string>
+    <string name="dirac_enable">Użyj wzmacniacza dźwięku Mi</string>
+    <string name="dirac_title">Wzmacniacz dźwięku Mi</string>
+    <string name="dirac_summary">Zoptymalizuj jakość dźwięku</string>
+    <string name="dirac_headset_title">Wybierz typ słuchawek</string>
+    <string name="dirac_preset_title">Wybierz ustawienie wstępne</string>
     <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">Hi-Fi</string>
-    <string name="dirac_hifi_summary">Decrease noise and Distortion and increase audio quality</string>
-    <string name="dirac_hifi_enable_title">Enable Hi-fi</string>
+    <string name="dirac_hifi_summary">Zmniejsz hałas i zniekształcenia oraz zwiększ jakość dźwięku</string>
+    <string name="dirac_hifi_enable_title">Włącz Hi-Fi</string>
     <!-- Dirac settings: Headset types -->
-    <string name="dirac_headset_default">Default</string>
-    <string name="dirac_headset_earbuds">Mi Earbuds</string>
-    <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
+    <string name="dirac_headset_default">Domyślny</string>
+    <string name="dirac_headset_earbuds">Słuchawki douszne</string>
+    <string name="dirac_headset_in_ear_2013">Mi dokanałowe (2013)</string>
     <string name="dirac_headset_piston_1">Mi Piston-1</string>
-    <string name="dirac_headset_general">General</string>
-    <string name="dirac_headset_general_inear">General In-Ear</string>
-    <string name="dirac_headset_piston_basic">Basic Edition</string>
+    <string name="dirac_headset_general">Ogólne</string>
+    <string name="dirac_headset_general_inear">Ogólne douszne</string>
+    <string name="dirac_headset_piston_basic">Wersja podstawowa</string>
     <string name="dirac_headset_piston_2">Mi Piston-2</string>
     <string name="dirac_headset_piston_standard">Standard Edition</string>
     <string name="dirac_headset_headphone">Mi Headphones</string>
