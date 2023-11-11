@@ -13,7 +13,7 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="display_title">Display</string>
+    <string name="display_title">Màn hình</string>
     <string name="dc_dimming_enable_title">Anti flicker</string>
     <string name="dc_dimming_enable_summary">Anti flicker mode helps reducing eyestrain in low light conditions by using \"DC dimming\" feature. It might degrade color accuracy and affect the way some items are displayed.</string>
     <string name="dc_dimming_enable_summary_not_supported">Anti flicker is currently not supported by the kernel</string>
