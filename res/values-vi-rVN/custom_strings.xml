@@ -62,8 +62,8 @@
     <string name="dirac_preset_country">Country</string>
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metal</string>
-    <string name="dirac_preset_bass_booster">Bass Booster</string>
-    <string name="dirac_preset_live">Live</string>
+    <string name="dirac_preset_bass_booster">Bass Tăng Cường</string>
+    <string name="dirac_preset_live">Live </string>
     <string name="dirac_preset_balanced">Cân Bằng</string>
     <string name="dirac_preset_bass_reduction">Giảm âm trầm</string>
     <string name="dirac_preset_treble_reduction">Giảm âm bổng</string>
@@ -88,53 +88,53 @@
     <string name="popup_title_cangmen">Cabin door</string>
     <!-- Popup camera strings -->
     <string name="popup_camera_tip">Attention</string>
-    <string name="popup_camera_takeback_failed_times_calibrate">Couldn\'t close front camera multiple times. Try calibrating the camera.</string>
-    <string name="popup_camera_popup_failed_times_calibrate">Couldn\'t open front camera multiple times. Try calibrating the camera.</string>
-    <string name="popup_camera_calibrate_running">Front camera cannot be used during calibration.</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">Không thể đóng camera trước nhiều lần. Hãy thử hiệu chỉnh máy ảnh.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">Không thể đóng camera trước nhiều lần. Hãy thử hiệu chỉnh máy ảnh.</string>
+    <string name="popup_camera_calibrate_running">Không thể sử dụng camera trước trong quá trình hiệu chỉnh.</string>
     <string name="popup_camera_calibrate_now">Calibrate</string>
-    <string name="popup_camera_calibrate_failed">Couldn\'t calibrate</string>
-    <string name="popup_camera_calibrate_success">Calibrated successfully. You can open the front camera now.</string>
-    <string name="stop_operate_camera_frequently">You\'re opening the front camera too frequently.</string>
-    <string name="takeback_camera_front_failed">Couldn\'t close front camera. Try again.</string>
-    <string name="popup_camera_front_failed">Couldn\'t open front camera. Try again.</string>
-    <string name="popup_camera_proximity_obstructed">Remove your hand from the proximity sensor to open the front camera...</string>
+    <string name="popup_camera_calibrate_failed">Hiệu chỉnh thất bại</string>
+    <string name="popup_camera_calibrate_success">Hiệu chỉnh thành công.</string>
+    <string name="stop_operate_camera_frequently">Bạn mở camera trước quá thường xuyên.</string>
+    <string name="takeback_camera_front_failed">Không đóng được camera trước. Thử lại.</string>
+    <string name="popup_camera_front_failed">Không đóng được camera trước. Thử lại.</string>
+    <string name="popup_camera_proximity_obstructed">Bỏ tay ra khỏi cảm biến tiệm cận để mở camera trước...</string>
     <!-- Clear Speaker -->
-    <string name="clear_speaker_title">Clear speaker</string>
-    <string name="clear_speaker_summary">Play a 30-second audio to clear the speaker</string>
-    <string name="clear_speaker_description">Run this feature once or twice if you find that your speaker is lightly blocked by dust. Set media volume to maximum.\n\nIf the speaker is blocked heavily, run this feature 2-5 times while shaking your device with the speaker facing downwards.</string>
+    <string name="clear_speaker_title">Làm sạch loa</string>
+    <string name="clear_speaker_summary">Phát âm thanh 30 giây để làm sạch loa</string>
+    <string name="clear_speaker_description">Chạy 1-2 lần nếu loa kêu nhỏ hoặc bẩn. Đặt âm lượng ở mức tối đa.\n\nNếu loa quá bẩn hoặc bị tắc, hãy chạy loa 2-5 lần trong khi lắc thiết bị úp xuống.</string>
     <!-- Moto Actions - Title and summary -->
     <string name="moto_actions_title">Moto Actions</string>
     <!-- Device gestures -->
-    <string name="device_gestures_title">Device gestures</string>
-    <string name="device_gestures_summary">Manage device gestures</string>
+    <string name="device_gestures_title">Cử chỉ thiết bị</string>
+    <string name="device_gestures_summary">Quản lý cử chỉ của thiết bị của bạn</string>
     <!-- Ambient display gestures -->
-    <string name="ambient_display_manage_summary">Manage ambient display gestures</string>
+    <string name="ambient_display_manage_summary">Quản lý cử chỉ hiển thị môi trường</string>
     <!-- Fingerprint gestures -->
-    <string name="fingerprint_gestures_title">Fingerprint gestures</string>
-    <string name="fingerprint_gestures_summary">Use fingerprint gestures</string>
-    <string name="fingerprint_gestures_manage_summary">Manage fingerprint gestures</string>
-    <string name="fingerprint_actions_screenon">Actions with screen on</string>
+    <string name="fingerprint_gestures_title">Cử Chỉ Vân Tay</string>
+    <string name="fingerprint_gestures_summary">Sử dụng cử chỉ vân tay</string>
+    <string name="fingerprint_gestures_manage_summary">Quản lý vân tay</string>
+    <string name="fingerprint_actions_screenon">Các thao tác khi màn hình bật</string>
     <!-- Fingerprint gestures screen off -->
-    <string name="fingerprint_gestures_screenoff_title">Fingerprint gestures when screen off</string>
-    <string name="fingerprint_gestures_screenoff_summary">Use fingerprint gestures when screen off.\n\nFingerprint unlocking must be disabled to use this feature.</string>
-    <string name="fingerprint_actions_screenoff">Actions with screen off</string>
+    <string name="fingerprint_gestures_screenoff_title">Cử chỉ vân tay khi màn hình tắt</string>
+    <string name="fingerprint_gestures_screenoff_summary">Sử dụng cử chỉ vân tay khi màn hình tắt.\n\nPhải tắt tính năng mở khóa bằng vân tay để sử dụng tính năng này.</string>
+    <string name="fingerprint_actions_screenoff">Các thao tác khi màn hình tắt</string>
     <!-- Actions -->
     <string name="action_home">Home</string>
-    <string name="action_power">Screen on/off</string>
-    <string name="action_wake">Wake</string>
-    <string name="action_back">Back</string>
-    <string name="action_recents">Recents</string>
+    <string name="action_power">Bật/tắt màn hình</string>
+    <string name="action_wake">Thức</string>
+    <string name="action_back">Lùi</string>
+    <string name="action_recents">Gần Đây</string>
     <string name="action_last_app">Last app</string>
-    <string name="action_volume_up">Volume up</string>
-    <string name="action_volume_down">Volume down</string>
-    <string name="action_voice_assistant">Voice assistant</string>
-    <string name="action_play_pause">Play/pause</string>
-    <string name="action_previous_track">Previous track</string>
-    <string name="action_next_track">Next track</string>
-    <string name="action_flashlight">Flashlight on/off</string>
-    <string name="action_camera">Open camera</string>
-    <string name="action_screenshot">Take screenshot</string>
-    <string name="action_browser">Open browser</string>
+    <string name="action_volume_up">Tăng Âm Lượng</string>
+    <string name="action_volume_down">Giảm Âm Lượng</string>
+    <string name="action_voice_assistant">Trợ lý Giọng Nói</string>
+    <string name="action_play_pause">Chơi/Dừng</string>
+    <string name="action_previous_track">Bài Trước</string>
+    <string name="action_next_track">Kế Tiếp</string>
+    <string name="action_flashlight">Đèn Pin</string>
+    <string name="action_camera">Mở Máy Ảnh</string>
+    <string name="action_screenshot">Chụp Ảnh Màn Hình</string>
+    <string name="action_browser">Trình Duyệt</string>
     <string name="action_dialer">Open dialer</string>
     <string name="action_email">Open email app</string>
     <string name="action_messages">Open messages app</string>
