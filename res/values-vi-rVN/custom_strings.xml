@@ -202,33 +202,33 @@
     <string name="touch_game_mode_summary">Giúp cải thiện trải nghiệm chơi game bằng cách tối ưu hóa màn hình cảm ứng</string>
     <string name="touch_response_title">Phản hồi chạm</string>
     <string name="touch_response_summary">Điều khiển phản ứng chạm</string>
-    <string name="touch_sensitivity_title">Touch sensitivity</string>
-    <string name="touch_sensitivity_summary">Controls the sensitivity for repeated taps</string>
-    <string name="touch_resistant_title">Touch-resistant area</string>
-    <string name="touch_resistant_summary">Reduces sensitivity near the edges to prevent accidental touches</string>
+    <string name="touch_sensitivity_title">Độ nhạy cảm ứng</string>
+    <string name="touch_sensitivity_summary">Kiểm soát độ nhạy cho các lần nhấn lặp lại</string>
+    <string name="touch_resistant_title">Khu vực chống cảm ứng</string>
+    <string name="touch_resistant_summary">Giảm độ nhạy ở gần các cạnh để tránh chạm vô tình</string>
     <!-- Button settings -->
-    <string name="button_settings_title">Buttons</string>
-    <string name="button_swap_summary">Swap Navigation Buttons</string>
-    <string name="home_button_extra_settings">Customize home button behavior</string>
+    <string name="button_settings_title">Nút</string>
+    <string name="button_swap_summary">Hoán đổi các nút điều hướng</string>
+    <string name="home_button_extra_settings">Tùy chỉnh hành vi của nút home</string>
     <!-- Assistant button -->
-    <string name="assistant_button_action">Assistant key action</string>
+    <string name="assistant_button_action">Hành động của phím Trợ lý</string>
     <!-- Stylus pen -->
-    <string name="stylus_title">Stylus Pen</string>
+    <string name="stylus_title">Bút cảm ứng</string>
     <!-- High Brightness Mode-->
-    <string name="hbm_title">High Brightness Mode</string>
+    <string name="hbm_title">Chế độ độ sáng cao</string>
     <!-- LCD Features -->
-    <string name="lcd_features_title">Additional Display Features</string>
-    <string name="lcd_features_summary">High Brightness Mode (HBM) &amp; Content Adaptive Backlight Control (CABC)</string>
-    <string name="lcd_features_info">High Brightness Mode (HBM) increases the maximum brightness of the display to improve visibility under sunlight. Increases power consumption.\n\nContent Adaptive Backlight Control (CABC) adjusts display and backlight brightness based on currently shown content, to reduce power consumption without degradation.</string>
-    <string name="kernel_not_supported">Kernel did not support this feature</string>
-    <string name="lcd_hbm_title">High Brightness Mode</string>
-    <string name="lcd_hbm_summary">Increase screen brightness under sunlight</string>
+    <string name="lcd_features_title">Tính năng hiển thị bổ sung</string>
+    <string name="lcd_features_summary">Chế độ độ sáng cao (HBM) &amp; Điều khiển đèn nền thích ứng nội dung (CABC)</string>
+    <string name="lcd_features_info">Chế độ độ sáng cao (HBM) tăng độ sáng tối đa của màn hình để cải thiện khả năng hiển thị dưới ánh sáng mặt trời. Tăng mức tiêu thụ điện năng.\n\nĐiều khiển đèn nền thích ứng nội dung (CABC) điều chỉnh độ hiển thị.</string>
+    <string name="kernel_not_supported">Kernel không hỗ trợ tính năng này</string>
+    <string name="lcd_hbm_title">Chế độ độ sáng cao</string>
+    <string name="lcd_hbm_summary">Tăng độ sáng màn hình dưới ánh nắng mặt trời</string>
     <string name="lcd_hbm_tile_title">HBM</string>
-    <string name="lcd_hbm_title_enabled">Enabled</string>
-    <string name="lcd_hbm_title_disabled">Disabled</string>
-    <string name="lcd_cabc_title">Content Adaptive Backlight Control</string>
+    <string name="lcd_hbm_title_enabled">Đã bật</string>
+    <string name="lcd_hbm_title_disabled">Đã tắt</string>
+    <string name="lcd_cabc_title">Kiểm soát đèn nền thích ứng nội dung</string>
     <string name="lcd_cabc_tile_title">CABC</string>
-    <string name="lcd_cabc_off">Off</string>
+    <string name="lcd_cabc_off">Tắt</string>
     <string name="lcd_cabc_low">Low (UI)</string>
     <string name="lcd_cabc_medium">Medium (Videos)</string>
     <string name="lcd_cabc_high">High (Images)</string>
