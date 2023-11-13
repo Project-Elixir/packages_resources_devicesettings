@@ -229,8 +229,8 @@
     <string name="lcd_cabc_title">Kiểm soát đèn nền thích ứng nội dung</string>
     <string name="lcd_cabc_tile_title">CABC</string>
     <string name="lcd_cabc_off">Tắt</string>
-    <string name="lcd_cabc_low">Low (UI)</string>
-    <string name="lcd_cabc_medium">Medium (Videos)</string>
+    <string name="lcd_cabc_low">Nhỏ (UI)</string>
+    <string name="lcd_cabc_medium">Vừa (Video)</string>
     <string name="lcd_cabc_high">High (Images)</string>
     <!-- Always on brightness -->
     <string name="doze_brightness_title">Always on brightness</string>
