@@ -231,22 +231,22 @@
     <string name="lcd_cabc_off">Tắt</string>
     <string name="lcd_cabc_low">Nhỏ (UI)</string>
     <string name="lcd_cabc_medium">Vừa (Video)</string>
-    <string name="lcd_cabc_high">High (Images)</string>
+    <string name="lcd_cabc_high">Cao (Images)</string>
     <!-- Always on brightness -->
-    <string name="doze_brightness_title">Always on brightness</string>
-    <string name="doze_brightness_summary">%s mode is enabled</string>
-    <string name="doze_brightness_low">Low brightness</string>
-    <string name="doze_brightness_high">High brightness</string>
-    <string name="doze_brightness_adaptive">Adaptive brightness</string>
+    <string name="doze_brightness_title">Luôn ở độ sáng</string>
+    <string name="doze_brightness_summary">chế độ %s đã được bật</string>
+    <string name="doze_brightness_low">Độ sáng thấp</string>
+    <string name="doze_brightness_high">Độ sáng cao</string>
+    <string name="doze_brightness_adaptive">Độ sáng thích ứng</string>
     <!-- Refresh Rate per-app -->
-    <string name="refresh_title">Refresh rate per-app</string>
-    <string name="refresh_summary">Set a specific refresh rate for each application</string>
-    <string name="refresh_default">Default</string>
-    <string name="refresh_low">Low (30Hz)</string>
-    <string name="refresh_medium">Medium (60Hz)</string>
-    <string name="refresh_high">High (90Hz)</string>
-    <string name="refresh_extreme">Extreme (120Hz)</string>
+    <string name="refresh_title">Tốc độ làm mới trên mỗi ứng dụng</string>
+    <string name="refresh_summary">Đặt tốc độ làm mới cụ thể cho từng ứng dụng</string>
+    <string name="refresh_default">Mặc định</string>
+    <string name="refresh_low">Thấp (30Hz)</string>
+    <string name="refresh_medium">Mặc định (60Hz)</string>
+    <string name="refresh_high">Cao (90Hz)</string>
+    <string name="refresh_extreme">Cực Độ (120Hz)</string>
     <!-- Powershare -->
-    <string name="powershare_enable_title">Battery Share</string>
-    <string name="powershare_enable_summary">Charge other devices by placing them on the back of your phone</string>
+    <string name="powershare_enable_title">Chia sẻ pin</string>
+    <string name="powershare_enable_summary">Sạc các thiết bị khác bằng cách đặt chúng ở mặt sau điện thoại của bạn</string>
 </resources>
