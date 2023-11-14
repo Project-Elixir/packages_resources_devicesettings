@@ -119,22 +119,22 @@
     <string name="fingerprint_gestures_screenoff_summary">Sử dụng cử chỉ vân tay khi màn hình tắt.\n\nPhải tắt tính năng mở khóa bằng vân tay để sử dụng tính năng này.</string>
     <string name="fingerprint_actions_screenoff">Các thao tác khi màn hình tắt</string>
     <!-- Actions -->
-    <string name="action_home">Trang chủ</string>
+    <string name="action_home">Home</string>
     <string name="action_power">Bật/tắt màn hình</string>
     <string name="action_wake">Thức</string>
-    <string name="action_back">Lùi</string>
+    <string name="action_back">Trở về</string>
     <string name="action_recents">Đa nhiệm</string>
-    <string name="action_last_app">Last app</string>
-    <string name="action_volume_up">Tăng Âm Lượng</string>
-    <string name="action_volume_down">Giảm Âm Lượng</string>
-    <string name="action_voice_assistant">Trợ lý Giọng Nói</string>
-    <string name="action_play_pause">Chơi/Dừng</string>
-    <string name="action_previous_track">Bài Trước</string>
-    <string name="action_next_track">Kế Tiếp</string>
-    <string name="action_flashlight">Đèn Pin</string>
-    <string name="action_camera">Mở Máy Ảnh</string>
-    <string name="action_screenshot">Chụp Ảnh Màn Hình</string>
-    <string name="action_browser">Trình Duyệt</string>
+    <string name="action_last_app">Ứng dụng cuối</string>
+    <string name="action_volume_up">Tăng âm lượng</string>
+    <string name="action_volume_down">Giảm âm lượng</string>
+    <string name="action_voice_assistant">Trợ lý giọng nói</string>
+    <string name="action_play_pause">Phát/Dừng</string>
+    <string name="action_previous_track">Bài trước</string>
+    <string name="action_next_track">Bài sau</string>
+    <string name="action_flashlight">Bật/tắt đèn pin</string>
+    <string name="action_camera">Mở máy ảnh</string>
+    <string name="action_screenshot">Chụp màn hình</string>
+    <string name="action_browser">Mở trình duyệt</string>
     <string name="action_dialer">Mở trình quay số</string>
     <string name="action_email">Mở ứng dụng email</string>
     <string name="action_messages">Mở ứng dụng tin nhắn</string>
@@ -147,10 +147,10 @@
     <string name="swipe_down_dlg_title">Chọn hành động vuốt xuống</string>
     <string name="tap_title">Nhấn một lần</string>
     <string name="double_tap_title">Nhấn đúp</string>
-    <string name="long_tap_title">Nhấn lâu</string>
+    <string name="long_tap_title">Nhấn giữ</string>
     <string name="tap_dlg_title">Chọn hành động cho một lần nhấn</string>
-    <string name="double_tap_dlg_title">Chọn hành động để nhấn đúp</string>
-    <string name="long_tap_dlg_title">Chọn hành động để nhấn lâu</string>
+    <string name="double_tap_dlg_title">Chọn hành động khi nhấn đúp</string>
+    <string name="long_tap_dlg_title">Chọn hành động khi nhấn giữ</string>
     <!-- Double tap to wake -->
     <string name="tap_to_wake">Nhấn để đánh thức</string>
     <string name="tap_to_wake_summary">Nhấn đúp vào bất kỳ đâu trên màn hình để đánh thức thiết bị</string>
@@ -162,11 +162,11 @@
     <string name="oneplus_advanced_settings_summary">Cài đặt tùy chỉnh cho thiết bị của bạn</string>
     <!-- OnePlus - PanelModes -->
     <string name="panel_modes_settings_title">Chế độ bảng điều khiển</string>
-    <string name="panel_modes_settings_summary">Chọn hiệu chỉnh màn hình được tạo sẵn</string>
+    <string name="panel_modes_settings_summary">Chọn hiệu chỉnh màn hình có sẵn</string>
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">Thanh trượt cảnh báo</string>
     <string name="notification_slider_selection_dialog_title">Hành động</string>
-    <string name="notification_slider_top_position">Vị trí hàng đầu</string>
+    <string name="notification_slider_top_position">Vị trí trên cùng</string>
     <string name="notification_slider_middle_position">Vị trí giữa</string>
     <string name="notification_slider_bottom_position">Vị trí dưới cùng</string>
     <string name="notification_slider_mode_total_silence">Hoàn toàn im lặng</string>
@@ -187,14 +187,14 @@
     <string name="thermal_streaming">Truyền phát các ứng dụng</string>
     <!-- Raise to wake strings-->
     <string name="raise_to_wake_gesture_title">Nâng lên để đánh thức</string>
-    <string name="raise_to_wake_gesture_summary">Đánh thức thiết bị thay vì thông báo xung</string>
+    <string name="raise_to_wake_gesture_summary">Đánh thức thiết bị thay vì xung thông báo</string>
     <!-- Refresh Rate Settings -->
     <string name="device_min_refresh_rate">Tốc độ làm mới tối thiểu</string>
     <string name="device_power_save_refresh_rate">Tiết kiệm pin tự động</string>
     <string name="device_power_save_refresh_rate_switch">Tự động giảm tốc độ làm mới khi trình tiết kiệm pin được kích hoạt</string>
-    <string name="refresh_rate_settings_title">Tốc độ làm tươi màn hình</string>
+    <string name="refresh_rate_settings_title">Tốc độ làm mới màn hình</string>
     <string name="refresh_rate_settings_summary">Điều chỉnh tốc độ làm mới màn hình</string>
-    <string name="refresh_rate_tile_title">Tốc độ làm tươi</string>
+    <string name="refresh_rate_tile_title">Tốc độ làm mới</string>
     <string name="refresh_rate_tile_disabled">Đã bật trình tiết kiệm pin</string>
     <!-- Touch Control Settings -->
     <string name="touch_control_title">Tối ưu hóa màn hình cảm ứng</string>
@@ -204,7 +204,7 @@
     <string name="touch_response_summary">Điều khiển phản ứng chạm</string>
     <string name="touch_sensitivity_title">Độ nhạy cảm ứng</string>
     <string name="touch_sensitivity_summary">Kiểm soát độ nhạy cho các lần nhấn lặp lại</string>
-    <string name="touch_resistant_title">Khu vực chống cảm ứng</string>
+    <string name="touch_resistant_title">Khu vực chặn cảm ứng</string>
     <string name="touch_resistant_summary">Giảm độ nhạy ở gần các cạnh để tránh chạm vô tình</string>
     <!-- Button settings -->
     <string name="button_settings_title">Nút</string>
@@ -219,19 +219,19 @@
     <!-- LCD Features -->
     <string name="lcd_features_title">Tính năng hiển thị bổ sung</string>
     <string name="lcd_features_summary">Chế độ độ sáng cao (HBM) &amp; Điều khiển đèn nền thích ứng nội dung (CABC)</string>
-    <string name="lcd_features_info">Chế độ độ sáng cao (HBM) tăng độ sáng tối đa của màn hình để cải thiện khả năng hiển thị dưới ánh sáng mặt trời. Tăng mức tiêu thụ điện năng.\n\nĐiều khiển đèn nền thích ứng nội dung (CABC) điều chỉnh độ hiển thị.</string>
+    <string name="lcd_features_info">Chế độ độ sáng cao (HBM) tăng độ sáng tối đa của màn hình để cải thiện khả năng hiển thị dưới ánh sáng mặt trời. Tăng mức tiêu thụ điện năng.\n\nĐiều khiển đèn nền thích ứng nội dung (CABC) điều chỉnh độ sáng màn hình và đèn nền dựa trên nội dung hiện đang hiển thị để giảm mức tiêu thụ điện năng.</string>
     <string name="kernel_not_supported">Kernel không hỗ trợ tính năng này</string>
     <string name="lcd_hbm_title">Chế độ độ sáng cao</string>
     <string name="lcd_hbm_summary">Tăng độ sáng màn hình dưới ánh nắng mặt trời</string>
-    <string name="lcd_hbm_tile_title">HBM</string>
+    <string name="lcd_hbm_tile_title">Chế độ độ sáng cao</string>
     <string name="lcd_hbm_title_enabled">Đã bật</string>
-    <string name="lcd_hbm_title_disabled">Đã tắt</string>
+    <string name="lcd_hbm_title_disabled">Tắt</string>
     <string name="lcd_cabc_title">Kiểm soát đèn nền thích ứng nội dung</string>
-    <string name="lcd_cabc_tile_title">CABC</string>
+    <string name="lcd_cabc_tile_title">Điều khiển đèn nền thích ứng nội dung</string>
     <string name="lcd_cabc_off">Tắt</string>
-    <string name="lcd_cabc_low">Nhỏ (UI)</string>
-    <string name="lcd_cabc_medium">Vừa (Video)</string>
-    <string name="lcd_cabc_high">Cao (Images)</string>
+    <string name="lcd_cabc_low">Thấp (Giao diện người dùng)</string>
+    <string name="lcd_cabc_medium">Trung bình (Video)</string>
+    <string name="lcd_cabc_high">Cao (Hình ảnh)</string>
     <!-- Always on brightness -->
     <string name="doze_brightness_title">Luôn ở độ sáng</string>
     <string name="doze_brightness_summary">chế độ %s đã được bật</string>
@@ -243,7 +243,7 @@
     <string name="refresh_summary">Đặt tốc độ làm mới cụ thể cho từng ứng dụng</string>
     <string name="refresh_default">Mặc định</string>
     <string name="refresh_low">Thấp (30Hz)</string>
-    <string name="refresh_medium">Mặc định (60Hz)</string>
+    <string name="refresh_medium">Trung bình (60Hz)</string>
     <string name="refresh_high">Cao (90Hz)</string>
     <string name="refresh_extreme">Cực Độ (120Hz)</string>
     <!-- Powershare -->
